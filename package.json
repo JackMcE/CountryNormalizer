@@ -1,0 +1,20 @@
+{
+  "name": "countrynormalizer",
+  "module": "index.ts",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "extract-data": "bun ./tools/build-data.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jest": "^30.0.0",
+    "@types/lodash": "^4.17.24",
+    "csvtojson": "^2.0.14",
+    "jest": "^30.2.0",
+    "lodash": "^4.17.23"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

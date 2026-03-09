@@ -1,0 +1,247 @@
+alpha_2,continent,calling_codes
+AD,Europe,376
+AE,Asia,971
+AF,Asia,93
+AG,North America,1,268
+AI,North America,1,264
+AL,Europe,355
+AM,Asia,374
+AO,Africa,244
+AQ,Antarctica,672
+AR,South America,54
+AS,Oceania,1,684
+AT,Europe,43
+AU,Oceania,61
+AW,North America,297
+AZ,Asia,994
+BA,Europe,387
+BB,North America,1,246
+BD,Asia,880
+BE,Europe,32
+BF,Africa,226
+BG,Europe,359
+BH,Asia,973
+BI,Africa,257
+BJ,Africa,229
+BL,North America,590
+BM,North America,1,441
+BN,Asia,673
+BO,South America,591
+BQ,North America,599
+BR,South America,55
+BS,North America,1,242
+BT,Asia,975
+BV,Antarctica,
+BW,Africa,267
+BY,Europe,375
+BZ,North America,501
+CA,North America,1
+CC,Oceania,61
+CD,Africa,243
+CF,Africa,236
+CG,Africa,242
+CH,Europe,41
+CI,Africa,225
+CK,Oceania,682
+CL,South America,56
+CM,Africa,237
+CN,Asia,86
+CO,South America,57
+CR,North America,506
+CU,North America,53
+CV,Africa,238
+CW,North America,599
+CX,Oceania,61
+CY,Asia,357
+CZ,Europe,420
+DE,Europe,49
+DJ,Africa,253
+DK,Europe,45
+DM,North America,1,767
+DO,North America,1,809,1,829,1,849
+DZ,Africa,213
+EC,South America,593
+EE,Europe,372
+EG,Africa,20
+ER,Africa,291
+ES,Europe,34
+ET,Africa,251
+FI,Europe,358
+FJ,Oceania,679
+FK,South America,500
+FM,Oceania,691
+FO,Europe,298
+FR,Europe,33
+GA,Africa,241
+GB,Europe,44
+GD,North America,1,473
+GE,Asia,995
+GF,South America,594
+GG,Europe,44
+GH,Africa,233
+GI,Europe,350
+GL,North America,299
+GM,Africa,220
+GN,Africa,224
+GP,North America,590
+GQ,Africa,240
+GR,Europe,30
+GS,Antarctica,500
+GT,North America,502
+GU,Oceania,1,671
+GW,Africa,245
+GY,South America,592
+HK,Asia,852
+HM,Antarctica,61
+HN,North America,504
+HR,Europe,385
+HT,North America,509
+HU,Europe,36
+ID,Asia,62
+IE,Europe,353
+IL,Asia,972
+IM,Europe,44
+IN,Asia,91
+IO,Africa,246
+IQ,Asia,964
+IR,Asia,98
+IS,Europe,354
+IT,Europe,39
+JE,Europe,44
+JM,North America,1,876
+JO,Asia,962
+JP,Asia,81
+KE,Africa,254
+KG,Asia,996
+KH,Asia,855
+KI,Oceania,686
+KM,Africa,269
+KN,North America,1,869
+KP,Asia,850
+KR,Asia,82
+KW,Asia,965
+KY,North America,1,345
+KZ,Asia,7
+LA,Asia,856
+LB,Asia,961
+LC,North America,1,758
+LI,Europe,423
+LK,Asia,94
+LR,Africa,231
+LS,Africa,266
+LT,Europe,370
+LU,Europe,352
+LV,Europe,371
+LY,Africa,218
+MA,Africa,212
+MC,Europe,377
+MD,Europe,373
+ME,Europe,382
+MF,North America,590
+MG,Africa,261
+MH,Oceania,692
+MK,Europe,389
+ML,Africa,223
+MM,Asia,95
+MN,Asia,976
+MO,Asia,853
+MP,Oceania,1,670
+MQ,North America,596
+MR,Africa,222
+MS,North America,1,664
+MT,Europe,356
+MU,Africa,230
+MV,Asia,960
+MW,Africa,265
+MX,North America,52
+MY,Asia,60
+MZ,Africa,258
+NA,Africa,264
+NC,Oceania,687
+NE,Africa,227
+NF,Oceania,672
+NG,Africa,234
+NI,North America,505
+NL,Europe,31
+NO,Europe,47
+NP,Asia,977
+NR,Oceania,674
+NU,Oceania,683
+NZ,Oceania,64
+OM,Asia,968
+PA,North America,507
+PE,South America,51
+PF,Oceania,689
+PG,Oceania,675
+PH,Asia,63
+PK,Asia,92
+PL,Europe,48
+PM,North America,508
+PN,Oceania,870
+PR,North America,1,787,1,939
+PT,Europe,351
+PW,Oceania,680
+PY,South America,595
+QA,Asia,974
+RE,Africa,262
+RO,Europe,40
+RS,Europe,381
+RU,Europe,7
+RW,Africa,250
+SA,Asia,966
+SB,Oceania,677
+SC,Africa,248
+SD,Africa,249
+SE,Europe,46
+SG,Asia,65
+SH,Africa,290
+SI,Europe,386
+SJ,Antarctica,47
+SK,Europe,421
+SL,Africa,232
+SM,Europe,378
+SN,Africa,221
+SO,Africa,252
+SR,South America,597
+SS,Africa,211
+ST,Africa,239
+SV,North America,503
+SX,North America,1,721
+SY,Asia,963
+SZ,Africa,268
+TC,North America,1,649
+TD,Africa,235
+TF,Africa,
+TG,Africa,228
+TH,Asia,66
+TJ,Asia,992
+TK,Oceania,690
+TL,Asia,670
+TM,Asia,993
+TN,Africa,216
+TO,Oceania,676
+TR,Asia,90
+TT,North America,1,868
+TV,Oceania,688
+TW,Asia,886
+TZ,Africa,255
+UA,Europe,380
+UG,Africa,256
+UM,Oceania,1
+US,North America,1
+UY,South America,598
+UZ,Asia,998
+VA,Europe,39
+VC,North America,1,784
+VE,South America,58
+VG,North America,284
+VI,North America,1,340
+VN,Asia,84
+VU,Oceania,678
+WF,Oceania,681
+WS,Oceania,685
+YE,Asia,967
+YT,Africa,262
+ZA,Africa,27
+ZM,Africa,260
+ZW,Africa,263
