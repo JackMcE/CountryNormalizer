@@ -3,6 +3,11 @@ import { map } from "lodash";
 import { findCountryByUnique } from "./findCountryByUnqiue";
 import AllCountriesData from "../data/complete.json";
 
+/*
+  A mass validation test to ensure that if you extract all country codes you can reverse map them to their relevant country names.
+  The extracted order from the map() _should_ match the index lookup of the code when you then execute the lookup.
+  So you're validating ISO numbers mapping to plain English country names + returns from the actual lookup functions for all countries.
+*/
 describe("Check that all number codes align to expected country name", () => {
   const allIsoNumbers = map(AllCountriesData, "num_code");
   const englishNames = map(AllCountriesData, "english_clean");
@@ -20,6 +25,10 @@ describe("Check that all number codes align to expected country name", () => {
   }
 });
 
+/*
+  A test suite that validates the 5 largest countries (by land area) to make sure their country codes return expected data.
+  This acts as a real world use case check that this function returns unique data when ISO country numbers are entered.
+*/
 describe("Manually validate full country returns from ISO numbers", () => {
   test("643 code returns Russia data", () => {
     const lookup = findCountryByUnique(643);
@@ -119,5 +128,39 @@ describe("Manually validate full country returns from ISO numbers", () => {
       calling_code: ["55"],
       continent: "South America",
     });
+  });
+});
+
+describe("Number entry edge cases", () => {
+  test("Country ISO number wrapped in string correctly returns country", () => {
+    const lookup = findCountryByUnique("152");
+
+    expect(lookup).toMatchObject({
+      common_reference: "Chile",
+      english_clean: "Chile",
+      formal_order: "Chile",
+      alpha_2: "CL",
+      alpha_3: "CHL",
+      num_code: 152,
+      demonym_male: "Chilean",
+      demonym_female: "Chilean",
+      gendered_demonym: true,
+      tld: ".cl",
+      flag_emoji: "🇨🇱",
+      calling_code: ["56"],
+      continent: "South America",
+    });
+  });
+
+  test("Number less than 0 returns null", () => {
+    const lookup = findCountryByUnique(-100);
+
+    expect(lookup).toBe(null);
+  });
+
+  test("Entering unused number returns null", () => {
+    const lookup = findCountryByUnique(202);
+
+    expect(lookup).toBe(null);
   });
 });
