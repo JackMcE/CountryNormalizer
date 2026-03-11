@@ -6,11 +6,30 @@ import { hasMatchingCallingCode } from "./utils/callingCodesValidator";
 const allCountries = allCountriesData as AllCountryFields[];
 
 /**
- * Performs a search on all guaranteed unique country data fields and returns the singular matching result.
- * This will not search for things like phone codes, or continents for example since these are not guaranteed to be unique. In-fact many are shared across countries.
+ * Searches all guaranteed unique country data fields and returns the single matching country.
  *
- * @param {string | number} needle
- * @returns {AllCountryFields | null}
+ * Fields searched (in order):
+ * - ISO 3166-1 numeric code (`num_code`)
+ * - ISO 3166-1 alpha-2 (`alpha_2`)
+ * - ISO 3166-1 alpha-3 (`alpha_3`)
+ * - `english_clean` — English country name from the ISO 3166 standard
+ * - `formal_order` — naturally spoken order of the formal country name
+ * - `flag_emoji` — Unicode flag emoji for the country
+ * - `common_reference` — casual/colloquial country name
+ *
+ * This will **not** search non-unique fields like calling codes, continents, or demonyms.
+ * Use {@link findAllMatchedCountries} for those lookups.
+ *
+ * String inputs must be at least 2 characters. Numeric inputs must be positive.
+ *
+ * @param needle - The search value: a country name, ISO code, numeric code, or flag emoji.
+ * @returns The matching country data, or `null` if no match is found.
+ *
+ * @example
+ * findCountryByUnique("US");    // Returns United States data
+ * findCountryByUnique(840);     // Returns United States data (by numeric code)
+ * findCountryByUnique("🇺🇸");  // Returns United States data (by flag emoji)
+ * findCountryByUnique("xx");    // Returns null
  */
 export const findCountryByUnique = (
   needle: string | number,
@@ -54,6 +73,29 @@ export const findCountryByUnique = (
   );
 };
 
+/**
+ * Searches all country data fields — including non-unique fields — and returns every
+ * country that matches the given needle.
+ *
+ * Unlike {@link findCountryByUnique}, this also searches across:
+ * - `calling_code` — phone calling codes (e.g. `"+1"`, `"44"`)
+ * - `continent` — continent name (e.g. `"Asia"`)
+ * - `demonym_male` / `demonym_female` — demonyms (e.g. `"Canadian"`)
+ * - `tld` — top-level domain (e.g. `".uk"`)
+ *
+ * All unique fields (`alpha_2`, `alpha_3`, `english_clean`, `formal_order`,
+ * `common_reference`, `flag_emoji`, `num_code`) are searched as well.
+ *
+ * @param needle - The search value: a country name, ISO code, numeric code, calling code,
+ *   continent name, demonym, TLD, or flag emoji.
+ * @returns An array of all matching countries. Returns an empty array if no matches are found.
+ *
+ * @example
+ * findAllMatchedCountries("+1");     // All countries sharing calling code "1"
+ * findAllMatchedCountries("asia");   // All countries in Asia
+ * findAllMatchedCountries("GB");     // Single-item array with United Kingdom data
+ * findAllMatchedCountries("zzzzz"); // []
+ */
 export const findAllMatchedCountries = (
   needle: string | number,
 ): AllCountryFields[] => {

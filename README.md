@@ -2,20 +2,20 @@
 
 A simple library for consolidation and reverse lookup of common ISO country data fields and calling codes all in one place.
 
-It is routinely common for developers to need to mix and match pieces of country data across an application.
+Developers routinely need to mix and match pieces of country data across an application.
 
 Some common examples are:
 
-* Retrieve a countries full name based on an ISO Alpha 2 or Alpha 3 code and turn it into the full name.
-* Turn a user entered full country name back into an ISO ALpha 2 or 3 code for API standardization.
-* Load a countries flag/flag emoji based on a user input or phone number input.
+* Retrieve a country's full name based on an ISO Alpha 2 or Alpha 3 code.
+* Turn a user-entered country name back into an ISO Alpha 2 or 3 code for API standardization.
+* Load a country's flag/flag emoji based on a user input or phone number input.
 * Standardize the name of a country or input from many different references to a country.
 * List all countries on a continent for location selection.
-* Find countries that correspond to a particular phone numbers calling code.
+* Find countries that correspond to a particular phone number's calling code.
 
 There are lots of good libraries out there that handle one of these functions at a time. Turning ISO 3166-1 alpha-2 into full names, or phone number into country flags, and so on and so forth.
 
-It is not uncommon through for application or business use cases that you need to actually move between many of these datapoints in one application. Yet it can be fairly hard to find all of this data consolidated into a single place.
+It is not uncommon though for application or business use cases to require moving between many of these data points in one application. Yet it can be fairly hard to find all of this data consolidated into a single place.
 
 This library aims to solve a lot of that by consolidating these common country lookups into one place.
 
@@ -30,10 +30,10 @@ The guaranteed unique fields are:
 * ISO 3166-1 number: The unique ISO 3166-1 number values where there are no duplicate values across all countries.
 * ISO 3166-1 alpha-2: Two letter guaranteed unique country code values.
 * ISO 3166-1 alpha-3: Three letter guaranteed unique country code values.
-* `english_clean`: English country names on the ISO 3166 standard as listed on Wikipedia.
-* `formal_order`: The common parlance order of a country name based on the ISO 3166 standard without primary naming feature first. For instance the `english_clean` for the Netherlands is `Netherlands, Kingdom of the`. The formal order is how the country would be mentioned in international or political conversation formally. E.g. `Kingdom of the Netherlands`.
-* `common_reference`: Maps names of countries onto how they would be refered to in normal casual conversation between people or natives. So `Kingdom of the Netherlands` is just `Netherlands`. The `Holy See` is `Vatican City.` You can probably use common sense to arrive at most of these.
-* flag_emoji: The Unicode standard dictates that all ISO 3166 countries shall have an emoji flag. As such you can search the emoji of a flag as input and retrieve all data for that country.
+* `english_clean`: English country names from the ISO 3166 standard as listed on Wikipedia.
+* `formal_order`: The naturally spoken order of a country's formal name from the ISO 3166 standard. For instance, the `english_clean` for the Netherlands is `Netherlands, Kingdom of the`, while the `formal_order` is `Kingdom of the Netherlands` — the way the country would be referenced in formal international or political conversation.
+* `common_reference`: Maps country names to how they would be referred to in normal casual conversation. So `Kingdom of the Netherlands` is just `Netherlands`. The `Holy See` is `Vatican City`. You can probably use common sense to arrive at most of these.
+* `flag_emoji`: The Unicode standard dictates that all ISO 3166 countries shall have an emoji flag. As such you can search the emoji of a flag as input and retrieve all data for that country.
 
 The returned country structure will match the `AllCountryFields` type and look like this...
 
@@ -59,7 +59,7 @@ The returned country structure will match the `AllCountryFields` type and look l
 
 You can use `findAllMatchedCountries(needle: string | number): AllCountryFields[]` to get all countries that match a particular data point.
 
-Certain pieces of country data are not unique but still routinely need searched for.
+Certain pieces of country data are not unique but still routinely need to be searched for.
 
 A common example of this is calling codes. Most of North America uses the `+1` calling code block. Using a `needle` value of `1` or `+1` will return an array of country data like...
 
@@ -118,13 +118,13 @@ A common example of this is calling codes. Most of North America uses the `+1` c
 
 ```
 
-Another use case for this could be if you app has a region based country selection and you needed all countries in Asia you could perform a `findAllMatchedCountries('asia')` and get all coutnries in Asia.
+Another use case for this could be if your app has a region-based country selection and you needed all countries in Asia. You could perform a `findAllMatchedCountries('asia')` and get all countries in Asia.
 
 This function still supports singular lookup. Entering something like `findAllMatchedCountries('GB')` will return a single item array like...
 
 ```
 [{
-        "common_reference": "Uninted Kingdom",
+        "common_reference": "United Kingdom",
         "english_clean": "United Kingdom of Great Britain and Northern Ireland",
         "formal_order": "United Kingdom of Great Britain and Northern Ireland",
         "alpha_2": "GB",
@@ -142,17 +142,19 @@ This function still supports singular lookup. Entering something like `findAllMa
     },]
 ```
 
-Entering a text value into this field that yeilds no results will return an empty (`[]`) array.
+Entering a text value into this function that yields no results will return an empty (`[]`) array.
 
 ## To-Do List:
-This package was started as part of a language classification, news analytics projects I'm working on in my personal time.
+This package was started as part of language classification and news analytics projects I'm working on in my personal time.
 
 I've enjoyed building it out but wanted to publish something for starters so I don't let this languish on my personal computer for too long.
 
 Over the next few weeks (hopefully) I plan to build out the following...
 
+* tld search support should be added to unique lookups since these are unique values.
+* Optimize the search order of data when performing lookups.
 * Clean up some of the `common_reference` values. A lot of these are executive decisions I quickly made and could be better researched or refined.
 * Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.
 * Flesh out more complete unit testing. I have a few running right now checking ISO number values but all data values should be validated.
 * Add size optimized lookups for common operations. Currently the `complete.json` object used for country data is rather large and bloats this library. I want to make smaller, tree-shakable functions to handle only certain data queries on the fly.
-* Setup a small website to visualize all this data in an accessible table for using alongside this library. Right now a lot of it is just compuled in a happhazard Google Doc where I did my initial organizing before translating a CSV into a JSON file.
+* Set up a small website to visualize all this data in an accessible table for using alongside this library. Right now a lot of it is just compiled in a haphazard Google Doc where I did my initial organizing before translating a CSV into a JSON file.
