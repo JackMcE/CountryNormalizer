@@ -46,6 +46,7 @@ export const findCountryByUnique = (
     allCountries.find((c) => c.alpha_3.toLowerCase() === forgedNeedle) ??
     allCountries.find((c) => c.english_clean.toLowerCase() === forgedNeedle) ??
     allCountries.find((c) => c.formal_order.toLowerCase() === forgedNeedle) ??
+    allCountries.find((c) => c.flag_emoji.toLowerCase() === forgedNeedle) ??
     allCountries.find(
       (c) => c.common_reference.toLowerCase() === forgedNeedle,
     ) ??

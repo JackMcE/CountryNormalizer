@@ -1,3 +1,9 @@
-import { findCountryByUnique } from "./src/findCountryByUnqiue";
+import {
+  findCountryByUnique,
+  findAllMatchedCountries,
+} from "./src/findCountryByUnqiue";
 
-export { findCountryByUnique };
+import type { AllCountryFields } from "./types/core";
+
+export { findCountryByUnique, findAllMatchedCountries };
+export type { AllCountryFields };
