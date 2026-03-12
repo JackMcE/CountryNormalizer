@@ -1,5 +1,22 @@
 [
     {
+        "common_reference": "Aruba",
+        "english_clean": "Aruba",
+        "formal_order": "Aruba",
+        "alpha_2": "AW",
+        "alpha_3": "ABW",
+        "num_code": 533,
+        "demonym_male": "Aruban",
+        "demonym_female": "Aruban",
+        "gendered_demonym": true,
+        "tld": ".aw",
+        "flag_emoji": "🇦🇼",
+        "calling_code": [
+            "297"
+        ],
+        "continent": "North America"
+    },
+    {
         "common_reference": "Afghanistan",
         "english_clean": "Afghanistan",
         "formal_order": "Afghanistan",
@@ -15,91 +32,6 @@
             "93"
         ],
         "continent": "Asia"
-    },
-    {
-        "common_reference": "Aland Islands",
-        "english_clean": "Åland Islands",
-        "formal_order": "Åland Islands",
-        "alpha_2": "AX",
-        "alpha_3": "ALA",
-        "num_code": 248,
-        "demonym_male": "Ålander",
-        "demonym_female": "Ålander",
-        "gendered_demonym": true,
-        "tld": ".ax",
-        "flag_emoji": "🇦🇽",
-        "calling_code": [
-            "385"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Albania",
-        "english_clean": "Albania",
-        "formal_order": "Albania",
-        "alpha_2": "AL",
-        "alpha_3": "ALB",
-        "num_code": 8,
-        "demonym_male": "Albanian",
-        "demonym_female": "Albanian",
-        "gendered_demonym": true,
-        "tld": ".al",
-        "flag_emoji": "🇦🇱",
-        "calling_code": [
-            "355"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Algeria",
-        "english_clean": "Algeria",
-        "formal_order": "Algeria",
-        "alpha_2": "DZ",
-        "alpha_3": "DZA",
-        "num_code": 12,
-        "demonym_male": "Algerian",
-        "demonym_female": "Algerian",
-        "gendered_demonym": true,
-        "tld": ".dz",
-        "flag_emoji": "🇩🇿",
-        "calling_code": [
-            "213"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "American Samoa",
-        "english_clean": "American Samoa",
-        "formal_order": "American Samoa",
-        "alpha_2": "AS",
-        "alpha_3": "ASM",
-        "num_code": 16,
-        "demonym_male": "American Samoan",
-        "demonym_female": "American Samoan",
-        "gendered_demonym": true,
-        "tld": ".as",
-        "flag_emoji": "🇦🇸",
-        "calling_code": [
-            "1-684"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Andorra",
-        "english_clean": "Andorra",
-        "formal_order": "Andorra",
-        "alpha_2": "AD",
-        "alpha_3": "AND",
-        "num_code": 20,
-        "demonym_male": "Andorran",
-        "demonym_female": "Andorran",
-        "gendered_demonym": true,
-        "tld": ".ad",
-        "flag_emoji": "🇦🇩",
-        "calling_code": [
-            "376"
-        ],
-        "continent": "Europe"
     },
     {
         "common_reference": "Angola",
@@ -136,38 +68,72 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Antarctica",
-        "english_clean": "Antarctica",
-        "formal_order": "Antarctica",
-        "alpha_2": "AQ",
-        "alpha_3": "ATA",
-        "num_code": 10,
-        "demonym_male": "Antarctican",
-        "demonym_female": "Antarctican",
+        "common_reference": "Aland Islands",
+        "english_clean": "Åland Islands",
+        "formal_order": "Åland Islands",
+        "alpha_2": "AX",
+        "alpha_3": "ALA",
+        "num_code": 248,
+        "demonym_male": "Ålander",
+        "demonym_female": "Ålander",
         "gendered_demonym": true,
-        "tld": ".aq",
-        "flag_emoji": "🇦🇶",
+        "tld": ".ax",
+        "flag_emoji": "🇦🇽",
         "calling_code": [
-            "672"
+            "385"
         ],
-        "continent": "Antarctica"
+        "continent": "Europe"
     },
     {
-        "common_reference": "Antigua and Barbuda",
-        "english_clean": "Antigua and Barbuda",
-        "formal_order": "Antigua and Barbuda",
-        "alpha_2": "AG",
-        "alpha_3": "ATG",
-        "num_code": 28,
-        "demonym_male": "Antiguan, Barbudan",
-        "demonym_female": "Antiguan, Barbudan",
+        "common_reference": "Albania",
+        "english_clean": "Albania",
+        "formal_order": "Albania",
+        "alpha_2": "AL",
+        "alpha_3": "ALB",
+        "num_code": 8,
+        "demonym_male": "Albanian",
+        "demonym_female": "Albanian",
         "gendered_demonym": true,
-        "tld": ".ag",
-        "flag_emoji": "🇦🇬",
+        "tld": ".al",
+        "flag_emoji": "🇦🇱",
         "calling_code": [
-            "1-268"
+            "355"
         ],
-        "continent": "North America"
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Andorra",
+        "english_clean": "Andorra",
+        "formal_order": "Andorra",
+        "alpha_2": "AD",
+        "alpha_3": "AND",
+        "num_code": 20,
+        "demonym_male": "Andorran",
+        "demonym_female": "Andorran",
+        "gendered_demonym": true,
+        "tld": ".ad",
+        "flag_emoji": "🇦🇩",
+        "calling_code": [
+            "376"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "UAE",
+        "english_clean": "United Arab Emirates",
+        "formal_order": "United Arab Emirates",
+        "alpha_2": "AE",
+        "alpha_3": "ARE",
+        "num_code": 784,
+        "demonym_male": "Emirati",
+        "demonym_female": "Emirati",
+        "gendered_demonym": true,
+        "tld": ".ae",
+        "flag_emoji": "🇦🇪",
+        "calling_code": [
+            "971"
+        ],
+        "continent": "Asia"
     },
     {
         "common_reference": "Argentina",
@@ -204,19 +170,68 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Aruba",
-        "english_clean": "Aruba",
-        "formal_order": "Aruba",
-        "alpha_2": "AW",
-        "alpha_3": "ABW",
-        "num_code": 533,
-        "demonym_male": "Aruban",
-        "demonym_female": "Aruban",
+        "common_reference": "American Samoa",
+        "english_clean": "American Samoa",
+        "formal_order": "American Samoa",
+        "alpha_2": "AS",
+        "alpha_3": "ASM",
+        "num_code": 16,
+        "demonym_male": "American Samoan",
+        "demonym_female": "American Samoan",
         "gendered_demonym": true,
-        "tld": ".aw",
-        "flag_emoji": "🇦🇼",
+        "tld": ".as",
+        "flag_emoji": "🇦🇸",
         "calling_code": [
-            "297"
+            "1-684"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "Antarctica",
+        "english_clean": "Antarctica",
+        "formal_order": "Antarctica",
+        "alpha_2": "AQ",
+        "alpha_3": "ATA",
+        "num_code": 10,
+        "demonym_male": "Antarctican",
+        "demonym_female": "Antarctican",
+        "gendered_demonym": true,
+        "tld": ".aq",
+        "flag_emoji": "🇦🇶",
+        "calling_code": [
+            "672"
+        ],
+        "continent": "Antarctica"
+    },
+    {
+        "common_reference": "French Southern Territories",
+        "english_clean": "French Southern Territories",
+        "formal_order": "French Southern Territories",
+        "alpha_2": "TF",
+        "alpha_3": "ATF",
+        "num_code": 260,
+        "demonym_male": "French Southern Territories resident",
+        "demonym_female": "French Southern Territories resident",
+        "gendered_demonym": true,
+        "tld": ".tf",
+        "flag_emoji": "🇹🇫",
+        "calling_code": [],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Antigua and Barbuda",
+        "english_clean": "Antigua and Barbuda",
+        "formal_order": "Antigua and Barbuda",
+        "alpha_2": "AG",
+        "alpha_3": "ATG",
+        "num_code": 28,
+        "demonym_male": "Antiguan, Barbudan",
+        "demonym_female": "Antiguan, Barbudan",
+        "gendered_demonym": true,
+        "tld": ".ag",
+        "flag_emoji": "🇦🇬",
+        "calling_code": [
+            "1-268"
         ],
         "continent": "North America"
     },
@@ -272,89 +287,21 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Bahamas",
-        "english_clean": "Bahamas",
-        "formal_order": "Bahamas",
-        "alpha_2": "BS",
-        "alpha_3": "BHS",
-        "num_code": 44,
-        "demonym_male": "Bahamian",
-        "demonym_female": "Bahamian",
+        "common_reference": "Burundi",
+        "english_clean": "Burundi",
+        "formal_order": "Burundi",
+        "alpha_2": "BI",
+        "alpha_3": "BDI",
+        "num_code": 108,
+        "demonym_male": "Burundian",
+        "demonym_female": "Burundian",
         "gendered_demonym": true,
-        "tld": ".bs",
-        "flag_emoji": "🇧🇸",
+        "tld": ".bi",
+        "flag_emoji": "🇧🇮",
         "calling_code": [
-            "1-242"
+            "257"
         ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Bahrain",
-        "english_clean": "Bahrain",
-        "formal_order": "Bahrain",
-        "alpha_2": "BH",
-        "alpha_3": "BHR",
-        "num_code": 48,
-        "demonym_male": "Bahraini",
-        "demonym_female": "Bahraini",
-        "gendered_demonym": true,
-        "tld": ".bh",
-        "flag_emoji": "🇧🇭",
-        "calling_code": [
-            "973"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Bangladesh",
-        "english_clean": "Bangladesh",
-        "formal_order": "Bangladesh",
-        "alpha_2": "BD",
-        "alpha_3": "BGD",
-        "num_code": 50,
-        "demonym_male": "Bangladeshi",
-        "demonym_female": "Bangladeshi",
-        "gendered_demonym": true,
-        "tld": ".bd",
-        "flag_emoji": "🇧🇩",
-        "calling_code": [
-            "880"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Barbados",
-        "english_clean": "Barbados",
-        "formal_order": "Barbados",
-        "alpha_2": "BB",
-        "alpha_3": "BRB",
-        "num_code": 52,
-        "demonym_male": "Barbadian",
-        "demonym_female": "Barbadian",
-        "gendered_demonym": true,
-        "tld": ".bb",
-        "flag_emoji": "🇧🇧",
-        "calling_code": [
-            "1-246"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Belarus",
-        "english_clean": "Belarus",
-        "formal_order": "Belarus",
-        "alpha_2": "BY",
-        "alpha_3": "BLR",
-        "num_code": 112,
-        "demonym_male": "Belarusian",
-        "demonym_female": "Belarusian",
-        "gendered_demonym": true,
-        "tld": ".by",
-        "flag_emoji": "🇧🇾",
-        "calling_code": [
-            "375"
-        ],
-        "continent": "Europe"
+        "continent": "Africa"
     },
     {
         "common_reference": "Belgium",
@@ -374,23 +321,6 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Belize",
-        "english_clean": "Belize",
-        "formal_order": "Belize",
-        "alpha_2": "BZ",
-        "alpha_3": "BLZ",
-        "num_code": 84,
-        "demonym_male": "Belizean",
-        "demonym_female": "Belizean",
-        "gendered_demonym": true,
-        "tld": ".bz",
-        "flag_emoji": "🇧🇿",
-        "calling_code": [
-            "501"
-        ],
-        "continent": "North America"
-    },
-    {
         "common_reference": "Benin",
         "english_clean": "Benin",
         "formal_order": "Benin",
@@ -406,57 +336,6 @@
             "229"
         ],
         "continent": "Africa"
-    },
-    {
-        "common_reference": "Bermuda",
-        "english_clean": "Bermuda",
-        "formal_order": "Bermuda",
-        "alpha_2": "BM",
-        "alpha_3": "BMU",
-        "num_code": 60,
-        "demonym_male": "Bermudian",
-        "demonym_female": "Bermudian",
-        "gendered_demonym": true,
-        "tld": ".bm",
-        "flag_emoji": "🇧🇲",
-        "calling_code": [
-            "1-441"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Bhutan",
-        "english_clean": "Bhutan",
-        "formal_order": "Bhutan",
-        "alpha_2": "BT",
-        "alpha_3": "BTN",
-        "num_code": 64,
-        "demonym_male": "Bhutanese",
-        "demonym_female": "Bhutanese",
-        "gendered_demonym": true,
-        "tld": ".bt",
-        "flag_emoji": "🇧🇹",
-        "calling_code": [
-            "975"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Bolivia",
-        "english_clean": "Bolivia, Plurinational State of",
-        "formal_order": "Plurinational State of Bolivia",
-        "alpha_2": "BO",
-        "alpha_3": "BOL",
-        "num_code": 68,
-        "demonym_male": "Bolivian",
-        "demonym_female": "Bolivian",
-        "gendered_demonym": true,
-        "tld": ".bo",
-        "flag_emoji": "🇧🇴",
-        "calling_code": [
-            "591"
-        ],
-        "continent": "South America"
     },
     {
         "common_reference": "Bonaire, Sint Eustatius and Saba",
@@ -476,102 +355,36 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Bosnia and Herzegovina",
-        "english_clean": "Bosnia and Herzegovina",
-        "formal_order": "Bosnia and Herzegovina",
-        "alpha_2": "BA",
-        "alpha_3": "BIH",
-        "num_code": 70,
-        "demonym_male": "Bosnian, Herzegovinian",
-        "demonym_female": "Bosnian, Herzegovinian",
+        "common_reference": "Burkina Faso",
+        "english_clean": "Burkina Faso",
+        "formal_order": "Burkina Faso",
+        "alpha_2": "BF",
+        "alpha_3": "BFA",
+        "num_code": 854,
+        "demonym_male": "Burkinabe",
+        "demonym_female": "Burkinabe",
         "gendered_demonym": true,
-        "tld": ".ba",
-        "flag_emoji": "🇧🇦",
+        "tld": ".bf",
+        "flag_emoji": "🇧🇫",
         "calling_code": [
-            "387"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Botswana",
-        "english_clean": "Botswana",
-        "formal_order": "Botswana",
-        "alpha_2": "BW",
-        "alpha_3": "BWA",
-        "num_code": 72,
-        "demonym_male": "Motswana",
-        "demonym_female": "Motswana",
-        "gendered_demonym": true,
-        "tld": ".bw",
-        "flag_emoji": "🇧🇼",
-        "calling_code": [
-            "267"
+            "226"
         ],
         "continent": "Africa"
     },
     {
-        "common_reference": "Bouvet Island",
-        "english_clean": "Bouvet Island",
-        "formal_order": "Bouvet Island",
-        "alpha_2": "BV",
-        "alpha_3": "BVT",
-        "num_code": 74,
-        "demonym_male": "Bouvet Islander",
-        "demonym_female": "Bouvet Islander",
+        "common_reference": "Bangladesh",
+        "english_clean": "Bangladesh",
+        "formal_order": "Bangladesh",
+        "alpha_2": "BD",
+        "alpha_3": "BGD",
+        "num_code": 50,
+        "demonym_male": "Bangladeshi",
+        "demonym_female": "Bangladeshi",
         "gendered_demonym": true,
-        "tld": ".bv",
-        "flag_emoji": "🇧🇻",
-        "calling_code": [],
-        "continent": "Antarctica"
-    },
-    {
-        "common_reference": "Brazil",
-        "english_clean": "Brazil",
-        "formal_order": "Brazil",
-        "alpha_2": "BR",
-        "alpha_3": "BRA",
-        "num_code": 76,
-        "demonym_male": "Brazilian",
-        "demonym_female": "Brazilian",
-        "gendered_demonym": true,
-        "tld": ".br",
-        "flag_emoji": "🇧🇷",
+        "tld": ".bd",
+        "flag_emoji": "🇧🇩",
         "calling_code": [
-            "55"
-        ],
-        "continent": "South America"
-    },
-    {
-        "common_reference": "British Indian Ocean Territory",
-        "english_clean": "British Indian Ocean Territory",
-        "formal_order": "British Indian Ocean Territory",
-        "alpha_2": "IO",
-        "alpha_3": "IOT",
-        "num_code": 86,
-        "demonym_male": "British",
-        "demonym_female": "British",
-        "gendered_demonym": true,
-        "tld": ".io",
-        "flag_emoji": "🇮🇴",
-        "calling_code": [
-            "246"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Brunei Darussalam",
-        "english_clean": "Brunei Darussalam",
-        "formal_order": "Brunei Darussalam",
-        "alpha_2": "BN",
-        "alpha_3": "BRN",
-        "num_code": 96,
-        "demonym_male": "Bruneian",
-        "demonym_female": "Bruneian",
-        "gendered_demonym": true,
-        "tld": ".bn",
-        "flag_emoji": "🇧🇳",
-        "calling_code": [
-            "673"
+            "880"
         ],
         "continent": "Asia"
     },
@@ -593,87 +406,255 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Burkina Faso",
-        "english_clean": "Burkina Faso",
-        "formal_order": "Burkina Faso",
-        "alpha_2": "BF",
-        "alpha_3": "BFA",
-        "num_code": 854,
-        "demonym_male": "Burkinabe",
-        "demonym_female": "Burkinabe",
+        "common_reference": "Bahrain",
+        "english_clean": "Bahrain",
+        "formal_order": "Bahrain",
+        "alpha_2": "BH",
+        "alpha_3": "BHR",
+        "num_code": 48,
+        "demonym_male": "Bahraini",
+        "demonym_female": "Bahraini",
         "gendered_demonym": true,
-        "tld": ".bf",
-        "flag_emoji": "🇧🇫",
+        "tld": ".bh",
+        "flag_emoji": "🇧🇭",
         "calling_code": [
-            "226"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Burundi",
-        "english_clean": "Burundi",
-        "formal_order": "Burundi",
-        "alpha_2": "BI",
-        "alpha_3": "BDI",
-        "num_code": 108,
-        "demonym_male": "Burundian",
-        "demonym_female": "Burundian",
-        "gendered_demonym": true,
-        "tld": ".bi",
-        "flag_emoji": "🇧🇮",
-        "calling_code": [
-            "257"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Cabo Verde",
-        "english_clean": "Cabo Verde",
-        "formal_order": "Cabo Verde",
-        "alpha_2": "CV",
-        "alpha_3": "CPV",
-        "num_code": 132,
-        "demonym_male": "Cape Verdian",
-        "demonym_female": "Cape Verdian",
-        "gendered_demonym": true,
-        "tld": ".cv",
-        "flag_emoji": "🇨🇻",
-        "calling_code": [
-            "238"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Cambodia",
-        "english_clean": "Cambodia",
-        "formal_order": "Cambodia",
-        "alpha_2": "KH",
-        "alpha_3": "KHM",
-        "num_code": 116,
-        "demonym_male": "Cambodian",
-        "demonym_female": "Cambodian",
-        "gendered_demonym": true,
-        "tld": ".kh",
-        "flag_emoji": "🇰🇭",
-        "calling_code": [
-            "855"
+            "973"
         ],
         "continent": "Asia"
     },
     {
-        "common_reference": "Cameroon",
-        "english_clean": "Cameroon",
-        "formal_order": "Cameroon",
-        "alpha_2": "CM",
-        "alpha_3": "CMR",
-        "num_code": 120,
-        "demonym_male": "Cameroonian",
-        "demonym_female": "Cameroonian",
+        "common_reference": "Bahamas",
+        "english_clean": "Bahamas",
+        "formal_order": "Bahamas",
+        "alpha_2": "BS",
+        "alpha_3": "BHS",
+        "num_code": 44,
+        "demonym_male": "Bahamian",
+        "demonym_female": "Bahamian",
         "gendered_demonym": true,
-        "tld": ".cm",
-        "flag_emoji": "🇨🇲",
+        "tld": ".bs",
+        "flag_emoji": "🇧🇸",
         "calling_code": [
-            "237"
+            "1-242"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Bosnia and Herzegovina",
+        "english_clean": "Bosnia and Herzegovina",
+        "formal_order": "Bosnia and Herzegovina",
+        "alpha_2": "BA",
+        "alpha_3": "BIH",
+        "num_code": 70,
+        "demonym_male": "Bosnian, Herzegovinian",
+        "demonym_female": "Bosnian, Herzegovinian",
+        "gendered_demonym": true,
+        "tld": ".ba",
+        "flag_emoji": "🇧🇦",
+        "calling_code": [
+            "387"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Saint Barthélemy",
+        "english_clean": "Saint Barthélemy",
+        "formal_order": "Saint Barthélemy",
+        "alpha_2": "BL",
+        "alpha_3": "BLM",
+        "num_code": 652,
+        "demonym_male": "Saint-Barthélemois",
+        "demonym_female": "Saint-Barthélemoise",
+        "gendered_demonym": false,
+        "tld": ".bl",
+        "flag_emoji": "🇧🇱",
+        "calling_code": [
+            "590"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Belarus",
+        "english_clean": "Belarus",
+        "formal_order": "Belarus",
+        "alpha_2": "BY",
+        "alpha_3": "BLR",
+        "num_code": 112,
+        "demonym_male": "Belarusian",
+        "demonym_female": "Belarusian",
+        "gendered_demonym": true,
+        "tld": ".by",
+        "flag_emoji": "🇧🇾",
+        "calling_code": [
+            "375"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Belize",
+        "english_clean": "Belize",
+        "formal_order": "Belize",
+        "alpha_2": "BZ",
+        "alpha_3": "BLZ",
+        "num_code": 84,
+        "demonym_male": "Belizean",
+        "demonym_female": "Belizean",
+        "gendered_demonym": true,
+        "tld": ".bz",
+        "flag_emoji": "🇧🇿",
+        "calling_code": [
+            "501"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Bermuda",
+        "english_clean": "Bermuda",
+        "formal_order": "Bermuda",
+        "alpha_2": "BM",
+        "alpha_3": "BMU",
+        "num_code": 60,
+        "demonym_male": "Bermudian",
+        "demonym_female": "Bermudian",
+        "gendered_demonym": true,
+        "tld": ".bm",
+        "flag_emoji": "🇧🇲",
+        "calling_code": [
+            "1-441"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Bolivia",
+        "english_clean": "Bolivia, Plurinational State of",
+        "formal_order": "Plurinational State of Bolivia",
+        "alpha_2": "BO",
+        "alpha_3": "BOL",
+        "num_code": 68,
+        "demonym_male": "Bolivian",
+        "demonym_female": "Bolivian",
+        "gendered_demonym": true,
+        "tld": ".bo",
+        "flag_emoji": "🇧🇴",
+        "calling_code": [
+            "591"
+        ],
+        "continent": "South America"
+    },
+    {
+        "common_reference": "Brazil",
+        "english_clean": "Brazil",
+        "formal_order": "Brazil",
+        "alpha_2": "BR",
+        "alpha_3": "BRA",
+        "num_code": 76,
+        "demonym_male": "Brazilian",
+        "demonym_female": "Brazilian",
+        "gendered_demonym": true,
+        "tld": ".br",
+        "flag_emoji": "🇧🇷",
+        "calling_code": [
+            "55"
+        ],
+        "continent": "South America"
+    },
+    {
+        "common_reference": "Barbados",
+        "english_clean": "Barbados",
+        "formal_order": "Barbados",
+        "alpha_2": "BB",
+        "alpha_3": "BRB",
+        "num_code": 52,
+        "demonym_male": "Barbadian",
+        "demonym_female": "Barbadian",
+        "gendered_demonym": true,
+        "tld": ".bb",
+        "flag_emoji": "🇧🇧",
+        "calling_code": [
+            "1-246"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Brunei Darussalam",
+        "english_clean": "Brunei Darussalam",
+        "formal_order": "Brunei Darussalam",
+        "alpha_2": "BN",
+        "alpha_3": "BRN",
+        "num_code": 96,
+        "demonym_male": "Bruneian",
+        "demonym_female": "Bruneian",
+        "gendered_demonym": true,
+        "tld": ".bn",
+        "flag_emoji": "🇧🇳",
+        "calling_code": [
+            "673"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Bhutan",
+        "english_clean": "Bhutan",
+        "formal_order": "Bhutan",
+        "alpha_2": "BT",
+        "alpha_3": "BTN",
+        "num_code": 64,
+        "demonym_male": "Bhutanese",
+        "demonym_female": "Bhutanese",
+        "gendered_demonym": true,
+        "tld": ".bt",
+        "flag_emoji": "🇧🇹",
+        "calling_code": [
+            "975"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Bouvet Island",
+        "english_clean": "Bouvet Island",
+        "formal_order": "Bouvet Island",
+        "alpha_2": "BV",
+        "alpha_3": "BVT",
+        "num_code": 74,
+        "demonym_male": "Bouvet Islander",
+        "demonym_female": "Bouvet Islander",
+        "gendered_demonym": true,
+        "tld": ".bv",
+        "flag_emoji": "🇧🇻",
+        "calling_code": [],
+        "continent": "Antarctica"
+    },
+    {
+        "common_reference": "Botswana",
+        "english_clean": "Botswana",
+        "formal_order": "Botswana",
+        "alpha_2": "BW",
+        "alpha_3": "BWA",
+        "num_code": 72,
+        "demonym_male": "Motswana",
+        "demonym_female": "Motswana",
+        "gendered_demonym": true,
+        "tld": ".bw",
+        "flag_emoji": "🇧🇼",
+        "calling_code": [
+            "267"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Central African Republic",
+        "english_clean": "Central African Republic",
+        "formal_order": "Central African Republic",
+        "alpha_2": "CF",
+        "alpha_3": "CAF",
+        "num_code": 140,
+        "demonym_male": "Central African",
+        "demonym_female": "Central African",
+        "gendered_demonym": true,
+        "tld": ".cf",
+        "flag_emoji": "🇨🇫",
+        "calling_code": [
+            "236"
         ],
         "continent": "Africa"
     },
@@ -695,55 +676,38 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Cayman Islands",
-        "english_clean": "Cayman Islands",
-        "formal_order": "Cayman Islands",
-        "alpha_2": "KY",
-        "alpha_3": "CYM",
-        "num_code": 136,
-        "demonym_male": "Caymanian",
-        "demonym_female": "Caymanian",
+        "common_reference": "Cocos (Keeling) Islands",
+        "english_clean": "Cocos (Keeling) Islands",
+        "formal_order": "Cocos (Keeling) Islands",
+        "alpha_2": "CC",
+        "alpha_3": "CCK",
+        "num_code": 166,
+        "demonym_male": "Cocos Islander",
+        "demonym_female": "Cocos Islander",
         "gendered_demonym": true,
-        "tld": ".ky",
-        "flag_emoji": "🇰🇾",
+        "tld": ".cc",
+        "flag_emoji": "🇨🇨",
         "calling_code": [
-            "1-345"
+            "61"
         ],
-        "continent": "North America"
+        "continent": "Oceania"
     },
     {
-        "common_reference": "Central African Republic",
-        "english_clean": "Central African Republic",
-        "formal_order": "Central African Republic",
-        "alpha_2": "CF",
-        "alpha_3": "CAF",
-        "num_code": 140,
-        "demonym_male": "Central African",
-        "demonym_female": "Central African",
+        "common_reference": "Switzerland",
+        "english_clean": "Switzerland",
+        "formal_order": "Switzerland",
+        "alpha_2": "CH",
+        "alpha_3": "CHE",
+        "num_code": 756,
+        "demonym_male": "Swiss",
+        "demonym_female": "Swiss",
         "gendered_demonym": true,
-        "tld": ".cf",
-        "flag_emoji": "🇨🇫",
+        "tld": ".ch",
+        "flag_emoji": "🇨🇭",
         "calling_code": [
-            "236"
+            "41"
         ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Chad",
-        "english_clean": "Chad",
-        "formal_order": "Chad",
-        "alpha_2": "TD",
-        "alpha_3": "TCD",
-        "num_code": 148,
-        "demonym_male": "Chadian",
-        "demonym_female": "Chadian",
-        "gendered_demonym": true,
-        "tld": ".td",
-        "flag_emoji": "🇹🇩",
-        "calling_code": [
-            "235"
-        ],
-        "continent": "Africa"
+        "continent": "Europe"
     },
     {
         "common_reference": "Chile",
@@ -780,36 +744,87 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Christmas Island",
-        "english_clean": "Christmas Island",
-        "formal_order": "Christmas Island",
-        "alpha_2": "CX",
-        "alpha_3": "CXR",
-        "num_code": 162,
-        "demonym_male": "Christmas Islander",
-        "demonym_female": "Christmas Islander",
+        "common_reference": "Côte d'Ivoire",
+        "english_clean": "Côte d'Ivoire",
+        "formal_order": "Côte d'Ivoire",
+        "alpha_2": "CI",
+        "alpha_3": "CIV",
+        "num_code": 384,
+        "demonym_male": "Ivorian",
+        "demonym_female": "Ivorian",
         "gendered_demonym": true,
-        "tld": ".cx",
-        "flag_emoji": "🇨🇽",
+        "tld": ".ci",
+        "flag_emoji": "🇨🇮",
         "calling_code": [
-            "61"
+            "225"
         ],
-        "continent": "Oceania"
+        "continent": "Africa"
     },
     {
-        "common_reference": "Cocos (Keeling) Islands",
-        "english_clean": "Cocos (Keeling) Islands",
-        "formal_order": "Cocos (Keeling) Islands",
-        "alpha_2": "CC",
-        "alpha_3": "CCK",
-        "num_code": 166,
-        "demonym_male": "Cocos Islander",
-        "demonym_female": "Cocos Islander",
+        "common_reference": "Cameroon",
+        "english_clean": "Cameroon",
+        "formal_order": "Cameroon",
+        "alpha_2": "CM",
+        "alpha_3": "CMR",
+        "num_code": 120,
+        "demonym_male": "Cameroonian",
+        "demonym_female": "Cameroonian",
         "gendered_demonym": true,
-        "tld": ".cc",
-        "flag_emoji": "🇨🇨",
+        "tld": ".cm",
+        "flag_emoji": "🇨🇲",
         "calling_code": [
-            "61"
+            "237"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Democratic Republic of the Congo",
+        "english_clean": "Congo, Democratic Republic of the",
+        "formal_order": "Democratic Republic of the Congo",
+        "alpha_2": "CD",
+        "alpha_3": "COD",
+        "num_code": 180,
+        "demonym_male": "Congolese",
+        "demonym_female": "Congolese",
+        "gendered_demonym": true,
+        "tld": ".cd",
+        "flag_emoji": "🇨🇩",
+        "calling_code": [
+            "243"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Congo",
+        "english_clean": "Congo",
+        "formal_order": "Congo",
+        "alpha_2": "CG",
+        "alpha_3": "COG",
+        "num_code": 178,
+        "demonym_male": "Congolese",
+        "demonym_female": "Congolese",
+        "gendered_demonym": true,
+        "tld": ".cg",
+        "flag_emoji": "🇨🇬",
+        "calling_code": [
+            "242"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Cook Islands",
+        "english_clean": "Cook Islands",
+        "formal_order": "Cook Islands",
+        "alpha_2": "CK",
+        "alpha_3": "COK",
+        "num_code": 184,
+        "demonym_male": "Cook Islander",
+        "demonym_female": "Cook Islander",
+        "gendered_demonym": true,
+        "tld": ".ck",
+        "flag_emoji": "🇨🇰",
+        "calling_code": [
+            "682"
         ],
         "continent": "Oceania"
     },
@@ -848,55 +863,21 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Congo",
-        "english_clean": "Congo",
-        "formal_order": "Congo",
-        "alpha_2": "CG",
-        "alpha_3": "COG",
-        "num_code": 178,
-        "demonym_male": "Congolese",
-        "demonym_female": "Congolese",
+        "common_reference": "Cabo Verde",
+        "english_clean": "Cabo Verde",
+        "formal_order": "Cabo Verde",
+        "alpha_2": "CV",
+        "alpha_3": "CPV",
+        "num_code": 132,
+        "demonym_male": "Cape Verdian",
+        "demonym_female": "Cape Verdian",
         "gendered_demonym": true,
-        "tld": ".cg",
-        "flag_emoji": "🇨🇬",
+        "tld": ".cv",
+        "flag_emoji": "🇨🇻",
         "calling_code": [
-            "242"
+            "238"
         ],
         "continent": "Africa"
-    },
-    {
-        "common_reference": "Democratic Republic of the Congo",
-        "english_clean": "Congo, Democratic Republic of the",
-        "formal_order": "Democratic Republic of the Congo",
-        "alpha_2": "CD",
-        "alpha_3": "COD",
-        "num_code": 180,
-        "demonym_male": "Congolese",
-        "demonym_female": "Congolese",
-        "gendered_demonym": true,
-        "tld": ".cd",
-        "flag_emoji": "🇨🇩",
-        "calling_code": [
-            "243"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Cook Islands",
-        "english_clean": "Cook Islands",
-        "formal_order": "Cook Islands",
-        "alpha_2": "CK",
-        "alpha_3": "COK",
-        "num_code": 184,
-        "demonym_male": "Cook Islander",
-        "demonym_female": "Cook Islander",
-        "gendered_demonym": true,
-        "tld": ".ck",
-        "flag_emoji": "🇨🇰",
-        "calling_code": [
-            "682"
-        ],
-        "continent": "Oceania"
     },
     {
         "common_reference": "Costa Rica",
@@ -914,40 +895,6 @@
             "506"
         ],
         "continent": "North America"
-    },
-    {
-        "common_reference": "Côte d'Ivoire",
-        "english_clean": "Côte d'Ivoire",
-        "formal_order": "Côte d'Ivoire",
-        "alpha_2": "CI",
-        "alpha_3": "CIV",
-        "num_code": 384,
-        "demonym_male": "Ivorian",
-        "demonym_female": "Ivorian",
-        "gendered_demonym": true,
-        "tld": ".ci",
-        "flag_emoji": "🇨🇮",
-        "calling_code": [
-            "225"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Croatia",
-        "english_clean": "Croatia",
-        "formal_order": "Croatia",
-        "alpha_2": "HR",
-        "alpha_3": "HRV",
-        "num_code": 191,
-        "demonym_male": "Croatian",
-        "demonym_female": "Croatian",
-        "gendered_demonym": true,
-        "tld": ".hr",
-        "flag_emoji": "🇭🇷",
-        "calling_code": [
-            "385"
-        ],
-        "continent": "Europe"
     },
     {
         "common_reference": "Cuba",
@@ -980,6 +927,40 @@
         "flag_emoji": "🇨🇼",
         "calling_code": [
             "599"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Christmas Island",
+        "english_clean": "Christmas Island",
+        "formal_order": "Christmas Island",
+        "alpha_2": "CX",
+        "alpha_3": "CXR",
+        "num_code": 162,
+        "demonym_male": "Christmas Islander",
+        "demonym_female": "Christmas Islander",
+        "gendered_demonym": true,
+        "tld": ".cx",
+        "flag_emoji": "🇨🇽",
+        "calling_code": [
+            "61"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "Cayman Islands",
+        "english_clean": "Cayman Islands",
+        "formal_order": "Cayman Islands",
+        "alpha_2": "KY",
+        "alpha_3": "CYM",
+        "num_code": 136,
+        "demonym_male": "Caymanian",
+        "demonym_female": "Caymanian",
+        "gendered_demonym": true,
+        "tld": ".ky",
+        "flag_emoji": "🇰🇾",
+        "calling_code": [
+            "1-345"
         ],
         "continent": "North America"
     },
@@ -1018,19 +999,19 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Denmark",
-        "english_clean": "Denmark",
-        "formal_order": "Denmark",
-        "alpha_2": "DK",
-        "alpha_3": "DNK",
-        "num_code": 208,
-        "demonym_male": "Danish",
-        "demonym_female": "Danish",
+        "common_reference": "Germany",
+        "english_clean": "Germany",
+        "formal_order": "Germany",
+        "alpha_2": "DE",
+        "alpha_3": "DEU",
+        "num_code": 276,
+        "demonym_male": "German",
+        "demonym_female": "German",
         "gendered_demonym": true,
-        "tld": ".dk",
-        "flag_emoji": "🇩🇰",
+        "tld": ".de",
+        "flag_emoji": "🇩🇪",
         "calling_code": [
-            "45"
+            "49"
         ],
         "continent": "Europe"
     },
@@ -1069,6 +1050,23 @@
         "continent": "North America"
     },
     {
+        "common_reference": "Denmark",
+        "english_clean": "Denmark",
+        "formal_order": "Denmark",
+        "alpha_2": "DK",
+        "alpha_3": "DNK",
+        "num_code": 208,
+        "demonym_male": "Danish",
+        "demonym_female": "Danish",
+        "gendered_demonym": true,
+        "tld": ".dk",
+        "flag_emoji": "🇩🇰",
+        "calling_code": [
+            "45"
+        ],
+        "continent": "Europe"
+    },
+    {
         "common_reference": "Dominican Republic",
         "english_clean": "Dominican Republic",
         "formal_order": "Dominican Republic",
@@ -1086,6 +1084,23 @@
             "1-849"
         ],
         "continent": "North America"
+    },
+    {
+        "common_reference": "Algeria",
+        "english_clean": "Algeria",
+        "formal_order": "Algeria",
+        "alpha_2": "DZ",
+        "alpha_3": "DZA",
+        "num_code": 12,
+        "demonym_male": "Algerian",
+        "demonym_female": "Algerian",
+        "gendered_demonym": true,
+        "tld": ".dz",
+        "flag_emoji": "🇩🇿",
+        "calling_code": [
+            "213"
+        ],
+        "continent": "Africa"
     },
     {
         "common_reference": "Ecuador",
@@ -1122,40 +1137,6 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "El Salvador",
-        "english_clean": "El Salvador",
-        "formal_order": "El Salvador",
-        "alpha_2": "SV",
-        "alpha_3": "SLV",
-        "num_code": 222,
-        "demonym_male": "Salvadoran",
-        "demonym_female": "Salvadoran",
-        "gendered_demonym": true,
-        "tld": ".sv",
-        "flag_emoji": "🇸🇻",
-        "calling_code": [
-            "503"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Equatorial Guinea",
-        "english_clean": "Equatorial Guinea",
-        "formal_order": "Equatorial Guinea",
-        "alpha_2": "GQ",
-        "alpha_3": "GNQ",
-        "num_code": 226,
-        "demonym_male": "Equatorial Guinean",
-        "demonym_female": "Equatorial Guinean",
-        "gendered_demonym": true,
-        "tld": ".gq",
-        "flag_emoji": "🇬🇶",
-        "calling_code": [
-            "240"
-        ],
-        "continent": "Africa"
-    },
-    {
         "common_reference": "Eritrea",
         "english_clean": "Eritrea",
         "formal_order": "Eritrea",
@@ -1171,6 +1152,38 @@
             "291"
         ],
         "continent": "Africa"
+    },
+    {
+        "common_reference": "Western Sahara",
+        "english_clean": "Western Sahara",
+        "formal_order": "Western Sahara",
+        "alpha_2": "EH",
+        "alpha_3": "ESH",
+        "num_code": 732,
+        "demonym_male": "Sahrawi",
+        "demonym_female": "Sahrawi",
+        "gendered_demonym": true,
+        "tld": ".eh",
+        "flag_emoji": "🇪🇭",
+        "calling_code": [],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Spain",
+        "english_clean": "Spain",
+        "formal_order": "Spain",
+        "alpha_2": "ES",
+        "alpha_3": "ESP",
+        "num_code": 724,
+        "demonym_male": "Spanish",
+        "demonym_female": "Spanish",
+        "gendered_demonym": true,
+        "tld": ".es",
+        "flag_emoji": "🇪🇸",
+        "calling_code": [
+            "34"
+        ],
+        "continent": "Europe"
     },
     {
         "common_reference": "Estonia",
@@ -1190,23 +1203,6 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Eswatini",
-        "english_clean": "Eswatini",
-        "formal_order": "Eswatini",
-        "alpha_2": "SZ",
-        "alpha_3": "SWZ",
-        "num_code": 748,
-        "demonym_male": "Swazi",
-        "demonym_female": "Swazi",
-        "gendered_demonym": true,
-        "tld": ".sz",
-        "flag_emoji": "🇸🇿",
-        "calling_code": [
-            "268"
-        ],
-        "continent": "Africa"
-    },
-    {
         "common_reference": "Ethiopia",
         "english_clean": "Ethiopia",
         "formal_order": "Ethiopia",
@@ -1224,36 +1220,19 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Falkland Islands (Malvinas)",
-        "english_clean": "Falkland Islands (Malvinas)",
-        "formal_order": "Falkland Islands (Malvinas)",
-        "alpha_2": "FK",
-        "alpha_3": "FLK",
-        "num_code": 238,
-        "demonym_male": "Falkland Islander",
-        "demonym_female": "Falkland Islander",
+        "common_reference": "Finland",
+        "english_clean": "Finland",
+        "formal_order": "Finland",
+        "alpha_2": "FI",
+        "alpha_3": "FIN",
+        "num_code": 246,
+        "demonym_male": "Finnish",
+        "demonym_female": "Finnish",
         "gendered_demonym": true,
-        "tld": ".fk",
-        "flag_emoji": "🇫🇰",
+        "tld": ".fi",
+        "flag_emoji": "🇫🇮",
         "calling_code": [
-            "500"
-        ],
-        "continent": "South America"
-    },
-    {
-        "common_reference": "Faroe Islands",
-        "english_clean": "Faroe Islands",
-        "formal_order": "Faroe Islands",
-        "alpha_2": "FO",
-        "alpha_3": "FRO",
-        "num_code": 234,
-        "demonym_male": "Faroese",
-        "demonym_female": "Faroese",
-        "gendered_demonym": true,
-        "tld": ".fo",
-        "flag_emoji": "🇫🇴",
-        "calling_code": [
-            "298"
+            "358"
         ],
         "continent": "Europe"
     },
@@ -1275,21 +1254,21 @@
         "continent": "Oceania"
     },
     {
-        "common_reference": "Finland",
-        "english_clean": "Finland",
-        "formal_order": "Finland",
-        "alpha_2": "FI",
-        "alpha_3": "FIN",
-        "num_code": 246,
-        "demonym_male": "Finnish",
-        "demonym_female": "Finnish",
+        "common_reference": "Falkland Islands",
+        "english_clean": "Falkland Islands (Malvinas)",
+        "formal_order": "Falkland Islands (Malvinas)",
+        "alpha_2": "FK",
+        "alpha_3": "FLK",
+        "num_code": 238,
+        "demonym_male": "Falkland Islander",
+        "demonym_female": "Falkland Islander",
         "gendered_demonym": true,
-        "tld": ".fi",
-        "flag_emoji": "🇫🇮",
+        "tld": ".fk",
+        "flag_emoji": "🇫🇰",
         "calling_code": [
-            "358"
+            "500"
         ],
-        "continent": "Europe"
+        "continent": "South America"
     },
     {
         "common_reference": "France",
@@ -1309,53 +1288,38 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "French Guiana",
-        "english_clean": "French Guiana",
-        "formal_order": "French Guiana",
-        "alpha_2": "GF",
-        "alpha_3": "GUF",
-        "num_code": 254,
-        "demonym_male": "French Guianan",
-        "demonym_female": "French Guianan",
+        "common_reference": "Faroe Islands",
+        "english_clean": "Faroe Islands",
+        "formal_order": "Faroe Islands",
+        "alpha_2": "FO",
+        "alpha_3": "FRO",
+        "num_code": 234,
+        "demonym_male": "Faroese",
+        "demonym_female": "Faroese",
         "gendered_demonym": true,
-        "tld": ".gf",
-        "flag_emoji": "🇬🇫",
+        "tld": ".fo",
+        "flag_emoji": "🇫🇴",
         "calling_code": [
-            "594"
+            "298"
         ],
-        "continent": "South America"
+        "continent": "Europe"
     },
     {
-        "common_reference": "French Polynesia",
-        "english_clean": "French Polynesia",
-        "formal_order": "French Polynesia",
-        "alpha_2": "PF",
-        "alpha_3": "PYF",
-        "num_code": 258,
-        "demonym_male": "French Polynesian",
-        "demonym_female": "French Polynesian",
+        "common_reference": "Micronesia",
+        "english_clean": "Micronesia, Federated States of",
+        "formal_order": "Federated States of Micronesia",
+        "alpha_2": "FM",
+        "alpha_3": "FSM",
+        "num_code": 583,
+        "demonym_male": "Micronesian",
+        "demonym_female": "Micronesian",
         "gendered_demonym": true,
-        "tld": ".pf",
-        "flag_emoji": "🇵🇫",
+        "tld": ".fm",
+        "flag_emoji": "🇫🇲",
         "calling_code": [
-            "689"
+            "691"
         ],
         "continent": "Oceania"
-    },
-    {
-        "common_reference": "French Southern Territories",
-        "english_clean": "French Southern Territories",
-        "formal_order": "French Southern Territories",
-        "alpha_2": "TF",
-        "alpha_3": "ATF",
-        "num_code": 260,
-        "demonym_male": "French Southern Territories resident",
-        "demonym_female": "French Southern Territories resident",
-        "gendered_demonym": true,
-        "tld": ".tf",
-        "flag_emoji": "🇹🇫",
-        "calling_code": [],
-        "continent": "Africa"
     },
     {
         "common_reference": "Gabon",
@@ -1375,21 +1339,21 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Gambia",
-        "english_clean": "Gambia",
-        "formal_order": "Gambia",
-        "alpha_2": "GM",
-        "alpha_3": "GMB",
-        "num_code": 270,
-        "demonym_male": "Gambian",
-        "demonym_female": "Gambian",
+        "common_reference": "Uninted Kingdom",
+        "english_clean": "United Kingdom of Great Britain and Northern Ireland",
+        "formal_order": "United Kingdom of Great Britain and Northern Ireland",
+        "alpha_2": "GB",
+        "alpha_3": "GBR",
+        "num_code": 826,
+        "demonym_male": "British",
+        "demonym_female": "British",
         "gendered_demonym": true,
-        "tld": ".gm",
-        "flag_emoji": "🇬🇲",
+        "tld": ".gb",
+        "flag_emoji": "🇬🇧",
         "calling_code": [
-            "220"
+            "44"
         ],
-        "continent": "Africa"
+        "continent": "Europe"
     },
     {
         "common_reference": "Georgia",
@@ -1409,19 +1373,19 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Germany",
-        "english_clean": "Germany",
-        "formal_order": "Germany",
-        "alpha_2": "DE",
-        "alpha_3": "DEU",
-        "num_code": 276,
-        "demonym_male": "German",
-        "demonym_female": "German",
-        "gendered_demonym": true,
-        "tld": ".de",
-        "flag_emoji": "🇩🇪",
+        "common_reference": "Guernsey",
+        "english_clean": "Guernsey",
+        "formal_order": "Guernsey",
+        "alpha_2": "GG",
+        "alpha_3": "GGY",
+        "num_code": 831,
+        "demonym_male": "Guernseyman",
+        "demonym_female": "Guernseywoman",
+        "gendered_demonym": false,
+        "tld": ".gg",
+        "flag_emoji": "🇬🇬",
         "calling_code": [
-            "49"
+            "44"
         ],
         "continent": "Europe"
     },
@@ -1460,55 +1424,21 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Greece",
-        "english_clean": "Greece",
-        "formal_order": "Greece",
-        "alpha_2": "GR",
-        "alpha_3": "GRC",
-        "num_code": 300,
-        "demonym_male": "Greek",
-        "demonym_female": "Greek",
+        "common_reference": "Guinea",
+        "english_clean": "Guinea",
+        "formal_order": "Guinea",
+        "alpha_2": "GN",
+        "alpha_3": "GIN",
+        "num_code": 324,
+        "demonym_male": "Guinean",
+        "demonym_female": "Guinean",
         "gendered_demonym": true,
-        "tld": ".gr",
-        "flag_emoji": "🇬🇷",
+        "tld": ".gn",
+        "flag_emoji": "🇬🇳",
         "calling_code": [
-            "30"
+            "224"
         ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Greenland",
-        "english_clean": "Greenland",
-        "formal_order": "Greenland",
-        "alpha_2": "GL",
-        "alpha_3": "GRL",
-        "num_code": 304,
-        "demonym_male": "Greenlander",
-        "demonym_female": "Greenlander",
-        "gendered_demonym": true,
-        "tld": ".gl",
-        "flag_emoji": "🇬🇱",
-        "calling_code": [
-            "299"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Grenada",
-        "english_clean": "Grenada",
-        "formal_order": "Grenada",
-        "alpha_2": "GD",
-        "alpha_3": "GRD",
-        "num_code": 308,
-        "demonym_male": "Grenadian",
-        "demonym_female": "Grenadian",
-        "gendered_demonym": true,
-        "tld": ".gd",
-        "flag_emoji": "🇬🇩",
-        "calling_code": [
-            "1-473"
-        ],
-        "continent": "North America"
+        "continent": "Africa"
     },
     {
         "common_reference": "Guadeloupe",
@@ -1528,70 +1458,19 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Guam",
-        "english_clean": "Guam",
-        "formal_order": "Guam",
-        "alpha_2": "GU",
-        "alpha_3": "GUM",
-        "num_code": 316,
-        "demonym_male": "Guamanian",
-        "demonym_female": "Guamanian",
+        "common_reference": "Gambia",
+        "english_clean": "Gambia",
+        "formal_order": "Gambia",
+        "alpha_2": "GM",
+        "alpha_3": "GMB",
+        "num_code": 270,
+        "demonym_male": "Gambian",
+        "demonym_female": "Gambian",
         "gendered_demonym": true,
-        "tld": ".gu",
-        "flag_emoji": "🇬🇺",
+        "tld": ".gm",
+        "flag_emoji": "🇬🇲",
         "calling_code": [
-            "1-671"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Guatemala",
-        "english_clean": "Guatemala",
-        "formal_order": "Guatemala",
-        "alpha_2": "GT",
-        "alpha_3": "GTM",
-        "num_code": 320,
-        "demonym_male": "Guatemalan",
-        "demonym_female": "Guatemalan",
-        "gendered_demonym": true,
-        "tld": ".gt",
-        "flag_emoji": "🇬🇹",
-        "calling_code": [
-            "502"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Guernsey",
-        "english_clean": "Guernsey",
-        "formal_order": "Guernsey",
-        "alpha_2": "GG",
-        "alpha_3": "GGY",
-        "num_code": 831,
-        "demonym_male": "Guernseyman",
-        "demonym_female": "Guernseywoman",
-        "gendered_demonym": false,
-        "tld": ".gg",
-        "flag_emoji": "🇬🇬",
-        "calling_code": [
-            "44"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Guinea",
-        "english_clean": "Guinea",
-        "formal_order": "Guinea",
-        "alpha_2": "GN",
-        "alpha_3": "GIN",
-        "num_code": 324,
-        "demonym_male": "Guinean",
-        "demonym_female": "Guinean",
-        "gendered_demonym": true,
-        "tld": ".gn",
-        "flag_emoji": "🇬🇳",
-        "calling_code": [
-            "224"
+            "220"
         ],
         "continent": "Africa"
     },
@@ -1613,6 +1492,125 @@
         "continent": "Africa"
     },
     {
+        "common_reference": "Equatorial Guinea",
+        "english_clean": "Equatorial Guinea",
+        "formal_order": "Equatorial Guinea",
+        "alpha_2": "GQ",
+        "alpha_3": "GNQ",
+        "num_code": 226,
+        "demonym_male": "Equatorial Guinean",
+        "demonym_female": "Equatorial Guinean",
+        "gendered_demonym": true,
+        "tld": ".gq",
+        "flag_emoji": "🇬🇶",
+        "calling_code": [
+            "240"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Greece",
+        "english_clean": "Greece",
+        "formal_order": "Greece",
+        "alpha_2": "GR",
+        "alpha_3": "GRC",
+        "num_code": 300,
+        "demonym_male": "Greek",
+        "demonym_female": "Greek",
+        "gendered_demonym": true,
+        "tld": ".gr",
+        "flag_emoji": "🇬🇷",
+        "calling_code": [
+            "30"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Grenada",
+        "english_clean": "Grenada",
+        "formal_order": "Grenada",
+        "alpha_2": "GD",
+        "alpha_3": "GRD",
+        "num_code": 308,
+        "demonym_male": "Grenadian",
+        "demonym_female": "Grenadian",
+        "gendered_demonym": true,
+        "tld": ".gd",
+        "flag_emoji": "🇬🇩",
+        "calling_code": [
+            "1-473"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Greenland",
+        "english_clean": "Greenland",
+        "formal_order": "Greenland",
+        "alpha_2": "GL",
+        "alpha_3": "GRL",
+        "num_code": 304,
+        "demonym_male": "Greenlander",
+        "demonym_female": "Greenlander",
+        "gendered_demonym": true,
+        "tld": ".gl",
+        "flag_emoji": "🇬🇱",
+        "calling_code": [
+            "299"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Guatemala",
+        "english_clean": "Guatemala",
+        "formal_order": "Guatemala",
+        "alpha_2": "GT",
+        "alpha_3": "GTM",
+        "num_code": 320,
+        "demonym_male": "Guatemalan",
+        "demonym_female": "Guatemalan",
+        "gendered_demonym": true,
+        "tld": ".gt",
+        "flag_emoji": "🇬🇹",
+        "calling_code": [
+            "502"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "French Guiana",
+        "english_clean": "French Guiana",
+        "formal_order": "French Guiana",
+        "alpha_2": "GF",
+        "alpha_3": "GUF",
+        "num_code": 254,
+        "demonym_male": "French Guianan",
+        "demonym_female": "French Guianan",
+        "gendered_demonym": true,
+        "tld": ".gf",
+        "flag_emoji": "🇬🇫",
+        "calling_code": [
+            "594"
+        ],
+        "continent": "South America"
+    },
+    {
+        "common_reference": "Guam",
+        "english_clean": "Guam",
+        "formal_order": "Guam",
+        "alpha_2": "GU",
+        "alpha_3": "GUM",
+        "num_code": 316,
+        "demonym_male": "Guamanian",
+        "demonym_female": "Guamanian",
+        "gendered_demonym": true,
+        "tld": ".gu",
+        "flag_emoji": "🇬🇺",
+        "calling_code": [
+            "1-671"
+        ],
+        "continent": "Oceania"
+    },
+    {
         "common_reference": "Guyana",
         "english_clean": "Guyana",
         "formal_order": "Guyana",
@@ -1628,74 +1626,6 @@
             "592"
         ],
         "continent": "South America"
-    },
-    {
-        "common_reference": "Haiti",
-        "english_clean": "Haiti",
-        "formal_order": "Haiti",
-        "alpha_2": "HT",
-        "alpha_3": "HTI",
-        "num_code": 332,
-        "demonym_male": "Haitian",
-        "demonym_female": "Haitian",
-        "gendered_demonym": true,
-        "tld": ".ht",
-        "flag_emoji": "🇭🇹",
-        "calling_code": [
-            "509"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Heard Island and McDonald Islands",
-        "english_clean": "Heard Island and McDonald Islands",
-        "formal_order": "Heard Island and McDonald Islands",
-        "alpha_2": "HM",
-        "alpha_3": "HMD",
-        "num_code": 334,
-        "demonym_male": "Heard Islander",
-        "demonym_female": "Heard Islander",
-        "gendered_demonym": true,
-        "tld": ".hm",
-        "flag_emoji": "🇭🇲",
-        "calling_code": [
-            "61"
-        ],
-        "continent": "Antarctica"
-    },
-    {
-        "common_reference": "Holy See",
-        "english_clean": "Holy See",
-        "formal_order": "Holy See",
-        "alpha_2": "VA",
-        "alpha_3": "VAT",
-        "num_code": 336,
-        "demonym_male": "Vatican",
-        "demonym_female": "Vatican",
-        "gendered_demonym": true,
-        "tld": ".va",
-        "flag_emoji": "🇻🇦",
-        "calling_code": [
-            "39"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Honduras",
-        "english_clean": "Honduras",
-        "formal_order": "Honduras",
-        "alpha_2": "HN",
-        "alpha_3": "HND",
-        "num_code": 340,
-        "demonym_male": "Honduran",
-        "demonym_female": "Honduran",
-        "gendered_demonym": true,
-        "tld": ".hn",
-        "flag_emoji": "🇭🇳",
-        "calling_code": [
-            "504"
-        ],
-        "continent": "North America"
     },
     {
         "common_reference": "Hong Kong",
@@ -1715,6 +1645,74 @@
         "continent": "Asia"
     },
     {
+        "common_reference": "Heard Island and McDonald Islands",
+        "english_clean": "Heard Island and McDonald Islands",
+        "formal_order": "Heard Island and McDonald Islands",
+        "alpha_2": "HM",
+        "alpha_3": "HMD",
+        "num_code": 334,
+        "demonym_male": "Heard Islander",
+        "demonym_female": "Heard Islander",
+        "gendered_demonym": true,
+        "tld": ".hm",
+        "flag_emoji": "🇭🇲",
+        "calling_code": [
+            "61"
+        ],
+        "continent": "Antarctica"
+    },
+    {
+        "common_reference": "Honduras",
+        "english_clean": "Honduras",
+        "formal_order": "Honduras",
+        "alpha_2": "HN",
+        "alpha_3": "HND",
+        "num_code": 340,
+        "demonym_male": "Honduran",
+        "demonym_female": "Honduran",
+        "gendered_demonym": true,
+        "tld": ".hn",
+        "flag_emoji": "🇭🇳",
+        "calling_code": [
+            "504"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Croatia",
+        "english_clean": "Croatia",
+        "formal_order": "Croatia",
+        "alpha_2": "HR",
+        "alpha_3": "HRV",
+        "num_code": 191,
+        "demonym_male": "Croatian",
+        "demonym_female": "Croatian",
+        "gendered_demonym": true,
+        "tld": ".hr",
+        "flag_emoji": "🇭🇷",
+        "calling_code": [
+            "385"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Haiti",
+        "english_clean": "Haiti",
+        "formal_order": "Haiti",
+        "alpha_2": "HT",
+        "alpha_3": "HTI",
+        "num_code": 332,
+        "demonym_male": "Haitian",
+        "demonym_female": "Haitian",
+        "gendered_demonym": true,
+        "tld": ".ht",
+        "flag_emoji": "🇭🇹",
+        "calling_code": [
+            "509"
+        ],
+        "continent": "North America"
+    },
+    {
         "common_reference": "Hungary",
         "english_clean": "Hungary",
         "formal_order": "Hungary",
@@ -1732,19 +1730,36 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Iceland",
-        "english_clean": "Iceland",
-        "formal_order": "Iceland",
-        "alpha_2": "IS",
-        "alpha_3": "ISL",
-        "num_code": 352,
-        "demonym_male": "Icelander",
-        "demonym_female": "Icelander",
+        "common_reference": "Indonesia",
+        "english_clean": "Indonesia",
+        "formal_order": "Indonesia",
+        "alpha_2": "ID",
+        "alpha_3": "IDN",
+        "num_code": 360,
+        "demonym_male": "Indonesian",
+        "demonym_female": "Indonesian",
         "gendered_demonym": true,
-        "tld": ".is",
-        "flag_emoji": "🇮🇸",
+        "tld": ".id",
+        "flag_emoji": "🇮🇩",
         "calling_code": [
-            "354"
+            "62"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Isle of Man",
+        "english_clean": "Isle of Man",
+        "formal_order": "Isle of Man",
+        "alpha_2": "IM",
+        "alpha_3": "IMN",
+        "num_code": 833,
+        "demonym_male": "Manxman",
+        "demonym_female": "Manxwoman",
+        "gendered_demonym": false,
+        "tld": ".im",
+        "flag_emoji": "🇮🇲",
+        "calling_code": [
+            "44"
         ],
         "continent": "Europe"
     },
@@ -1766,21 +1781,38 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Indonesia",
-        "english_clean": "Indonesia",
-        "formal_order": "Indonesia",
-        "alpha_2": "ID",
-        "alpha_3": "IDN",
-        "num_code": 360,
-        "demonym_male": "Indonesian",
-        "demonym_female": "Indonesian",
+        "common_reference": "British Indian Ocean Territory",
+        "english_clean": "British Indian Ocean Territory",
+        "formal_order": "British Indian Ocean Territory",
+        "alpha_2": "IO",
+        "alpha_3": "IOT",
+        "num_code": 86,
+        "demonym_male": "British",
+        "demonym_female": "British",
         "gendered_demonym": true,
-        "tld": ".id",
-        "flag_emoji": "🇮🇩",
+        "tld": ".io",
+        "flag_emoji": "🇮🇴",
         "calling_code": [
-            "62"
+            "246"
         ],
-        "continent": "Asia"
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Ireland",
+        "english_clean": "Ireland",
+        "formal_order": "Ireland",
+        "alpha_2": "IE",
+        "alpha_3": "IRL",
+        "num_code": 372,
+        "demonym_male": "Irish",
+        "demonym_female": "Irish",
+        "gendered_demonym": true,
+        "tld": ".ie",
+        "flag_emoji": "🇮🇪",
+        "calling_code": [
+            "353"
+        ],
+        "continent": "Europe"
     },
     {
         "common_reference": "Iran",
@@ -1817,36 +1849,19 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Ireland",
-        "english_clean": "Ireland",
-        "formal_order": "Ireland",
-        "alpha_2": "IE",
-        "alpha_3": "IRL",
-        "num_code": 372,
-        "demonym_male": "Irish",
-        "demonym_female": "Irish",
+        "common_reference": "Iceland",
+        "english_clean": "Iceland",
+        "formal_order": "Iceland",
+        "alpha_2": "IS",
+        "alpha_3": "ISL",
+        "num_code": 352,
+        "demonym_male": "Icelander",
+        "demonym_female": "Icelander",
         "gendered_demonym": true,
-        "tld": ".ie",
-        "flag_emoji": "🇮🇪",
+        "tld": ".is",
+        "flag_emoji": "🇮🇸",
         "calling_code": [
-            "353"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Isle of Man",
-        "english_clean": "Isle of Man",
-        "formal_order": "Isle of Man",
-        "alpha_2": "IM",
-        "alpha_3": "IMN",
-        "num_code": 833,
-        "demonym_male": "Manxman",
-        "demonym_female": "Manxwoman",
-        "gendered_demonym": false,
-        "tld": ".im",
-        "flag_emoji": "🇮🇲",
-        "calling_code": [
-            "44"
+            "354"
         ],
         "continent": "Europe"
     },
@@ -1902,23 +1917,6 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Japan",
-        "english_clean": "Japan",
-        "formal_order": "Japan",
-        "alpha_2": "JP",
-        "alpha_3": "JPN",
-        "num_code": 392,
-        "demonym_male": "Japanese",
-        "demonym_female": "Japanese",
-        "gendered_demonym": true,
-        "tld": ".jp",
-        "flag_emoji": "🇯🇵",
-        "calling_code": [
-            "81"
-        ],
-        "continent": "Asia"
-    },
-    {
         "common_reference": "Jersey",
         "english_clean": "Jersey",
         "formal_order": "Jersey",
@@ -1949,6 +1947,23 @@
         "flag_emoji": "🇯🇴",
         "calling_code": [
             "962"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Japan",
+        "english_clean": "Japan",
+        "formal_order": "Japan",
+        "alpha_2": "JP",
+        "alpha_3": "JPN",
+        "num_code": 392,
+        "demonym_male": "Japanese",
+        "demonym_female": "Japanese",
+        "gendered_demonym": true,
+        "tld": ".jp",
+        "flag_emoji": "🇯🇵",
+        "calling_code": [
+            "81"
         ],
         "continent": "Asia"
     },
@@ -1987,6 +2002,40 @@
         "continent": "Africa"
     },
     {
+        "common_reference": "Kyrgyzstan",
+        "english_clean": "Kyrgyzstan",
+        "formal_order": "Kyrgyzstan",
+        "alpha_2": "KG",
+        "alpha_3": "KGZ",
+        "num_code": 417,
+        "demonym_male": "Kirghiz",
+        "demonym_female": "Kirghiz",
+        "gendered_demonym": true,
+        "tld": ".kg",
+        "flag_emoji": "🇰🇬",
+        "calling_code": [
+            "996"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Cambodia",
+        "english_clean": "Cambodia",
+        "formal_order": "Cambodia",
+        "alpha_2": "KH",
+        "alpha_3": "KHM",
+        "num_code": 116,
+        "demonym_male": "Cambodian",
+        "demonym_female": "Cambodian",
+        "gendered_demonym": true,
+        "tld": ".kh",
+        "flag_emoji": "🇰🇭",
+        "calling_code": [
+            "855"
+        ],
+        "continent": "Asia"
+    },
+    {
         "common_reference": "Kiribati",
         "english_clean": "Kiribati",
         "formal_order": "Kiribati",
@@ -2004,21 +2053,21 @@
         "continent": "Oceania"
     },
     {
-        "common_reference": "North Korea",
-        "english_clean": "Korea, Democratic People's Republic of",
-        "formal_order": "Democratic People's Republic of Korea",
-        "alpha_2": "KP",
-        "alpha_3": "PRK",
-        "num_code": 408,
-        "demonym_male": "North Korean",
-        "demonym_female": "North Korean",
+        "common_reference": "Saint Kitts and Nevis",
+        "english_clean": "Saint Kitts and Nevis",
+        "formal_order": "Saint Kitts and Nevis",
+        "alpha_2": "KN",
+        "alpha_3": "KNA",
+        "num_code": 659,
+        "demonym_male": "Kittitian or Nevisian",
+        "demonym_female": "Kittitian or Nevisian",
         "gendered_demonym": true,
-        "tld": ".kp",
-        "flag_emoji": "🇰🇵",
+        "tld": ".kn",
+        "flag_emoji": "🇰🇳",
         "calling_code": [
-            "850"
+            "1-869"
         ],
-        "continent": "Asia"
+        "continent": "North America"
     },
     {
         "common_reference": "South Korea",
@@ -2055,23 +2104,6 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Kyrgyzstan",
-        "english_clean": "Kyrgyzstan",
-        "formal_order": "Kyrgyzstan",
-        "alpha_2": "KG",
-        "alpha_3": "KGZ",
-        "num_code": 417,
-        "demonym_male": "Kirghiz",
-        "demonym_female": "Kirghiz",
-        "gendered_demonym": true,
-        "tld": ".kg",
-        "flag_emoji": "🇰🇬",
-        "calling_code": [
-            "996"
-        ],
-        "continent": "Asia"
-    },
-    {
         "common_reference": "Laos",
         "english_clean": "Lao People's Democratic Republic",
         "formal_order": "Lao People's Democratic Republic",
@@ -2089,23 +2121,6 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Latvia",
-        "english_clean": "Latvia",
-        "formal_order": "Latvia",
-        "alpha_2": "LV",
-        "alpha_3": "LVA",
-        "num_code": 428,
-        "demonym_male": "Latvian",
-        "demonym_female": "Latvian",
-        "gendered_demonym": true,
-        "tld": ".lv",
-        "flag_emoji": "🇱🇻",
-        "calling_code": [
-            "371"
-        ],
-        "continent": "Europe"
-    },
-    {
         "common_reference": "Lebanon",
         "english_clean": "Lebanon",
         "formal_order": "Lebanon",
@@ -2121,23 +2136,6 @@
             "961"
         ],
         "continent": "Asia"
-    },
-    {
-        "common_reference": "Lesotho",
-        "english_clean": "Lesotho",
-        "formal_order": "Lesotho",
-        "alpha_2": "LS",
-        "alpha_3": "LSO",
-        "num_code": 426,
-        "demonym_male": "Mosotho",
-        "demonym_female": "Mosotho",
-        "gendered_demonym": true,
-        "tld": ".ls",
-        "flag_emoji": "🇱🇸",
-        "calling_code": [
-            "266"
-        ],
-        "continent": "Africa"
     },
     {
         "common_reference": "Liberia",
@@ -2174,6 +2172,23 @@
         "continent": "Africa"
     },
     {
+        "common_reference": "Saint Lucia",
+        "english_clean": "Saint Lucia",
+        "formal_order": "Saint Lucia",
+        "alpha_2": "LC",
+        "alpha_3": "LCA",
+        "num_code": 662,
+        "demonym_male": "Saint Lucian",
+        "demonym_female": "Saint Lucian",
+        "gendered_demonym": true,
+        "tld": ".lc",
+        "flag_emoji": "🇱🇨",
+        "calling_code": [
+            "1-758"
+        ],
+        "continent": "North America"
+    },
+    {
         "common_reference": "Liechtenstein",
         "english_clean": "Liechtenstein",
         "formal_order": "Liechtenstein",
@@ -2189,6 +2204,40 @@
             "423"
         ],
         "continent": "Europe"
+    },
+    {
+        "common_reference": "Sri Lanka",
+        "english_clean": "Sri Lanka",
+        "formal_order": "Sri Lanka",
+        "alpha_2": "LK",
+        "alpha_3": "LKA",
+        "num_code": 144,
+        "demonym_male": "Sri Lankan",
+        "demonym_female": "Sri Lankan",
+        "gendered_demonym": true,
+        "tld": ".lk",
+        "flag_emoji": "🇱🇰",
+        "calling_code": [
+            "94"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Lesotho",
+        "english_clean": "Lesotho",
+        "formal_order": "Lesotho",
+        "alpha_2": "LS",
+        "alpha_3": "LSO",
+        "num_code": 426,
+        "demonym_male": "Mosotho",
+        "demonym_female": "Mosotho",
+        "gendered_demonym": true,
+        "tld": ".ls",
+        "flag_emoji": "🇱🇸",
+        "calling_code": [
+            "266"
+        ],
+        "continent": "Africa"
     },
     {
         "common_reference": "Lithuania",
@@ -2225,6 +2274,23 @@
         "continent": "Europe"
     },
     {
+        "common_reference": "Latvia",
+        "english_clean": "Latvia",
+        "formal_order": "Latvia",
+        "alpha_2": "LV",
+        "alpha_3": "LVA",
+        "num_code": 428,
+        "demonym_male": "Latvian",
+        "demonym_female": "Latvian",
+        "gendered_demonym": true,
+        "tld": ".lv",
+        "flag_emoji": "🇱🇻",
+        "calling_code": [
+            "371"
+        ],
+        "continent": "Europe"
+    },
+    {
         "common_reference": "Macao",
         "english_clean": "Macao",
         "formal_order": "Macao",
@@ -2242,6 +2308,74 @@
         "continent": "Asia"
     },
     {
+        "common_reference": "Saint Martin (French part)",
+        "english_clean": "Saint Martin (French part)",
+        "formal_order": "Saint Martin (French part)",
+        "alpha_2": "MF",
+        "alpha_3": "MAF",
+        "num_code": 663,
+        "demonym_male": "Saint-Martinois",
+        "demonym_female": "Saint-Martinoise",
+        "gendered_demonym": false,
+        "tld": ".mf",
+        "flag_emoji": "🇲🇫",
+        "calling_code": [
+            "590"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Morocco",
+        "english_clean": "Morocco",
+        "formal_order": "Morocco",
+        "alpha_2": "MA",
+        "alpha_3": "MAR",
+        "num_code": 504,
+        "demonym_male": "Moroccan",
+        "demonym_female": "Moroccan",
+        "gendered_demonym": true,
+        "tld": ".ma",
+        "flag_emoji": "🇲🇦",
+        "calling_code": [
+            "212"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Monaco",
+        "english_clean": "Monaco",
+        "formal_order": "Monaco",
+        "alpha_2": "MC",
+        "alpha_3": "MCO",
+        "num_code": 492,
+        "demonym_male": "Monegasque",
+        "demonym_female": "Monegasque",
+        "gendered_demonym": true,
+        "tld": ".mc",
+        "flag_emoji": "🇲🇨",
+        "calling_code": [
+            "377"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Moldova",
+        "english_clean": "Moldova, Republic of",
+        "formal_order": "Republic of Moldova",
+        "alpha_2": "MD",
+        "alpha_3": "MDA",
+        "num_code": 498,
+        "demonym_male": "Moldovan",
+        "demonym_female": "Moldovan",
+        "gendered_demonym": true,
+        "tld": ".md",
+        "flag_emoji": "🇲🇩",
+        "calling_code": [
+            "373"
+        ],
+        "continent": "Europe"
+    },
+    {
         "common_reference": "Madagascar",
         "english_clean": "Madagascar",
         "formal_order": "Madagascar",
@@ -2255,6 +2389,261 @@
         "flag_emoji": "🇲🇬",
         "calling_code": [
             "261"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Maldives",
+        "english_clean": "Maldives",
+        "formal_order": "Maldives",
+        "alpha_2": "MV",
+        "alpha_3": "MDV",
+        "num_code": 462,
+        "demonym_male": "Maldivan",
+        "demonym_female": "Maldivan",
+        "gendered_demonym": true,
+        "tld": ".mv",
+        "flag_emoji": "🇲🇻",
+        "calling_code": [
+            "960"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Mexico",
+        "english_clean": "Mexico",
+        "formal_order": "Mexico",
+        "alpha_2": "MX",
+        "alpha_3": "MEX",
+        "num_code": 484,
+        "demonym_male": "Mexican",
+        "demonym_female": "Mexican",
+        "gendered_demonym": true,
+        "tld": ".mx",
+        "flag_emoji": "🇲🇽",
+        "calling_code": [
+            "52"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Marshall Islands",
+        "english_clean": "Marshall Islands",
+        "formal_order": "Marshall Islands",
+        "alpha_2": "MH",
+        "alpha_3": "MHL",
+        "num_code": 584,
+        "demonym_male": "Marshallese",
+        "demonym_female": "Marshallese",
+        "gendered_demonym": true,
+        "tld": ".mh",
+        "flag_emoji": "🇲🇭",
+        "calling_code": [
+            "692"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "North Macedonia",
+        "english_clean": "North Macedonia",
+        "formal_order": "North Macedonia",
+        "alpha_2": "MK",
+        "alpha_3": "MKD",
+        "num_code": 807,
+        "demonym_male": "Macedonian",
+        "demonym_female": "Macedonian",
+        "gendered_demonym": true,
+        "tld": ".mk",
+        "flag_emoji": "🇲🇰",
+        "calling_code": [
+            "389"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Mali",
+        "english_clean": "Mali",
+        "formal_order": "Mali",
+        "alpha_2": "ML",
+        "alpha_3": "MLI",
+        "num_code": 466,
+        "demonym_male": "Malian",
+        "demonym_female": "Malian",
+        "gendered_demonym": true,
+        "tld": ".ml",
+        "flag_emoji": "🇲🇱",
+        "calling_code": [
+            "223"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Malta",
+        "english_clean": "Malta",
+        "formal_order": "Malta",
+        "alpha_2": "MT",
+        "alpha_3": "MLT",
+        "num_code": 470,
+        "demonym_male": "Maltese",
+        "demonym_female": "Maltese",
+        "gendered_demonym": true,
+        "tld": ".mt",
+        "flag_emoji": "🇲🇹",
+        "calling_code": [
+            "356"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Myanmar",
+        "english_clean": "Myanmar",
+        "formal_order": "Myanmar",
+        "alpha_2": "MM",
+        "alpha_3": "MMR",
+        "num_code": 104,
+        "demonym_male": "Burmese",
+        "demonym_female": "Burmese",
+        "gendered_demonym": true,
+        "tld": ".mm",
+        "flag_emoji": "🇲🇲",
+        "calling_code": [
+            "95"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Montenegro",
+        "english_clean": "Montenegro",
+        "formal_order": "Montenegro",
+        "alpha_2": "ME",
+        "alpha_3": "MNE",
+        "num_code": 499,
+        "demonym_male": "Montenegrin",
+        "demonym_female": "Montenegrin",
+        "gendered_demonym": true,
+        "tld": ".me",
+        "flag_emoji": "🇲🇪",
+        "calling_code": [
+            "382"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Mongolia",
+        "english_clean": "Mongolia",
+        "formal_order": "Mongolia",
+        "alpha_2": "MN",
+        "alpha_3": "MNG",
+        "num_code": 496,
+        "demonym_male": "Mongolian",
+        "demonym_female": "Mongolian",
+        "gendered_demonym": true,
+        "tld": ".mn",
+        "flag_emoji": "🇲🇳",
+        "calling_code": [
+            "976"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Northern Mariana Islands",
+        "english_clean": "Northern Mariana Islands",
+        "formal_order": "Northern Mariana Islands",
+        "alpha_2": "MP",
+        "alpha_3": "MNP",
+        "num_code": 580,
+        "demonym_male": "Northern Marianan",
+        "demonym_female": "Northern Marianan",
+        "gendered_demonym": true,
+        "tld": ".mp",
+        "flag_emoji": "🇲🇵",
+        "calling_code": [
+            "1-670"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "Mozambique",
+        "english_clean": "Mozambique",
+        "formal_order": "Mozambique",
+        "alpha_2": "MZ",
+        "alpha_3": "MOZ",
+        "num_code": 508,
+        "demonym_male": "Mozambican",
+        "demonym_female": "Mozambican",
+        "gendered_demonym": true,
+        "tld": ".mz",
+        "flag_emoji": "🇲🇿",
+        "calling_code": [
+            "258"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Mauritania",
+        "english_clean": "Mauritania",
+        "formal_order": "Mauritania",
+        "alpha_2": "MR",
+        "alpha_3": "MRT",
+        "num_code": 478,
+        "demonym_male": "Mauritanian",
+        "demonym_female": "Mauritanian",
+        "gendered_demonym": true,
+        "tld": ".mr",
+        "flag_emoji": "🇲🇷",
+        "calling_code": [
+            "222"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Montserrat",
+        "english_clean": "Montserrat",
+        "formal_order": "Montserrat",
+        "alpha_2": "MS",
+        "alpha_3": "MSR",
+        "num_code": 500,
+        "demonym_male": "Montserratian",
+        "demonym_female": "Montserratian",
+        "gendered_demonym": true,
+        "tld": ".ms",
+        "flag_emoji": "🇲🇸",
+        "calling_code": [
+            "1-664"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Martinique",
+        "english_clean": "Martinique",
+        "formal_order": "Martinique",
+        "alpha_2": "MQ",
+        "alpha_3": "MTQ",
+        "num_code": 474,
+        "demonym_male": "Martiniquais",
+        "demonym_female": "Martiniquaise",
+        "gendered_demonym": false,
+        "tld": ".mq",
+        "flag_emoji": "🇲🇶",
+        "calling_code": [
+            "596"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Mauritius",
+        "english_clean": "Mauritius",
+        "formal_order": "Mauritius",
+        "alpha_2": "MU",
+        "alpha_3": "MUS",
+        "num_code": 480,
+        "demonym_male": "Mauritian",
+        "demonym_female": "Mauritian",
+        "gendered_demonym": true,
+        "tld": ".mu",
+        "flag_emoji": "🇲🇺",
+        "calling_code": [
+            "230"
         ],
         "continent": "Africa"
     },
@@ -2293,125 +2682,6 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Maldives",
-        "english_clean": "Maldives",
-        "formal_order": "Maldives",
-        "alpha_2": "MV",
-        "alpha_3": "MDV",
-        "num_code": 462,
-        "demonym_male": "Maldivan",
-        "demonym_female": "Maldivan",
-        "gendered_demonym": true,
-        "tld": ".mv",
-        "flag_emoji": "🇲🇻",
-        "calling_code": [
-            "960"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Mali",
-        "english_clean": "Mali",
-        "formal_order": "Mali",
-        "alpha_2": "ML",
-        "alpha_3": "MLI",
-        "num_code": 466,
-        "demonym_male": "Malian",
-        "demonym_female": "Malian",
-        "gendered_demonym": true,
-        "tld": ".ml",
-        "flag_emoji": "🇲🇱",
-        "calling_code": [
-            "223"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Malta",
-        "english_clean": "Malta",
-        "formal_order": "Malta",
-        "alpha_2": "MT",
-        "alpha_3": "MLT",
-        "num_code": 470,
-        "demonym_male": "Maltese",
-        "demonym_female": "Maltese",
-        "gendered_demonym": true,
-        "tld": ".mt",
-        "flag_emoji": "🇲🇹",
-        "calling_code": [
-            "356"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Marshall Islands",
-        "english_clean": "Marshall Islands",
-        "formal_order": "Marshall Islands",
-        "alpha_2": "MH",
-        "alpha_3": "MHL",
-        "num_code": 584,
-        "demonym_male": "Marshallese",
-        "demonym_female": "Marshallese",
-        "gendered_demonym": true,
-        "tld": ".mh",
-        "flag_emoji": "🇲🇭",
-        "calling_code": [
-            "692"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Martinique",
-        "english_clean": "Martinique",
-        "formal_order": "Martinique",
-        "alpha_2": "MQ",
-        "alpha_3": "MTQ",
-        "num_code": 474,
-        "demonym_male": "Martiniquais",
-        "demonym_female": "Martiniquaise",
-        "gendered_demonym": false,
-        "tld": ".mq",
-        "flag_emoji": "🇲🇶",
-        "calling_code": [
-            "596"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Mauritania",
-        "english_clean": "Mauritania",
-        "formal_order": "Mauritania",
-        "alpha_2": "MR",
-        "alpha_3": "MRT",
-        "num_code": 478,
-        "demonym_male": "Mauritanian",
-        "demonym_female": "Mauritanian",
-        "gendered_demonym": true,
-        "tld": ".mr",
-        "flag_emoji": "🇲🇷",
-        "calling_code": [
-            "222"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Mauritius",
-        "english_clean": "Mauritius",
-        "formal_order": "Mauritius",
-        "alpha_2": "MU",
-        "alpha_3": "MUS",
-        "num_code": 480,
-        "demonym_male": "Mauritian",
-        "demonym_female": "Mauritian",
-        "gendered_demonym": true,
-        "tld": ".mu",
-        "flag_emoji": "🇲🇺",
-        "calling_code": [
-            "230"
-        ],
-        "continent": "Africa"
-    },
-    {
         "common_reference": "Mayotte",
         "english_clean": "Mayotte",
         "formal_order": "Mayotte",
@@ -2427,176 +2697,6 @@
             "262"
         ],
         "continent": "Africa"
-    },
-    {
-        "common_reference": "Mexico",
-        "english_clean": "Mexico",
-        "formal_order": "Mexico",
-        "alpha_2": "MX",
-        "alpha_3": "MEX",
-        "num_code": 484,
-        "demonym_male": "Mexican",
-        "demonym_female": "Mexican",
-        "gendered_demonym": true,
-        "tld": ".mx",
-        "flag_emoji": "🇲🇽",
-        "calling_code": [
-            "52"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Micronesia",
-        "english_clean": "Micronesia, Federated States of",
-        "formal_order": "Federated States of Micronesia",
-        "alpha_2": "FM",
-        "alpha_3": "FSM",
-        "num_code": 583,
-        "demonym_male": "Micronesian",
-        "demonym_female": "Micronesian",
-        "gendered_demonym": true,
-        "tld": ".fm",
-        "flag_emoji": "🇫🇲",
-        "calling_code": [
-            "691"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Moldova",
-        "english_clean": "Moldova, Republic of",
-        "formal_order": "Republic of Moldova",
-        "alpha_2": "MD",
-        "alpha_3": "MDA",
-        "num_code": 498,
-        "demonym_male": "Moldovan",
-        "demonym_female": "Moldovan",
-        "gendered_demonym": true,
-        "tld": ".md",
-        "flag_emoji": "🇲🇩",
-        "calling_code": [
-            "373"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Monaco",
-        "english_clean": "Monaco",
-        "formal_order": "Monaco",
-        "alpha_2": "MC",
-        "alpha_3": "MCO",
-        "num_code": 492,
-        "demonym_male": "Monegasque",
-        "demonym_female": "Monegasque",
-        "gendered_demonym": true,
-        "tld": ".mc",
-        "flag_emoji": "🇲🇨",
-        "calling_code": [
-            "377"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Mongolia",
-        "english_clean": "Mongolia",
-        "formal_order": "Mongolia",
-        "alpha_2": "MN",
-        "alpha_3": "MNG",
-        "num_code": 496,
-        "demonym_male": "Mongolian",
-        "demonym_female": "Mongolian",
-        "gendered_demonym": true,
-        "tld": ".mn",
-        "flag_emoji": "🇲🇳",
-        "calling_code": [
-            "976"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Montenegro",
-        "english_clean": "Montenegro",
-        "formal_order": "Montenegro",
-        "alpha_2": "ME",
-        "alpha_3": "MNE",
-        "num_code": 499,
-        "demonym_male": "Montenegrin",
-        "demonym_female": "Montenegrin",
-        "gendered_demonym": true,
-        "tld": ".me",
-        "flag_emoji": "🇲🇪",
-        "calling_code": [
-            "382"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Montserrat",
-        "english_clean": "Montserrat",
-        "formal_order": "Montserrat",
-        "alpha_2": "MS",
-        "alpha_3": "MSR",
-        "num_code": 500,
-        "demonym_male": "Montserratian",
-        "demonym_female": "Montserratian",
-        "gendered_demonym": true,
-        "tld": ".ms",
-        "flag_emoji": "🇲🇸",
-        "calling_code": [
-            "1-664"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Morocco",
-        "english_clean": "Morocco",
-        "formal_order": "Morocco",
-        "alpha_2": "MA",
-        "alpha_3": "MAR",
-        "num_code": 504,
-        "demonym_male": "Moroccan",
-        "demonym_female": "Moroccan",
-        "gendered_demonym": true,
-        "tld": ".ma",
-        "flag_emoji": "🇲🇦",
-        "calling_code": [
-            "212"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Mozambique",
-        "english_clean": "Mozambique",
-        "formal_order": "Mozambique",
-        "alpha_2": "MZ",
-        "alpha_3": "MOZ",
-        "num_code": 508,
-        "demonym_male": "Mozambican",
-        "demonym_female": "Mozambican",
-        "gendered_demonym": true,
-        "tld": ".mz",
-        "flag_emoji": "🇲🇿",
-        "calling_code": [
-            "258"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Myanmar",
-        "english_clean": "Myanmar",
-        "formal_order": "Myanmar",
-        "alpha_2": "MM",
-        "alpha_3": "MMR",
-        "num_code": 104,
-        "demonym_male": "Burmese",
-        "demonym_female": "Burmese",
-        "gendered_demonym": true,
-        "tld": ".mm",
-        "flag_emoji": "🇲🇲",
-        "calling_code": [
-            "95"
-        ],
-        "continent": "Asia"
     },
     {
         "common_reference": "Namibia",
@@ -2616,57 +2716,6 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Nauru",
-        "english_clean": "Nauru",
-        "formal_order": "Nauru",
-        "alpha_2": "NR",
-        "alpha_3": "NRU",
-        "num_code": 520,
-        "demonym_male": "Nauruan",
-        "demonym_female": "Nauruan",
-        "gendered_demonym": true,
-        "tld": ".nr",
-        "flag_emoji": "🇳🇷",
-        "calling_code": [
-            "674"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Nepal",
-        "english_clean": "Nepal",
-        "formal_order": "Nepal",
-        "alpha_2": "NP",
-        "alpha_3": "NPL",
-        "num_code": 524,
-        "demonym_male": "Nepalese",
-        "demonym_female": "Nepalese",
-        "gendered_demonym": true,
-        "tld": ".np",
-        "flag_emoji": "🇳🇵",
-        "calling_code": [
-            "977"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Netherlands",
-        "english_clean": "Netherlands, Kingdom of the",
-        "formal_order": "Kingdom of the Netherlands",
-        "alpha_2": "NL",
-        "alpha_3": "NLD",
-        "num_code": 528,
-        "demonym_male": "Dutch",
-        "demonym_female": "Dutch",
-        "gendered_demonym": true,
-        "tld": ".nl",
-        "flag_emoji": "🇳🇱",
-        "calling_code": [
-            "31"
-        ],
-        "continent": "Europe"
-    },
-    {
         "common_reference": "New Caledonia",
         "english_clean": "New Caledonia",
         "formal_order": "New Caledonia",
@@ -2682,40 +2731,6 @@
             "687"
         ],
         "continent": "Oceania"
-    },
-    {
-        "common_reference": "New Zealand",
-        "english_clean": "New Zealand",
-        "formal_order": "New Zealand",
-        "alpha_2": "NZ",
-        "alpha_3": "NZL",
-        "num_code": 554,
-        "demonym_male": "New Zealander",
-        "demonym_female": "New Zealander",
-        "gendered_demonym": true,
-        "tld": ".nz",
-        "flag_emoji": "🇳🇿",
-        "calling_code": [
-            "64"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Nicaragua",
-        "english_clean": "Nicaragua",
-        "formal_order": "Nicaragua",
-        "alpha_2": "NI",
-        "alpha_3": "NIC",
-        "num_code": 558,
-        "demonym_male": "Nicaraguan",
-        "demonym_female": "Nicaraguan",
-        "gendered_demonym": true,
-        "tld": ".ni",
-        "flag_emoji": "🇳🇮",
-        "calling_code": [
-            "505"
-        ],
-        "continent": "North America"
     },
     {
         "common_reference": "Niger",
@@ -2735,6 +2750,23 @@
         "continent": "Africa"
     },
     {
+        "common_reference": "Norfolk Island",
+        "english_clean": "Norfolk Island",
+        "formal_order": "Norfolk Island",
+        "alpha_2": "NF",
+        "alpha_3": "NFK",
+        "num_code": 574,
+        "demonym_male": "Norfolk Islander",
+        "demonym_female": "Norfolk Islander",
+        "gendered_demonym": true,
+        "tld": ".nf",
+        "flag_emoji": "🇳🇫",
+        "calling_code": [
+            "672"
+        ],
+        "continent": "Oceania"
+    },
+    {
         "common_reference": "Nigeria",
         "english_clean": "Nigeria",
         "formal_order": "Nigeria",
@@ -2750,6 +2782,23 @@
             "234"
         ],
         "continent": "Africa"
+    },
+    {
+        "common_reference": "Nicaragua",
+        "english_clean": "Nicaragua",
+        "formal_order": "Nicaragua",
+        "alpha_2": "NI",
+        "alpha_3": "NIC",
+        "num_code": 558,
+        "demonym_male": "Nicaraguan",
+        "demonym_female": "Nicaraguan",
+        "gendered_demonym": true,
+        "tld": ".ni",
+        "flag_emoji": "🇳🇮",
+        "calling_code": [
+            "505"
+        ],
+        "continent": "North America"
     },
     {
         "common_reference": "Niue",
@@ -2769,55 +2818,21 @@
         "continent": "Oceania"
     },
     {
-        "common_reference": "Norfolk Island",
-        "english_clean": "Norfolk Island",
-        "formal_order": "Norfolk Island",
-        "alpha_2": "NF",
-        "alpha_3": "NFK",
-        "num_code": 574,
-        "demonym_male": "Norfolk Islander",
-        "demonym_female": "Norfolk Islander",
+        "common_reference": "Netherlands",
+        "english_clean": "Netherlands, Kingdom of the",
+        "formal_order": "Kingdom of the Netherlands",
+        "alpha_2": "NL",
+        "alpha_3": "NLD",
+        "num_code": 528,
+        "demonym_male": "Dutch",
+        "demonym_female": "Dutch",
         "gendered_demonym": true,
-        "tld": ".nf",
-        "flag_emoji": "🇳🇫",
+        "tld": ".nl",
+        "flag_emoji": "🇳🇱",
         "calling_code": [
-            "672"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "North Macedonia",
-        "english_clean": "North Macedonia",
-        "formal_order": "North Macedonia",
-        "alpha_2": "MK",
-        "alpha_3": "MKD",
-        "num_code": 807,
-        "demonym_male": "Macedonian",
-        "demonym_female": "Macedonian",
-        "gendered_demonym": true,
-        "tld": ".mk",
-        "flag_emoji": "🇲🇰",
-        "calling_code": [
-            "389"
+            "31"
         ],
         "continent": "Europe"
-    },
-    {
-        "common_reference": "Northern Mariana Islands",
-        "english_clean": "Northern Mariana Islands",
-        "formal_order": "Northern Mariana Islands",
-        "alpha_2": "MP",
-        "alpha_3": "MNP",
-        "num_code": 580,
-        "demonym_male": "Northern Marianan",
-        "demonym_female": "Northern Marianan",
-        "gendered_demonym": true,
-        "tld": ".mp",
-        "flag_emoji": "🇲🇵",
-        "calling_code": [
-            "1-670"
-        ],
-        "continent": "Oceania"
     },
     {
         "common_reference": "Norway",
@@ -2835,6 +2850,57 @@
             "47"
         ],
         "continent": "Europe"
+    },
+    {
+        "common_reference": "Nepal",
+        "english_clean": "Nepal",
+        "formal_order": "Nepal",
+        "alpha_2": "NP",
+        "alpha_3": "NPL",
+        "num_code": 524,
+        "demonym_male": "Nepalese",
+        "demonym_female": "Nepalese",
+        "gendered_demonym": true,
+        "tld": ".np",
+        "flag_emoji": "🇳🇵",
+        "calling_code": [
+            "977"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Nauru",
+        "english_clean": "Nauru",
+        "formal_order": "Nauru",
+        "alpha_2": "NR",
+        "alpha_3": "NRU",
+        "num_code": 520,
+        "demonym_male": "Nauruan",
+        "demonym_female": "Nauruan",
+        "gendered_demonym": true,
+        "tld": ".nr",
+        "flag_emoji": "🇳🇷",
+        "calling_code": [
+            "674"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "New Zealand",
+        "english_clean": "New Zealand",
+        "formal_order": "New Zealand",
+        "alpha_2": "NZ",
+        "alpha_3": "NZL",
+        "num_code": 554,
+        "demonym_male": "New Zealander",
+        "demonym_female": "New Zealander",
+        "gendered_demonym": true,
+        "tld": ".nz",
+        "flag_emoji": "🇳🇿",
+        "calling_code": [
+            "64"
+        ],
+        "continent": "Oceania"
     },
     {
         "common_reference": "Oman",
@@ -2871,41 +2937,6 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Palau",
-        "english_clean": "Palau",
-        "formal_order": "Palau",
-        "alpha_2": "PW",
-        "alpha_3": "PLW",
-        "num_code": 585,
-        "demonym_male": "Palauan",
-        "demonym_female": "Palauan",
-        "gendered_demonym": true,
-        "tld": ".pw",
-        "flag_emoji": "🇵🇼",
-        "calling_code": [
-            "680"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Palestine",
-        "english_clean": "Palestine, State of",
-        "formal_order": "State of Palestine",
-        "alpha_2": "PS",
-        "alpha_3": "PSE",
-        "num_code": 275,
-        "demonym_male": "Palestinian",
-        "demonym_female": "Palestinian",
-        "gendered_demonym": true,
-        "tld": ".ps",
-        "flag_emoji": "🇵🇸",
-        "calling_code": [
-            "970",
-            "972"
-        ],
-        "continent": "Asia"
-    },
-    {
         "common_reference": "Panama",
         "english_clean": "Panama",
         "formal_order": "Panama",
@@ -2923,38 +2954,21 @@
         "continent": "North America"
     },
     {
-        "common_reference": "Papua New Guinea",
-        "english_clean": "Papua New Guinea",
-        "formal_order": "Papua New Guinea",
-        "alpha_2": "PG",
-        "alpha_3": "PNG",
-        "num_code": 598,
-        "demonym_male": "Papua New Guinean",
-        "demonym_female": "Papua New Guinean",
+        "common_reference": "Pitcairn",
+        "english_clean": "Pitcairn",
+        "formal_order": "Pitcairn",
+        "alpha_2": "PN",
+        "alpha_3": "PCN",
+        "num_code": 612,
+        "demonym_male": "Pitcairn Islander",
+        "demonym_female": "Pitcairn Islander",
         "gendered_demonym": true,
-        "tld": ".pg",
-        "flag_emoji": "🇵🇬",
+        "tld": ".pn",
+        "flag_emoji": "🇵🇳",
         "calling_code": [
-            "675"
+            "870"
         ],
         "continent": "Oceania"
-    },
-    {
-        "common_reference": "Paraguay",
-        "english_clean": "Paraguay",
-        "formal_order": "Paraguay",
-        "alpha_2": "PY",
-        "alpha_3": "PRY",
-        "num_code": 600,
-        "demonym_male": "Paraguayan",
-        "demonym_female": "Paraguayan",
-        "gendered_demonym": true,
-        "tld": ".py",
-        "flag_emoji": "🇵🇾",
-        "calling_code": [
-            "595"
-        ],
-        "continent": "South America"
     },
     {
         "common_reference": "Peru",
@@ -2991,19 +3005,36 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Pitcairn",
-        "english_clean": "Pitcairn",
-        "formal_order": "Pitcairn",
-        "alpha_2": "PN",
-        "alpha_3": "PCN",
-        "num_code": 612,
-        "demonym_male": "Pitcairn Islander",
-        "demonym_female": "Pitcairn Islander",
+        "common_reference": "Palau",
+        "english_clean": "Palau",
+        "formal_order": "Palau",
+        "alpha_2": "PW",
+        "alpha_3": "PLW",
+        "num_code": 585,
+        "demonym_male": "Palauan",
+        "demonym_female": "Palauan",
         "gendered_demonym": true,
-        "tld": ".pn",
-        "flag_emoji": "🇵🇳",
+        "tld": ".pw",
+        "flag_emoji": "🇵🇼",
         "calling_code": [
-            "870"
+            "680"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "Papua New Guinea",
+        "english_clean": "Papua New Guinea",
+        "formal_order": "Papua New Guinea",
+        "alpha_2": "PG",
+        "alpha_3": "PNG",
+        "num_code": 598,
+        "demonym_male": "Papua New Guinean",
+        "demonym_female": "Papua New Guinean",
+        "gendered_demonym": true,
+        "tld": ".pg",
+        "flag_emoji": "🇵🇬",
+        "calling_code": [
+            "675"
         ],
         "continent": "Oceania"
     },
@@ -3025,6 +3056,41 @@
         "continent": "Europe"
     },
     {
+        "common_reference": "Puerto Rico",
+        "english_clean": "Puerto Rico",
+        "formal_order": "Puerto Rico",
+        "alpha_2": "PR",
+        "alpha_3": "PRI",
+        "num_code": 630,
+        "demonym_male": "Puerto Rican",
+        "demonym_female": "Puerto Rican",
+        "gendered_demonym": true,
+        "tld": ".pr",
+        "flag_emoji": "🇵🇷",
+        "calling_code": [
+            "1-787",
+            "1-939"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "North Korea",
+        "english_clean": "Korea, Democratic People's Republic of",
+        "formal_order": "Democratic People's Republic of Korea",
+        "alpha_2": "KP",
+        "alpha_3": "PRK",
+        "num_code": 408,
+        "demonym_male": "North Korean",
+        "demonym_female": "North Korean",
+        "gendered_demonym": true,
+        "tld": ".kp",
+        "flag_emoji": "🇰🇵",
+        "calling_code": [
+            "850"
+        ],
+        "continent": "Asia"
+    },
+    {
         "common_reference": "Portugal",
         "english_clean": "Portugal",
         "formal_order": "Portugal",
@@ -3042,22 +3108,56 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Puerto Rico",
-        "english_clean": "Puerto Rico",
-        "formal_order": "Puerto Rico",
-        "alpha_2": "PR",
-        "alpha_3": "PRI",
-        "num_code": 630,
-        "demonym_male": "Puerto Rican",
-        "demonym_female": "Puerto Rican",
+        "common_reference": "Paraguay",
+        "english_clean": "Paraguay",
+        "formal_order": "Paraguay",
+        "alpha_2": "PY",
+        "alpha_3": "PRY",
+        "num_code": 600,
+        "demonym_male": "Paraguayan",
+        "demonym_female": "Paraguayan",
         "gendered_demonym": true,
-        "tld": ".pr",
-        "flag_emoji": "🇵🇷",
+        "tld": ".py",
+        "flag_emoji": "🇵🇾",
         "calling_code": [
-            "1-787",
-            "1-939"
+            "595"
         ],
-        "continent": "North America"
+        "continent": "South America"
+    },
+    {
+        "common_reference": "Palestine",
+        "english_clean": "Palestine, State of",
+        "formal_order": "State of Palestine",
+        "alpha_2": "PS",
+        "alpha_3": "PSE",
+        "num_code": 275,
+        "demonym_male": "Palestinian",
+        "demonym_female": "Palestinian",
+        "gendered_demonym": true,
+        "tld": ".ps",
+        "flag_emoji": "🇵🇸",
+        "calling_code": [
+            "970",
+            "972"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "French Polynesia",
+        "english_clean": "French Polynesia",
+        "formal_order": "French Polynesia",
+        "alpha_2": "PF",
+        "alpha_3": "PYF",
+        "num_code": 258,
+        "demonym_male": "French Polynesian",
+        "demonym_female": "French Polynesian",
+        "gendered_demonym": true,
+        "tld": ".pf",
+        "flag_emoji": "🇵🇫",
+        "calling_code": [
+            "689"
+        ],
+        "continent": "Oceania"
     },
     {
         "common_reference": "Qatar",
@@ -3145,176 +3245,6 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Saint Barthélemy",
-        "english_clean": "Saint Barthélemy",
-        "formal_order": "Saint Barthélemy",
-        "alpha_2": "BL",
-        "alpha_3": "BLM",
-        "num_code": 652,
-        "demonym_male": "Saint-Barthélemois",
-        "demonym_female": "Saint-Barthélemoise",
-        "gendered_demonym": false,
-        "tld": ".bl",
-        "flag_emoji": "🇧🇱",
-        "calling_code": [
-            "590"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Saint Helena, Ascension and Tristan da Cunha",
-        "english_clean": "Saint Helena, Ascension and Tristan da Cunha",
-        "formal_order": "Saint Helena, Ascension and Tristan da Cunha",
-        "alpha_2": "SH",
-        "alpha_3": "SHN",
-        "num_code": 654,
-        "demonym_male": "Saint Helenian",
-        "demonym_female": "Saint Helenian",
-        "gendered_demonym": true,
-        "tld": ".sh",
-        "flag_emoji": "🇸🇭",
-        "calling_code": [
-            "290"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Saint Kitts and Nevis",
-        "english_clean": "Saint Kitts and Nevis",
-        "formal_order": "Saint Kitts and Nevis",
-        "alpha_2": "KN",
-        "alpha_3": "KNA",
-        "num_code": 659,
-        "demonym_male": "Kittitian or Nevisian",
-        "demonym_female": "Kittitian or Nevisian",
-        "gendered_demonym": true,
-        "tld": ".kn",
-        "flag_emoji": "🇰🇳",
-        "calling_code": [
-            "1-869"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Saint Lucia",
-        "english_clean": "Saint Lucia",
-        "formal_order": "Saint Lucia",
-        "alpha_2": "LC",
-        "alpha_3": "LCA",
-        "num_code": 662,
-        "demonym_male": "Saint Lucian",
-        "demonym_female": "Saint Lucian",
-        "gendered_demonym": true,
-        "tld": ".lc",
-        "flag_emoji": "🇱🇨",
-        "calling_code": [
-            "1-758"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Saint Martin (French part)",
-        "english_clean": "Saint Martin (French part)",
-        "formal_order": "Saint Martin (French part)",
-        "alpha_2": "MF",
-        "alpha_3": "MAF",
-        "num_code": 663,
-        "demonym_male": "Saint-Martinois",
-        "demonym_female": "Saint-Martinoise",
-        "gendered_demonym": false,
-        "tld": ".mf",
-        "flag_emoji": "🇲🇫",
-        "calling_code": [
-            "590"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Saint Pierre and Miquelon",
-        "english_clean": "Saint Pierre and Miquelon",
-        "formal_order": "Saint Pierre and Miquelon",
-        "alpha_2": "PM",
-        "alpha_3": "SPM",
-        "num_code": 666,
-        "demonym_male": "Saint-Pierrais",
-        "demonym_female": "Saint-Pierraise",
-        "gendered_demonym": false,
-        "tld": ".pm",
-        "flag_emoji": "🇵🇲",
-        "calling_code": [
-            "508"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Saint Vincent and the Grenadines",
-        "english_clean": "Saint Vincent and the Grenadines",
-        "formal_order": "Saint Vincent and the Grenadines",
-        "alpha_2": "VC",
-        "alpha_3": "VCT",
-        "num_code": 670,
-        "demonym_male": "Saint Vincentian",
-        "demonym_female": "Saint Vincentian",
-        "gendered_demonym": true,
-        "tld": ".vc",
-        "flag_emoji": "🇻🇨",
-        "calling_code": [
-            "1-784"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "Samoa",
-        "english_clean": "Samoa",
-        "formal_order": "Samoa",
-        "alpha_2": "WS",
-        "alpha_3": "WSM",
-        "num_code": 882,
-        "demonym_male": "Samoan",
-        "demonym_female": "Samoan",
-        "gendered_demonym": true,
-        "tld": ".ws",
-        "flag_emoji": "🇼🇸",
-        "calling_code": [
-            "685"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "San Marino",
-        "english_clean": "San Marino",
-        "formal_order": "San Marino",
-        "alpha_2": "SM",
-        "alpha_3": "SMR",
-        "num_code": 674,
-        "demonym_male": "Sammarinese",
-        "demonym_female": "Sammarinese",
-        "gendered_demonym": true,
-        "tld": ".sm",
-        "flag_emoji": "🇸🇲",
-        "calling_code": [
-            "378"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Sao Tome and Principe",
-        "english_clean": "Sao Tome and Principe",
-        "formal_order": "Sao Tome and Principe",
-        "alpha_2": "ST",
-        "alpha_3": "STP",
-        "num_code": 678,
-        "demonym_male": "Sao Tomean",
-        "demonym_female": "Sao Tomean",
-        "gendered_demonym": true,
-        "tld": ".st",
-        "flag_emoji": "🇸🇹",
-        "calling_code": [
-            "239"
-        ],
-        "continent": "Africa"
-    },
-    {
         "common_reference": "Saudi Arabia",
         "english_clean": "Saudi Arabia",
         "formal_order": "Saudi Arabia",
@@ -3332,6 +3262,23 @@
         "continent": "Asia"
     },
     {
+        "common_reference": "Sudan",
+        "english_clean": "Sudan",
+        "formal_order": "Sudan",
+        "alpha_2": "SD",
+        "alpha_3": "SDN",
+        "num_code": 729,
+        "demonym_male": "Sudanese",
+        "demonym_female": "Sudanese",
+        "gendered_demonym": true,
+        "tld": ".sd",
+        "flag_emoji": "🇸🇩",
+        "calling_code": [
+            "249"
+        ],
+        "continent": "Africa"
+    },
+    {
         "common_reference": "Senegal",
         "english_clean": "Senegal",
         "formal_order": "Senegal",
@@ -3345,57 +3292,6 @@
         "flag_emoji": "🇸🇳",
         "calling_code": [
             "221"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Serbia",
-        "english_clean": "Serbia",
-        "formal_order": "Serbia",
-        "alpha_2": "RS",
-        "alpha_3": "SRB",
-        "num_code": 688,
-        "demonym_male": "Serbian",
-        "demonym_female": "Serbian",
-        "gendered_demonym": true,
-        "tld": ".rs",
-        "flag_emoji": "🇷🇸",
-        "calling_code": [
-            "381"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Seychelles",
-        "english_clean": "Seychelles",
-        "formal_order": "Seychelles",
-        "alpha_2": "SC",
-        "alpha_3": "SYC",
-        "num_code": 690,
-        "demonym_male": "Seychellois",
-        "demonym_female": "Seychellois",
-        "gendered_demonym": true,
-        "tld": ".sc",
-        "flag_emoji": "🇸🇨",
-        "calling_code": [
-            "248"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Sierra Leone",
-        "english_clean": "Sierra Leone",
-        "formal_order": "Sierra Leone",
-        "alpha_2": "SL",
-        "alpha_3": "SLE",
-        "num_code": 694,
-        "demonym_male": "Sierra Leonean",
-        "demonym_female": "Sierra Leonean",
-        "gendered_demonym": true,
-        "tld": ".sl",
-        "flag_emoji": "🇸🇱",
-        "calling_code": [
-            "232"
         ],
         "continent": "Africa"
     },
@@ -3417,21 +3313,225 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Sint Maarten (Dutch part)",
-        "english_clean": "Sint Maarten (Dutch part)",
-        "formal_order": "Sint Maarten (Dutch part)",
-        "alpha_2": "SX",
-        "alpha_3": "SXM",
-        "num_code": 534,
-        "demonym_male": "Sint Maartener",
-        "demonym_female": "Sint Maartener",
+        "common_reference": "South Georgia and the South Sandwich Islands",
+        "english_clean": "South Georgia and the South Sandwich Islands",
+        "formal_order": "South Georgia and the South Sandwich Islands",
+        "alpha_2": "GS",
+        "alpha_3": "SGS",
+        "num_code": 239,
+        "demonym_male": "South Georgian",
+        "demonym_female": "South Georgian",
         "gendered_demonym": true,
-        "tld": ".sx",
-        "flag_emoji": "🇸🇽",
+        "tld": ".gs",
+        "flag_emoji": "🇬🇸",
         "calling_code": [
-            "1-721"
+            "500"
+        ],
+        "continent": "Antarctica"
+    },
+    {
+        "common_reference": "Saint Helena, Ascension and Tristan da Cunha",
+        "english_clean": "Saint Helena, Ascension and Tristan da Cunha",
+        "formal_order": "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha_2": "SH",
+        "alpha_3": "SHN",
+        "num_code": 654,
+        "demonym_male": "Saint Helenian",
+        "demonym_female": "Saint Helenian",
+        "gendered_demonym": true,
+        "tld": ".sh",
+        "flag_emoji": "🇸🇭",
+        "calling_code": [
+            "290"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Svalbard and Jan Mayen",
+        "english_clean": "Svalbard and Jan Mayen",
+        "formal_order": "Svalbard and Jan Mayen",
+        "alpha_2": "SJ",
+        "alpha_3": "SJM",
+        "num_code": 744,
+        "demonym_male": "Svalbardian",
+        "demonym_female": "Svalbardian",
+        "gendered_demonym": true,
+        "tld": ".sj",
+        "flag_emoji": "🇸🇯",
+        "calling_code": [
+            "47"
+        ],
+        "continent": "Antarctica"
+    },
+    {
+        "common_reference": "Solomon Islands",
+        "english_clean": "Solomon Islands",
+        "formal_order": "Solomon Islands",
+        "alpha_2": "SB",
+        "alpha_3": "SLB",
+        "num_code": 90,
+        "demonym_male": "Solomon Islander",
+        "demonym_female": "Solomon Islander",
+        "gendered_demonym": true,
+        "tld": ".sb",
+        "flag_emoji": "🇸🇧",
+        "calling_code": [
+            "677"
+        ],
+        "continent": "Oceania"
+    },
+    {
+        "common_reference": "Sierra Leone",
+        "english_clean": "Sierra Leone",
+        "formal_order": "Sierra Leone",
+        "alpha_2": "SL",
+        "alpha_3": "SLE",
+        "num_code": 694,
+        "demonym_male": "Sierra Leonean",
+        "demonym_female": "Sierra Leonean",
+        "gendered_demonym": true,
+        "tld": ".sl",
+        "flag_emoji": "🇸🇱",
+        "calling_code": [
+            "232"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "El Salvador",
+        "english_clean": "El Salvador",
+        "formal_order": "El Salvador",
+        "alpha_2": "SV",
+        "alpha_3": "SLV",
+        "num_code": 222,
+        "demonym_male": "Salvadoran",
+        "demonym_female": "Salvadoran",
+        "gendered_demonym": true,
+        "tld": ".sv",
+        "flag_emoji": "🇸🇻",
+        "calling_code": [
+            "503"
         ],
         "continent": "North America"
+    },
+    {
+        "common_reference": "San Marino",
+        "english_clean": "San Marino",
+        "formal_order": "San Marino",
+        "alpha_2": "SM",
+        "alpha_3": "SMR",
+        "num_code": 674,
+        "demonym_male": "Sammarinese",
+        "demonym_female": "Sammarinese",
+        "gendered_demonym": true,
+        "tld": ".sm",
+        "flag_emoji": "🇸🇲",
+        "calling_code": [
+            "378"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Somalia",
+        "english_clean": "Somalia",
+        "formal_order": "Somalia",
+        "alpha_2": "SO",
+        "alpha_3": "SOM",
+        "num_code": 706,
+        "demonym_male": "Somali",
+        "demonym_female": "Somali",
+        "gendered_demonym": true,
+        "tld": ".so",
+        "flag_emoji": "🇸🇴",
+        "calling_code": [
+            "252"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Saint Pierre and Miquelon",
+        "english_clean": "Saint Pierre and Miquelon",
+        "formal_order": "Saint Pierre and Miquelon",
+        "alpha_2": "PM",
+        "alpha_3": "SPM",
+        "num_code": 666,
+        "demonym_male": "Saint-Pierrais",
+        "demonym_female": "Saint-Pierraise",
+        "gendered_demonym": false,
+        "tld": ".pm",
+        "flag_emoji": "🇵🇲",
+        "calling_code": [
+            "508"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Serbia",
+        "english_clean": "Serbia",
+        "formal_order": "Serbia",
+        "alpha_2": "RS",
+        "alpha_3": "SRB",
+        "num_code": 688,
+        "demonym_male": "Serbian",
+        "demonym_female": "Serbian",
+        "gendered_demonym": true,
+        "tld": ".rs",
+        "flag_emoji": "🇷🇸",
+        "calling_code": [
+            "381"
+        ],
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "South Sudan",
+        "english_clean": "South Sudan",
+        "formal_order": "South Sudan",
+        "alpha_2": "SS",
+        "alpha_3": "SSD",
+        "num_code": 728,
+        "demonym_male": "South Sudanese",
+        "demonym_female": "South Sudanese",
+        "gendered_demonym": true,
+        "tld": ".ss",
+        "flag_emoji": "🇸🇸",
+        "calling_code": [
+            "211"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Sao Tome and Principe",
+        "english_clean": "Sao Tome and Principe",
+        "formal_order": "Sao Tome and Principe",
+        "alpha_2": "ST",
+        "alpha_3": "STP",
+        "num_code": 678,
+        "demonym_male": "Sao Tomean",
+        "demonym_female": "Sao Tomean",
+        "gendered_demonym": true,
+        "tld": ".st",
+        "flag_emoji": "🇸🇹",
+        "calling_code": [
+            "239"
+        ],
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Suriname",
+        "english_clean": "Suriname",
+        "formal_order": "Suriname",
+        "alpha_2": "SR",
+        "alpha_3": "SUR",
+        "num_code": 740,
+        "demonym_male": "Surinamer",
+        "demonym_female": "Surinamer",
+        "gendered_demonym": true,
+        "tld": ".sr",
+        "flag_emoji": "🇸🇷",
+        "calling_code": [
+            "597"
+        ],
+        "continent": "South America"
     },
     {
         "common_reference": "Slovakia",
@@ -3468,176 +3568,6 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Solomon Islands",
-        "english_clean": "Solomon Islands",
-        "formal_order": "Solomon Islands",
-        "alpha_2": "SB",
-        "alpha_3": "SLB",
-        "num_code": 90,
-        "demonym_male": "Solomon Islander",
-        "demonym_female": "Solomon Islander",
-        "gendered_demonym": true,
-        "tld": ".sb",
-        "flag_emoji": "🇸🇧",
-        "calling_code": [
-            "677"
-        ],
-        "continent": "Oceania"
-    },
-    {
-        "common_reference": "Somalia",
-        "english_clean": "Somalia",
-        "formal_order": "Somalia",
-        "alpha_2": "SO",
-        "alpha_3": "SOM",
-        "num_code": 706,
-        "demonym_male": "Somali",
-        "demonym_female": "Somali",
-        "gendered_demonym": true,
-        "tld": ".so",
-        "flag_emoji": "🇸🇴",
-        "calling_code": [
-            "252"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "South Africa",
-        "english_clean": "South Africa",
-        "formal_order": "South Africa",
-        "alpha_2": "ZA",
-        "alpha_3": "ZAF",
-        "num_code": 710,
-        "demonym_male": "South African",
-        "demonym_female": "South African",
-        "gendered_demonym": true,
-        "tld": ".za",
-        "flag_emoji": "🇿🇦",
-        "calling_code": [
-            "27"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "South Georgia and the South Sandwich Islands",
-        "english_clean": "South Georgia and the South Sandwich Islands",
-        "formal_order": "South Georgia and the South Sandwich Islands",
-        "alpha_2": "GS",
-        "alpha_3": "SGS",
-        "num_code": 239,
-        "demonym_male": "South Georgian",
-        "demonym_female": "South Georgian",
-        "gendered_demonym": true,
-        "tld": ".gs",
-        "flag_emoji": "🇬🇸",
-        "calling_code": [
-            "500"
-        ],
-        "continent": "Antarctica"
-    },
-    {
-        "common_reference": "South Sudan",
-        "english_clean": "South Sudan",
-        "formal_order": "South Sudan",
-        "alpha_2": "SS",
-        "alpha_3": "SSD",
-        "num_code": 728,
-        "demonym_male": "South Sudanese",
-        "demonym_female": "South Sudanese",
-        "gendered_demonym": true,
-        "tld": ".ss",
-        "flag_emoji": "🇸🇸",
-        "calling_code": [
-            "211"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Spain",
-        "english_clean": "Spain",
-        "formal_order": "Spain",
-        "alpha_2": "ES",
-        "alpha_3": "ESP",
-        "num_code": 724,
-        "demonym_male": "Spanish",
-        "demonym_female": "Spanish",
-        "gendered_demonym": true,
-        "tld": ".es",
-        "flag_emoji": "🇪🇸",
-        "calling_code": [
-            "34"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "Sri Lanka",
-        "english_clean": "Sri Lanka",
-        "formal_order": "Sri Lanka",
-        "alpha_2": "LK",
-        "alpha_3": "LKA",
-        "num_code": 144,
-        "demonym_male": "Sri Lankan",
-        "demonym_female": "Sri Lankan",
-        "gendered_demonym": true,
-        "tld": ".lk",
-        "flag_emoji": "🇱🇰",
-        "calling_code": [
-            "94"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Sudan",
-        "english_clean": "Sudan",
-        "formal_order": "Sudan",
-        "alpha_2": "SD",
-        "alpha_3": "SDN",
-        "num_code": 729,
-        "demonym_male": "Sudanese",
-        "demonym_female": "Sudanese",
-        "gendered_demonym": true,
-        "tld": ".sd",
-        "flag_emoji": "🇸🇩",
-        "calling_code": [
-            "249"
-        ],
-        "continent": "Africa"
-    },
-    {
-        "common_reference": "Suriname",
-        "english_clean": "Suriname",
-        "formal_order": "Suriname",
-        "alpha_2": "SR",
-        "alpha_3": "SUR",
-        "num_code": 740,
-        "demonym_male": "Surinamer",
-        "demonym_female": "Surinamer",
-        "gendered_demonym": true,
-        "tld": ".sr",
-        "flag_emoji": "🇸🇷",
-        "calling_code": [
-            "597"
-        ],
-        "continent": "South America"
-    },
-    {
-        "common_reference": "Svalbard and Jan Mayen",
-        "english_clean": "Svalbard and Jan Mayen",
-        "formal_order": "Svalbard and Jan Mayen",
-        "alpha_2": "SJ",
-        "alpha_3": "SJM",
-        "num_code": 744,
-        "demonym_male": "Svalbardian",
-        "demonym_female": "Svalbardian",
-        "gendered_demonym": true,
-        "tld": ".sj",
-        "flag_emoji": "🇸🇯",
-        "calling_code": [
-            "47"
-        ],
-        "continent": "Antarctica"
-    },
-    {
         "common_reference": "Sweden",
         "english_clean": "Sweden",
         "formal_order": "Sweden",
@@ -3655,21 +3585,55 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Switzerland",
-        "english_clean": "Switzerland",
-        "formal_order": "Switzerland",
-        "alpha_2": "CH",
-        "alpha_3": "CHE",
-        "num_code": 756,
-        "demonym_male": "Swiss",
-        "demonym_female": "Swiss",
+        "common_reference": "Eswatini",
+        "english_clean": "Eswatini",
+        "formal_order": "Eswatini",
+        "alpha_2": "SZ",
+        "alpha_3": "SWZ",
+        "num_code": 748,
+        "demonym_male": "Swazi",
+        "demonym_female": "Swazi",
         "gendered_demonym": true,
-        "tld": ".ch",
-        "flag_emoji": "🇨🇭",
+        "tld": ".sz",
+        "flag_emoji": "🇸🇿",
         "calling_code": [
-            "41"
+            "268"
         ],
-        "continent": "Europe"
+        "continent": "Africa"
+    },
+    {
+        "common_reference": "Sint Maarten (Dutch part)",
+        "english_clean": "Sint Maarten (Dutch part)",
+        "formal_order": "Sint Maarten (Dutch part)",
+        "alpha_2": "SX",
+        "alpha_3": "SXM",
+        "num_code": 534,
+        "demonym_male": "Sint Maartener",
+        "demonym_female": "Sint Maartener",
+        "gendered_demonym": true,
+        "tld": ".sx",
+        "flag_emoji": "🇸🇽",
+        "calling_code": [
+            "1-721"
+        ],
+        "continent": "North America"
+    },
+    {
+        "common_reference": "Seychelles",
+        "english_clean": "Seychelles",
+        "formal_order": "Seychelles",
+        "alpha_2": "SC",
+        "alpha_3": "SYC",
+        "num_code": 690,
+        "demonym_male": "Seychellois",
+        "demonym_female": "Seychellois",
+        "gendered_demonym": true,
+        "tld": ".sc",
+        "flag_emoji": "🇸🇨",
+        "calling_code": [
+            "248"
+        ],
+        "continent": "Africa"
     },
     {
         "common_reference": "Syrian Arab Republic",
@@ -3689,53 +3653,53 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Taiwan",
-        "english_clean": "Taiwan, Province of China",
-        "formal_order": "Taiwan, Province of China",
-        "alpha_2": "TW",
-        "alpha_3": "TWN",
-        "num_code": 158,
-        "demonym_male": "Taiwanese",
-        "demonym_female": "Taiwanese",
+        "common_reference": "Turks and Caicos",
+        "english_clean": "Turks and Caicos Islands",
+        "formal_order": "Turks and Caicos Islands",
+        "alpha_2": "TC",
+        "alpha_3": "TCA",
+        "num_code": 796,
+        "demonym_male": "Turks and Caicos Islander",
+        "demonym_female": "Turks and Caicos Islander",
         "gendered_demonym": true,
-        "tld": ".tw",
-        "flag_emoji": "🇹🇼",
+        "tld": ".tc",
+        "flag_emoji": "🇹🇨",
         "calling_code": [
-            "886"
+            "1-649"
         ],
-        "continent": "Asia"
+        "continent": "North America"
     },
     {
-        "common_reference": "Tajikistan",
-        "english_clean": "Tajikistan",
-        "formal_order": "Tajikistan",
-        "alpha_2": "TJ",
-        "alpha_3": "TJK",
-        "num_code": 762,
-        "demonym_male": "Tadzhik",
-        "demonym_female": "Tadzhik",
+        "common_reference": "Chad",
+        "english_clean": "Chad",
+        "formal_order": "Chad",
+        "alpha_2": "TD",
+        "alpha_3": "TCD",
+        "num_code": 148,
+        "demonym_male": "Chadian",
+        "demonym_female": "Chadian",
         "gendered_demonym": true,
-        "tld": ".tj",
-        "flag_emoji": "🇹🇯",
+        "tld": ".td",
+        "flag_emoji": "🇹🇩",
         "calling_code": [
-            "992"
+            "235"
         ],
-        "continent": "Asia"
+        "continent": "Africa"
     },
     {
-        "common_reference": "Tanzania",
-        "english_clean": "Tanzania, United Republic of",
-        "formal_order": "United Republic of Tanzania",
-        "alpha_2": "TZ",
-        "alpha_3": "TZA",
-        "num_code": 834,
-        "demonym_male": "Tanzanian",
-        "demonym_female": "Tanzanian",
+        "common_reference": "Togo",
+        "english_clean": "Togo",
+        "formal_order": "Togo",
+        "alpha_2": "TG",
+        "alpha_3": "TGO",
+        "num_code": 768,
+        "demonym_male": "Togolese",
+        "demonym_female": "Togolese",
         "gendered_demonym": true,
-        "tld": ".tz",
-        "flag_emoji": "🇹🇿",
+        "tld": ".tg",
+        "flag_emoji": "🇹🇬",
         "calling_code": [
-            "255"
+            "228"
         ],
         "continent": "Africa"
     },
@@ -3757,38 +3721,21 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Timor-Leste",
-        "english_clean": "Timor-Leste",
-        "formal_order": "Timor-Leste",
-        "alpha_2": "TL",
-        "alpha_3": "TLS",
-        "num_code": 626,
-        "demonym_male": "East Timorese",
-        "demonym_female": "East Timorese",
+        "common_reference": "Tajikistan",
+        "english_clean": "Tajikistan",
+        "formal_order": "Tajikistan",
+        "alpha_2": "TJ",
+        "alpha_3": "TJK",
+        "num_code": 762,
+        "demonym_male": "Tadzhik",
+        "demonym_female": "Tadzhik",
         "gendered_demonym": true,
-        "tld": ".tl",
-        "flag_emoji": "🇹🇱",
+        "tld": ".tj",
+        "flag_emoji": "🇹🇯",
         "calling_code": [
-            "670"
+            "992"
         ],
         "continent": "Asia"
-    },
-    {
-        "common_reference": "Togo",
-        "english_clean": "Togo",
-        "formal_order": "Togo",
-        "alpha_2": "TG",
-        "alpha_3": "TGO",
-        "num_code": 768,
-        "demonym_male": "Togolese",
-        "demonym_female": "Togolese",
-        "gendered_demonym": true,
-        "tld": ".tg",
-        "flag_emoji": "🇹🇬",
-        "calling_code": [
-            "228"
-        ],
-        "continent": "Africa"
     },
     {
         "common_reference": "Tokelau",
@@ -3806,6 +3753,40 @@
             "690"
         ],
         "continent": "Oceania"
+    },
+    {
+        "common_reference": "Turkmenistan",
+        "english_clean": "Turkmenistan",
+        "formal_order": "Turkmenistan",
+        "alpha_2": "TM",
+        "alpha_3": "TKM",
+        "num_code": 795,
+        "demonym_male": "Turkmen",
+        "demonym_female": "Turkmen",
+        "gendered_demonym": true,
+        "tld": ".tm",
+        "flag_emoji": "🇹🇲",
+        "calling_code": [
+            "993"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Timor-Leste",
+        "english_clean": "Timor-Leste",
+        "formal_order": "Timor-Leste",
+        "alpha_2": "TL",
+        "alpha_3": "TLS",
+        "num_code": 626,
+        "demonym_male": "East Timorese",
+        "demonym_female": "East Timorese",
+        "gendered_demonym": true,
+        "tld": ".tl",
+        "flag_emoji": "🇹🇱",
+        "calling_code": [
+            "670"
+        ],
+        "continent": "Asia"
     },
     {
         "common_reference": "Tonga",
@@ -3876,40 +3857,6 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Turkmenistan",
-        "english_clean": "Turkmenistan",
-        "formal_order": "Turkmenistan",
-        "alpha_2": "TM",
-        "alpha_3": "TKM",
-        "num_code": 795,
-        "demonym_male": "Turkmen",
-        "demonym_female": "Turkmen",
-        "gendered_demonym": true,
-        "tld": ".tm",
-        "flag_emoji": "🇹🇲",
-        "calling_code": [
-            "993"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Turks and Caicos",
-        "english_clean": "Turks and Caicos Islands",
-        "formal_order": "Turks and Caicos Islands",
-        "alpha_2": "TC",
-        "alpha_3": "TCA",
-        "num_code": 796,
-        "demonym_male": "Turks and Caicos Islander",
-        "demonym_female": "Turks and Caicos Islander",
-        "gendered_demonym": true,
-        "tld": ".tc",
-        "flag_emoji": "🇹🇨",
-        "calling_code": [
-            "1-649"
-        ],
-        "continent": "North America"
-    },
-    {
         "common_reference": "Tuvalu",
         "english_clean": "Tuvalu",
         "formal_order": "Tuvalu",
@@ -3925,6 +3872,40 @@
             "688"
         ],
         "continent": "Oceania"
+    },
+    {
+        "common_reference": "Taiwan",
+        "english_clean": "Taiwan, Province of China",
+        "formal_order": "Taiwan, Province of China",
+        "alpha_2": "TW",
+        "alpha_3": "TWN",
+        "num_code": 158,
+        "demonym_male": "Taiwanese",
+        "demonym_female": "Taiwanese",
+        "gendered_demonym": true,
+        "tld": ".tw",
+        "flag_emoji": "🇹🇼",
+        "calling_code": [
+            "886"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Tanzania",
+        "english_clean": "Tanzania, United Republic of",
+        "formal_order": "United Republic of Tanzania",
+        "alpha_2": "TZ",
+        "alpha_3": "TZA",
+        "num_code": 834,
+        "demonym_male": "Tanzanian",
+        "demonym_female": "Tanzanian",
+        "gendered_demonym": true,
+        "tld": ".tz",
+        "flag_emoji": "🇹🇿",
+        "calling_code": [
+            "255"
+        ],
+        "continent": "Africa"
     },
     {
         "common_reference": "Uganda",
@@ -3961,58 +3942,7 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "United Arab Emirates",
-        "english_clean": "United Arab Emirates",
-        "formal_order": "United Arab Emirates",
-        "alpha_2": "AE",
-        "alpha_3": "ARE",
-        "num_code": 784,
-        "demonym_male": "Emirati",
-        "demonym_female": "Emirati",
-        "gendered_demonym": true,
-        "tld": ".ae",
-        "flag_emoji": "🇦🇪",
-        "calling_code": [
-            "971"
-        ],
-        "continent": "Asia"
-    },
-    {
-        "common_reference": "Uninted Kingdom",
-        "english_clean": "United Kingdom of Great Britain and Northern Ireland",
-        "formal_order": "United Kingdom of Great Britain and Northern Ireland",
-        "alpha_2": "GB",
-        "alpha_3": "GBR",
-        "num_code": 826,
-        "demonym_male": "British",
-        "demonym_female": "British",
-        "gendered_demonym": true,
-        "tld": ".gb",
-        "flag_emoji": "🇬🇧",
-        "calling_code": [
-            "44"
-        ],
-        "continent": "Europe"
-    },
-    {
-        "common_reference": "United States of America",
-        "english_clean": "United States of America",
-        "formal_order": "United States of America",
-        "alpha_2": "US",
-        "alpha_3": "USA",
-        "num_code": 840,
-        "demonym_male": "American",
-        "demonym_female": "American",
-        "gendered_demonym": true,
-        "tld": ".us",
-        "flag_emoji": "🇺🇸",
-        "calling_code": [
-            "1"
-        ],
-        "continent": "North America"
-    },
-    {
-        "common_reference": "United States Minor Outlying Islands",
+        "common_reference": "US Territories",
         "english_clean": "United States Minor Outlying Islands",
         "formal_order": "United States Minor Outlying Islands",
         "alpha_2": "UM",
@@ -4046,6 +3976,23 @@
         "continent": "South America"
     },
     {
+        "common_reference": "United States",
+        "english_clean": "United States of America",
+        "formal_order": "United States of America",
+        "alpha_2": "US",
+        "alpha_3": "USA",
+        "num_code": 840,
+        "demonym_male": "American",
+        "demonym_female": "American",
+        "gendered_demonym": true,
+        "tld": ".us",
+        "flag_emoji": "🇺🇸",
+        "calling_code": [
+            "1"
+        ],
+        "continent": "North America"
+    },
+    {
         "common_reference": "Uzbekistan",
         "english_clean": "Uzbekistan",
         "formal_order": "Uzbekistan",
@@ -4063,21 +4010,38 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Vanuatu",
-        "english_clean": "Vanuatu",
-        "formal_order": "Vanuatu",
-        "alpha_2": "VU",
-        "alpha_3": "VUT",
-        "num_code": 548,
-        "demonym_male": "Ni-Vanuatu",
-        "demonym_female": "Ni-Vanuatu",
+        "common_reference": "Vatican City",
+        "english_clean": "Holy See",
+        "formal_order": "Holy See",
+        "alpha_2": "VA",
+        "alpha_3": "VAT",
+        "num_code": 336,
+        "demonym_male": "Vatican",
+        "demonym_female": "Vatican",
         "gendered_demonym": true,
-        "tld": ".vu",
-        "flag_emoji": "🇻🇺",
+        "tld": ".va",
+        "flag_emoji": "🇻🇦",
         "calling_code": [
-            "678"
+            "39"
         ],
-        "continent": "Oceania"
+        "continent": "Europe"
+    },
+    {
+        "common_reference": "Saint Vincent and the Grenadines",
+        "english_clean": "Saint Vincent and the Grenadines",
+        "formal_order": "Saint Vincent and the Grenadines",
+        "alpha_2": "VC",
+        "alpha_3": "VCT",
+        "num_code": 670,
+        "demonym_male": "Saint Vincentian",
+        "demonym_female": "Saint Vincentian",
+        "gendered_demonym": true,
+        "tld": ".vc",
+        "flag_emoji": "🇻🇨",
+        "calling_code": [
+            "1-784"
+        ],
+        "continent": "North America"
     },
     {
         "common_reference": "Venezuela",
@@ -4095,23 +4059,6 @@
             "58"
         ],
         "continent": "South America"
-    },
-    {
-        "common_reference": "Viet Nam",
-        "english_clean": "Viet Nam",
-        "formal_order": "Viet Nam",
-        "alpha_2": "VN",
-        "alpha_3": "VNM",
-        "num_code": 704,
-        "demonym_male": "Vietnamese",
-        "demonym_female": "Vietnamese",
-        "gendered_demonym": true,
-        "tld": ".vn",
-        "flag_emoji": "🇻🇳",
-        "calling_code": [
-            "84"
-        ],
-        "continent": "Asia"
     },
     {
         "common_reference": "British Virgin Islands",
@@ -4148,6 +4095,40 @@
         "continent": "North America"
     },
     {
+        "common_reference": "Viet Nam",
+        "english_clean": "Viet Nam",
+        "formal_order": "Viet Nam",
+        "alpha_2": "VN",
+        "alpha_3": "VNM",
+        "num_code": 704,
+        "demonym_male": "Vietnamese",
+        "demonym_female": "Vietnamese",
+        "gendered_demonym": true,
+        "tld": ".vn",
+        "flag_emoji": "🇻🇳",
+        "calling_code": [
+            "84"
+        ],
+        "continent": "Asia"
+    },
+    {
+        "common_reference": "Vanuatu",
+        "english_clean": "Vanuatu",
+        "formal_order": "Vanuatu",
+        "alpha_2": "VU",
+        "alpha_3": "VUT",
+        "num_code": 548,
+        "demonym_male": "Ni-Vanuatu",
+        "demonym_female": "Ni-Vanuatu",
+        "gendered_demonym": true,
+        "tld": ".vu",
+        "flag_emoji": "🇻🇺",
+        "calling_code": [
+            "678"
+        ],
+        "continent": "Oceania"
+    },
+    {
         "common_reference": "Wallis and Futuna",
         "english_clean": "Wallis and Futuna",
         "formal_order": "Wallis and Futuna",
@@ -4165,19 +4146,21 @@
         "continent": "Oceania"
     },
     {
-        "common_reference": "Western Sahara",
-        "english_clean": "Western Sahara",
-        "formal_order": "Western Sahara",
-        "alpha_2": "EH",
-        "alpha_3": "ESH",
-        "num_code": 732,
-        "demonym_male": "Sahrawi",
-        "demonym_female": "Sahrawi",
+        "common_reference": "Samoa",
+        "english_clean": "Samoa",
+        "formal_order": "Samoa",
+        "alpha_2": "WS",
+        "alpha_3": "WSM",
+        "num_code": 882,
+        "demonym_male": "Samoan",
+        "demonym_female": "Samoan",
         "gendered_demonym": true,
-        "tld": ".eh",
-        "flag_emoji": "🇪🇭",
-        "calling_code": [],
-        "continent": "Africa"
+        "tld": ".ws",
+        "flag_emoji": "🇼🇸",
+        "calling_code": [
+            "685"
+        ],
+        "continent": "Oceania"
     },
     {
         "common_reference": "Yemen",
@@ -4195,6 +4178,23 @@
             "967"
         ],
         "continent": "Asia"
+    },
+    {
+        "common_reference": "South Africa",
+        "english_clean": "South Africa",
+        "formal_order": "South Africa",
+        "alpha_2": "ZA",
+        "alpha_3": "ZAF",
+        "num_code": 710,
+        "demonym_male": "South African",
+        "demonym_female": "South African",
+        "gendered_demonym": true,
+        "tld": ".za",
+        "flag_emoji": "🇿🇦",
+        "calling_code": [
+            "27"
+        ],
+        "continent": "Africa"
     },
     {
         "common_reference": "Zambia",

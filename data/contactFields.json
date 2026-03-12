@@ -1,44 +1,16 @@
 {
+    "AW": {
+        "tld": ".aw",
+        "flag_emoji": "🇦🇼",
+        "calling_code": [
+            "297"
+        ]
+    },
     "AF": {
         "tld": ".af",
         "flag_emoji": "🇦🇫",
         "calling_code": [
             "93"
-        ]
-    },
-    "AX": {
-        "tld": ".ax",
-        "flag_emoji": "🇦🇽",
-        "calling_code": [
-            "385"
-        ]
-    },
-    "AL": {
-        "tld": ".al",
-        "flag_emoji": "🇦🇱",
-        "calling_code": [
-            "355"
-        ]
-    },
-    "DZ": {
-        "tld": ".dz",
-        "flag_emoji": "🇩🇿",
-        "calling_code": [
-            "213"
-        ]
-    },
-    "AS": {
-        "tld": ".as",
-        "flag_emoji": "🇦🇸",
-        "calling_code": [
-            "1-684"
-        ]
-    },
-    "AD": {
-        "tld": ".ad",
-        "flag_emoji": "🇦🇩",
-        "calling_code": [
-            "376"
         ]
     },
     "AO": {
@@ -55,18 +27,32 @@
             "1-264"
         ]
     },
-    "AQ": {
-        "tld": ".aq",
-        "flag_emoji": "🇦🇶",
+    "AX": {
+        "tld": ".ax",
+        "flag_emoji": "🇦🇽",
         "calling_code": [
-            "672"
+            "385"
         ]
     },
-    "AG": {
-        "tld": ".ag",
-        "flag_emoji": "🇦🇬",
+    "AL": {
+        "tld": ".al",
+        "flag_emoji": "🇦🇱",
         "calling_code": [
-            "1-268"
+            "355"
+        ]
+    },
+    "AD": {
+        "tld": ".ad",
+        "flag_emoji": "🇦🇩",
+        "calling_code": [
+            "376"
+        ]
+    },
+    "AE": {
+        "tld": ".ae",
+        "flag_emoji": "🇦🇪",
+        "calling_code": [
+            "971"
         ]
     },
     "AR": {
@@ -83,11 +69,30 @@
             "374"
         ]
     },
-    "AW": {
-        "tld": ".aw",
-        "flag_emoji": "🇦🇼",
+    "AS": {
+        "tld": ".as",
+        "flag_emoji": "🇦🇸",
         "calling_code": [
-            "297"
+            "1-684"
+        ]
+    },
+    "AQ": {
+        "tld": ".aq",
+        "flag_emoji": "🇦🇶",
+        "calling_code": [
+            "672"
+        ]
+    },
+    "TF": {
+        "tld": ".tf",
+        "flag_emoji": "🇹🇫",
+        "calling_code": []
+    },
+    "AG": {
+        "tld": ".ag",
+        "flag_emoji": "🇦🇬",
+        "calling_code": [
+            "1-268"
         ]
     },
     "AU": {
@@ -111,39 +116,11 @@
             "994"
         ]
     },
-    "BS": {
-        "tld": ".bs",
-        "flag_emoji": "🇧🇸",
+    "BI": {
+        "tld": ".bi",
+        "flag_emoji": "🇧🇮",
         "calling_code": [
-            "1-242"
-        ]
-    },
-    "BH": {
-        "tld": ".bh",
-        "flag_emoji": "🇧🇭",
-        "calling_code": [
-            "973"
-        ]
-    },
-    "BD": {
-        "tld": ".bd",
-        "flag_emoji": "🇧🇩",
-        "calling_code": [
-            "880"
-        ]
-    },
-    "BB": {
-        "tld": ".bb",
-        "flag_emoji": "🇧🇧",
-        "calling_code": [
-            "1-246"
-        ]
-    },
-    "BY": {
-        "tld": ".by",
-        "flag_emoji": "🇧🇾",
-        "calling_code": [
-            "375"
+            "257"
         ]
     },
     "BE": {
@@ -153,39 +130,11 @@
             "32"
         ]
     },
-    "BZ": {
-        "tld": ".bz",
-        "flag_emoji": "🇧🇿",
-        "calling_code": [
-            "501"
-        ]
-    },
     "BJ": {
         "tld": ".bj",
         "flag_emoji": "🇧🇯",
         "calling_code": [
             "229"
-        ]
-    },
-    "BM": {
-        "tld": ".bm",
-        "flag_emoji": "🇧🇲",
-        "calling_code": [
-            "1-441"
-        ]
-    },
-    "BT": {
-        "tld": ".bt",
-        "flag_emoji": "🇧🇹",
-        "calling_code": [
-            "975"
-        ]
-    },
-    "BO": {
-        "tld": ".bo",
-        "flag_emoji": "🇧🇴",
-        "calling_code": [
-            "591"
         ]
     },
     "BQ": {
@@ -195,44 +144,18 @@
             "599"
         ]
     },
-    "BA": {
-        "tld": ".ba",
-        "flag_emoji": "🇧🇦",
+    "BF": {
+        "tld": ".bf",
+        "flag_emoji": "🇧🇫",
         "calling_code": [
-            "387"
+            "226"
         ]
     },
-    "BW": {
-        "tld": ".bw",
-        "flag_emoji": "🇧🇼",
+    "BD": {
+        "tld": ".bd",
+        "flag_emoji": "🇧🇩",
         "calling_code": [
-            "267"
-        ]
-    },
-    "BV": {
-        "tld": ".bv",
-        "flag_emoji": "🇧🇻",
-        "calling_code": []
-    },
-    "BR": {
-        "tld": ".br",
-        "flag_emoji": "🇧🇷",
-        "calling_code": [
-            "55"
-        ]
-    },
-    "IO": {
-        "tld": ".io",
-        "flag_emoji": "🇮🇴",
-        "calling_code": [
-            "246"
-        ]
-    },
-    "BN": {
-        "tld": ".bn",
-        "flag_emoji": "🇧🇳",
-        "calling_code": [
-            "673"
+            "880"
         ]
     },
     "BG": {
@@ -242,53 +165,100 @@
             "359"
         ]
     },
-    "BF": {
-        "tld": ".bf",
-        "flag_emoji": "🇧🇫",
+    "BH": {
+        "tld": ".bh",
+        "flag_emoji": "🇧🇭",
         "calling_code": [
-            "226"
+            "973"
         ]
     },
-    "BI": {
-        "tld": ".bi",
-        "flag_emoji": "🇧🇮",
+    "BS": {
+        "tld": ".bs",
+        "flag_emoji": "🇧🇸",
         "calling_code": [
-            "257"
+            "1-242"
         ]
     },
-    "CV": {
-        "tld": ".cv",
-        "flag_emoji": "🇨🇻",
+    "BA": {
+        "tld": ".ba",
+        "flag_emoji": "🇧🇦",
         "calling_code": [
-            "238"
+            "387"
         ]
     },
-    "KH": {
-        "tld": ".kh",
-        "flag_emoji": "🇰🇭",
+    "BL": {
+        "tld": ".bl",
+        "flag_emoji": "🇧🇱",
         "calling_code": [
-            "855"
+            "590"
         ]
     },
-    "CM": {
-        "tld": ".cm",
-        "flag_emoji": "🇨🇲",
+    "BY": {
+        "tld": ".by",
+        "flag_emoji": "🇧🇾",
         "calling_code": [
-            "237"
+            "375"
         ]
     },
-    "CA": {
-        "tld": ".ca",
-        "flag_emoji": "🇨🇦",
+    "BZ": {
+        "tld": ".bz",
+        "flag_emoji": "🇧🇿",
         "calling_code": [
-            "1"
+            "501"
         ]
     },
-    "KY": {
-        "tld": ".ky",
-        "flag_emoji": "🇰🇾",
+    "BM": {
+        "tld": ".bm",
+        "flag_emoji": "🇧🇲",
         "calling_code": [
-            "1-345"
+            "1-441"
+        ]
+    },
+    "BO": {
+        "tld": ".bo",
+        "flag_emoji": "🇧🇴",
+        "calling_code": [
+            "591"
+        ]
+    },
+    "BR": {
+        "tld": ".br",
+        "flag_emoji": "🇧🇷",
+        "calling_code": [
+            "55"
+        ]
+    },
+    "BB": {
+        "tld": ".bb",
+        "flag_emoji": "🇧🇧",
+        "calling_code": [
+            "1-246"
+        ]
+    },
+    "BN": {
+        "tld": ".bn",
+        "flag_emoji": "🇧🇳",
+        "calling_code": [
+            "673"
+        ]
+    },
+    "BT": {
+        "tld": ".bt",
+        "flag_emoji": "🇧🇹",
+        "calling_code": [
+            "975"
+        ]
+    },
+    "BV": {
+        "tld": ".bv",
+        "flag_emoji": "🇧🇻",
+        "calling_code": []
+    },
+    "BW": {
+        "tld": ".bw",
+        "flag_emoji": "🇧🇼",
+        "calling_code": [
+            "267"
         ]
     },
     "CF": {
@@ -298,11 +268,25 @@
             "236"
         ]
     },
-    "TD": {
-        "tld": ".td",
-        "flag_emoji": "🇹🇩",
+    "CA": {
+        "tld": ".ca",
+        "flag_emoji": "🇨🇦",
         "calling_code": [
-            "235"
+            "1"
+        ]
+    },
+    "CC": {
+        "tld": ".cc",
+        "flag_emoji": "🇨🇨",
+        "calling_code": [
+            "61"
+        ]
+    },
+    "CH": {
+        "tld": ".ch",
+        "flag_emoji": "🇨🇭",
+        "calling_code": [
+            "41"
         ]
     },
     "CL": {
@@ -319,18 +303,39 @@
             "86"
         ]
     },
-    "CX": {
-        "tld": ".cx",
-        "flag_emoji": "🇨🇽",
+    "CI": {
+        "tld": ".ci",
+        "flag_emoji": "🇨🇮",
         "calling_code": [
-            "61"
+            "225"
         ]
     },
-    "CC": {
-        "tld": ".cc",
-        "flag_emoji": "🇨🇨",
+    "CM": {
+        "tld": ".cm",
+        "flag_emoji": "🇨🇲",
         "calling_code": [
-            "61"
+            "237"
+        ]
+    },
+    "CD": {
+        "tld": ".cd",
+        "flag_emoji": "🇨🇩",
+        "calling_code": [
+            "243"
+        ]
+    },
+    "CG": {
+        "tld": ".cg",
+        "flag_emoji": "🇨🇬",
+        "calling_code": [
+            "242"
+        ]
+    },
+    "CK": {
+        "tld": ".ck",
+        "flag_emoji": "🇨🇰",
+        "calling_code": [
+            "682"
         ]
     },
     "CO": {
@@ -347,25 +352,11 @@
             "269"
         ]
     },
-    "CG": {
-        "tld": ".cg",
-        "flag_emoji": "🇨🇬",
+    "CV": {
+        "tld": ".cv",
+        "flag_emoji": "🇨🇻",
         "calling_code": [
-            "242"
-        ]
-    },
-    "CD": {
-        "tld": ".cd",
-        "flag_emoji": "🇨🇩",
-        "calling_code": [
-            "243"
-        ]
-    },
-    "CK": {
-        "tld": ".ck",
-        "flag_emoji": "🇨🇰",
-        "calling_code": [
-            "682"
+            "238"
         ]
     },
     "CR": {
@@ -373,20 +364,6 @@
         "flag_emoji": "🇨🇷",
         "calling_code": [
             "506"
-        ]
-    },
-    "CI": {
-        "tld": ".ci",
-        "flag_emoji": "🇨🇮",
-        "calling_code": [
-            "225"
-        ]
-    },
-    "HR": {
-        "tld": ".hr",
-        "flag_emoji": "🇭🇷",
-        "calling_code": [
-            "385"
         ]
     },
     "CU": {
@@ -403,6 +380,20 @@
             "599"
         ]
     },
+    "CX": {
+        "tld": ".cx",
+        "flag_emoji": "🇨🇽",
+        "calling_code": [
+            "61"
+        ]
+    },
+    "KY": {
+        "tld": ".ky",
+        "flag_emoji": "🇰🇾",
+        "calling_code": [
+            "1-345"
+        ]
+    },
     "CY": {
         "tld": ".cy",
         "flag_emoji": "🇨🇾",
@@ -417,11 +408,11 @@
             "420"
         ]
     },
-    "DK": {
-        "tld": ".dk",
-        "flag_emoji": "🇩🇰",
+    "DE": {
+        "tld": ".de",
+        "flag_emoji": "🇩🇪",
         "calling_code": [
-            "45"
+            "49"
         ]
     },
     "DJ": {
@@ -438,6 +429,13 @@
             "1-767"
         ]
     },
+    "DK": {
+        "tld": ".dk",
+        "flag_emoji": "🇩🇰",
+        "calling_code": [
+            "45"
+        ]
+    },
     "DO": {
         "tld": ".do",
         "flag_emoji": "🇩🇴",
@@ -445,6 +443,13 @@
             "1-809",
             "1-829",
             "1-849"
+        ]
+    },
+    "DZ": {
+        "tld": ".dz",
+        "flag_emoji": "🇩🇿",
+        "calling_code": [
+            "213"
         ]
     },
     "EC": {
@@ -461,25 +466,23 @@
             "20"
         ]
     },
-    "SV": {
-        "tld": ".sv",
-        "flag_emoji": "🇸🇻",
-        "calling_code": [
-            "503"
-        ]
-    },
-    "GQ": {
-        "tld": ".gq",
-        "flag_emoji": "🇬🇶",
-        "calling_code": [
-            "240"
-        ]
-    },
     "ER": {
         "tld": ".er",
         "flag_emoji": "🇪🇷",
         "calling_code": [
             "291"
+        ]
+    },
+    "EH": {
+        "tld": ".eh",
+        "flag_emoji": "🇪🇭",
+        "calling_code": []
+    },
+    "ES": {
+        "tld": ".es",
+        "flag_emoji": "🇪🇸",
+        "calling_code": [
+            "34"
         ]
     },
     "EE": {
@@ -489,39 +492,11 @@
             "372"
         ]
     },
-    "SZ": {
-        "tld": ".sz",
-        "flag_emoji": "🇸🇿",
-        "calling_code": [
-            "268"
-        ]
-    },
     "ET": {
         "tld": ".et",
         "flag_emoji": "🇪🇹",
         "calling_code": [
             "251"
-        ]
-    },
-    "FK": {
-        "tld": ".fk",
-        "flag_emoji": "🇫🇰",
-        "calling_code": [
-            "500"
-        ]
-    },
-    "FO": {
-        "tld": ".fo",
-        "flag_emoji": "🇫🇴",
-        "calling_code": [
-            "298"
-        ]
-    },
-    "FJ": {
-        "tld": ".fj",
-        "flag_emoji": "🇫🇯",
-        "calling_code": [
-            "679"
         ]
     },
     "FI": {
@@ -531,6 +506,20 @@
             "358"
         ]
     },
+    "FJ": {
+        "tld": ".fj",
+        "flag_emoji": "🇫🇯",
+        "calling_code": [
+            "679"
+        ]
+    },
+    "FK": {
+        "tld": ".fk",
+        "flag_emoji": "🇫🇰",
+        "calling_code": [
+            "500"
+        ]
+    },
     "FR": {
         "tld": ".fr",
         "flag_emoji": "🇫🇷",
@@ -538,24 +527,19 @@
             "33"
         ]
     },
-    "GF": {
-        "tld": ".gf",
-        "flag_emoji": "🇬🇫",
+    "FO": {
+        "tld": ".fo",
+        "flag_emoji": "🇫🇴",
         "calling_code": [
-            "594"
+            "298"
         ]
     },
-    "PF": {
-        "tld": ".pf",
-        "flag_emoji": "🇵🇫",
+    "FM": {
+        "tld": ".fm",
+        "flag_emoji": "🇫🇲",
         "calling_code": [
-            "689"
+            "691"
         ]
-    },
-    "TF": {
-        "tld": ".tf",
-        "flag_emoji": "🇹🇫",
-        "calling_code": []
     },
     "GA": {
         "tld": ".ga",
@@ -564,11 +548,11 @@
             "241"
         ]
     },
-    "GM": {
-        "tld": ".gm",
-        "flag_emoji": "🇬🇲",
+    "GB": {
+        "tld": ".gb",
+        "flag_emoji": "🇬🇧",
         "calling_code": [
-            "220"
+            "44"
         ]
     },
     "GE": {
@@ -578,11 +562,11 @@
             "995"
         ]
     },
-    "DE": {
-        "tld": ".de",
-        "flag_emoji": "🇩🇪",
+    "GG": {
+        "tld": ".gg",
+        "flag_emoji": "🇬🇬",
         "calling_code": [
-            "49"
+            "44"
         ]
     },
     "GH": {
@@ -599,25 +583,11 @@
             "350"
         ]
     },
-    "GR": {
-        "tld": ".gr",
-        "flag_emoji": "🇬🇷",
+    "GN": {
+        "tld": ".gn",
+        "flag_emoji": "🇬🇳",
         "calling_code": [
-            "30"
-        ]
-    },
-    "GL": {
-        "tld": ".gl",
-        "flag_emoji": "🇬🇱",
-        "calling_code": [
-            "299"
-        ]
-    },
-    "GD": {
-        "tld": ".gd",
-        "flag_emoji": "🇬🇩",
-        "calling_code": [
-            "1-473"
+            "224"
         ]
     },
     "GP": {
@@ -627,32 +597,11 @@
             "590"
         ]
     },
-    "GU": {
-        "tld": ".gu",
-        "flag_emoji": "🇬🇺",
+    "GM": {
+        "tld": ".gm",
+        "flag_emoji": "🇬🇲",
         "calling_code": [
-            "1-671"
-        ]
-    },
-    "GT": {
-        "tld": ".gt",
-        "flag_emoji": "🇬🇹",
-        "calling_code": [
-            "502"
-        ]
-    },
-    "GG": {
-        "tld": ".gg",
-        "flag_emoji": "🇬🇬",
-        "calling_code": [
-            "44"
-        ]
-    },
-    "GN": {
-        "tld": ".gn",
-        "flag_emoji": "🇬🇳",
-        "calling_code": [
-            "224"
+            "220"
         ]
     },
     "GW": {
@@ -662,39 +611,60 @@
             "245"
         ]
     },
+    "GQ": {
+        "tld": ".gq",
+        "flag_emoji": "🇬🇶",
+        "calling_code": [
+            "240"
+        ]
+    },
+    "GR": {
+        "tld": ".gr",
+        "flag_emoji": "🇬🇷",
+        "calling_code": [
+            "30"
+        ]
+    },
+    "GD": {
+        "tld": ".gd",
+        "flag_emoji": "🇬🇩",
+        "calling_code": [
+            "1-473"
+        ]
+    },
+    "GL": {
+        "tld": ".gl",
+        "flag_emoji": "🇬🇱",
+        "calling_code": [
+            "299"
+        ]
+    },
+    "GT": {
+        "tld": ".gt",
+        "flag_emoji": "🇬🇹",
+        "calling_code": [
+            "502"
+        ]
+    },
+    "GF": {
+        "tld": ".gf",
+        "flag_emoji": "🇬🇫",
+        "calling_code": [
+            "594"
+        ]
+    },
+    "GU": {
+        "tld": ".gu",
+        "flag_emoji": "🇬🇺",
+        "calling_code": [
+            "1-671"
+        ]
+    },
     "GY": {
         "tld": ".gy",
         "flag_emoji": "🇬🇾",
         "calling_code": [
             "592"
-        ]
-    },
-    "HT": {
-        "tld": ".ht",
-        "flag_emoji": "🇭🇹",
-        "calling_code": [
-            "509"
-        ]
-    },
-    "HM": {
-        "tld": ".hm",
-        "flag_emoji": "🇭🇲",
-        "calling_code": [
-            "61"
-        ]
-    },
-    "VA": {
-        "tld": ".va",
-        "flag_emoji": "🇻🇦",
-        "calling_code": [
-            "39"
-        ]
-    },
-    "HN": {
-        "tld": ".hn",
-        "flag_emoji": "🇭🇳",
-        "calling_code": [
-            "504"
         ]
     },
     "HK": {
@@ -704,6 +674,34 @@
             "852"
         ]
     },
+    "HM": {
+        "tld": ".hm",
+        "flag_emoji": "🇭🇲",
+        "calling_code": [
+            "61"
+        ]
+    },
+    "HN": {
+        "tld": ".hn",
+        "flag_emoji": "🇭🇳",
+        "calling_code": [
+            "504"
+        ]
+    },
+    "HR": {
+        "tld": ".hr",
+        "flag_emoji": "🇭🇷",
+        "calling_code": [
+            "385"
+        ]
+    },
+    "HT": {
+        "tld": ".ht",
+        "flag_emoji": "🇭🇹",
+        "calling_code": [
+            "509"
+        ]
+    },
     "HU": {
         "tld": ".hu",
         "flag_emoji": "🇭🇺",
@@ -711,11 +709,18 @@
             "36"
         ]
     },
-    "IS": {
-        "tld": ".is",
-        "flag_emoji": "🇮🇸",
+    "ID": {
+        "tld": ".id",
+        "flag_emoji": "🇮🇩",
         "calling_code": [
-            "354"
+            "62"
+        ]
+    },
+    "IM": {
+        "tld": ".im",
+        "flag_emoji": "🇮🇲",
+        "calling_code": [
+            "44"
         ]
     },
     "IN": {
@@ -725,11 +730,18 @@
             "91"
         ]
     },
-    "ID": {
-        "tld": ".id",
-        "flag_emoji": "🇮🇩",
+    "IO": {
+        "tld": ".io",
+        "flag_emoji": "🇮🇴",
         "calling_code": [
-            "62"
+            "246"
+        ]
+    },
+    "IE": {
+        "tld": ".ie",
+        "flag_emoji": "🇮🇪",
+        "calling_code": [
+            "353"
         ]
     },
     "IR": {
@@ -746,18 +758,11 @@
             "964"
         ]
     },
-    "IE": {
-        "tld": ".ie",
-        "flag_emoji": "🇮🇪",
+    "IS": {
+        "tld": ".is",
+        "flag_emoji": "🇮🇸",
         "calling_code": [
-            "353"
-        ]
-    },
-    "IM": {
-        "tld": ".im",
-        "flag_emoji": "🇮🇲",
-        "calling_code": [
-            "44"
+            "354"
         ]
     },
     "IL": {
@@ -781,13 +786,6 @@
             "1-876"
         ]
     },
-    "JP": {
-        "tld": ".jp",
-        "flag_emoji": "🇯🇵",
-        "calling_code": [
-            "81"
-        ]
-    },
     "JE": {
         "tld": ".je",
         "flag_emoji": "🇯🇪",
@@ -800,6 +798,13 @@
         "flag_emoji": "🇯🇴",
         "calling_code": [
             "962"
+        ]
+    },
+    "JP": {
+        "tld": ".jp",
+        "flag_emoji": "🇯🇵",
+        "calling_code": [
+            "81"
         ]
     },
     "KZ": {
@@ -816,6 +821,20 @@
             "254"
         ]
     },
+    "KG": {
+        "tld": ".kg",
+        "flag_emoji": "🇰🇬",
+        "calling_code": [
+            "996"
+        ]
+    },
+    "KH": {
+        "tld": ".kh",
+        "flag_emoji": "🇰🇭",
+        "calling_code": [
+            "855"
+        ]
+    },
     "KI": {
         "tld": ".ki",
         "flag_emoji": "🇰🇮",
@@ -823,11 +842,11 @@
             "686"
         ]
     },
-    "KP": {
-        "tld": ".kp",
-        "flag_emoji": "🇰🇵",
+    "KN": {
+        "tld": ".kn",
+        "flag_emoji": "🇰🇳",
         "calling_code": [
-            "850"
+            "1-869"
         ]
     },
     "KR": {
@@ -844,13 +863,6 @@
             "965"
         ]
     },
-    "KG": {
-        "tld": ".kg",
-        "flag_emoji": "🇰🇬",
-        "calling_code": [
-            "996"
-        ]
-    },
     "LA": {
         "tld": ".la",
         "flag_emoji": "🇱🇦",
@@ -858,25 +870,11 @@
             "856"
         ]
     },
-    "LV": {
-        "tld": ".lv",
-        "flag_emoji": "🇱🇻",
-        "calling_code": [
-            "371"
-        ]
-    },
     "LB": {
         "tld": ".lb",
         "flag_emoji": "🇱🇧",
         "calling_code": [
             "961"
-        ]
-    },
-    "LS": {
-        "tld": ".ls",
-        "flag_emoji": "🇱🇸",
-        "calling_code": [
-            "266"
         ]
     },
     "LR": {
@@ -893,11 +891,32 @@
             "218"
         ]
     },
+    "LC": {
+        "tld": ".lc",
+        "flag_emoji": "🇱🇨",
+        "calling_code": [
+            "1-758"
+        ]
+    },
     "LI": {
         "tld": ".li",
         "flag_emoji": "🇱🇮",
         "calling_code": [
             "423"
+        ]
+    },
+    "LK": {
+        "tld": ".lk",
+        "flag_emoji": "🇱🇰",
+        "calling_code": [
+            "94"
+        ]
+    },
+    "LS": {
+        "tld": ".ls",
+        "flag_emoji": "🇱🇸",
+        "calling_code": [
+            "266"
         ]
     },
     "LT": {
@@ -914,11 +933,46 @@
             "352"
         ]
     },
+    "LV": {
+        "tld": ".lv",
+        "flag_emoji": "🇱🇻",
+        "calling_code": [
+            "371"
+        ]
+    },
     "MO": {
         "tld": ".mo",
         "flag_emoji": "🇲🇴",
         "calling_code": [
             "853"
+        ]
+    },
+    "MF": {
+        "tld": ".mf",
+        "flag_emoji": "🇲🇫",
+        "calling_code": [
+            "590"
+        ]
+    },
+    "MA": {
+        "tld": ".ma",
+        "flag_emoji": "🇲🇦",
+        "calling_code": [
+            "212"
+        ]
+    },
+    "MC": {
+        "tld": ".mc",
+        "flag_emoji": "🇲🇨",
+        "calling_code": [
+            "377"
+        ]
+    },
+    "MD": {
+        "tld": ".md",
+        "flag_emoji": "🇲🇩",
+        "calling_code": [
+            "373"
         ]
     },
     "MG": {
@@ -928,25 +982,32 @@
             "261"
         ]
     },
-    "MW": {
-        "tld": ".mw",
-        "flag_emoji": "🇲🇼",
-        "calling_code": [
-            "265"
-        ]
-    },
-    "MY": {
-        "tld": ".my",
-        "flag_emoji": "🇲🇾",
-        "calling_code": [
-            "60"
-        ]
-    },
     "MV": {
         "tld": ".mv",
         "flag_emoji": "🇲🇻",
         "calling_code": [
             "960"
+        ]
+    },
+    "MX": {
+        "tld": ".mx",
+        "flag_emoji": "🇲🇽",
+        "calling_code": [
+            "52"
+        ]
+    },
+    "MH": {
+        "tld": ".mh",
+        "flag_emoji": "🇲🇭",
+        "calling_code": [
+            "692"
+        ]
+    },
+    "MK": {
+        "tld": ".mk",
+        "flag_emoji": "🇲🇰",
+        "calling_code": [
+            "389"
         ]
     },
     "ML": {
@@ -963,74 +1024,11 @@
             "356"
         ]
     },
-    "MH": {
-        "tld": ".mh",
-        "flag_emoji": "🇲🇭",
+    "MM": {
+        "tld": ".mm",
+        "flag_emoji": "🇲🇲",
         "calling_code": [
-            "692"
-        ]
-    },
-    "MQ": {
-        "tld": ".mq",
-        "flag_emoji": "🇲🇶",
-        "calling_code": [
-            "596"
-        ]
-    },
-    "MR": {
-        "tld": ".mr",
-        "flag_emoji": "🇲🇷",
-        "calling_code": [
-            "222"
-        ]
-    },
-    "MU": {
-        "tld": ".mu",
-        "flag_emoji": "🇲🇺",
-        "calling_code": [
-            "230"
-        ]
-    },
-    "YT": {
-        "tld": ".yt",
-        "flag_emoji": "🇾🇹",
-        "calling_code": [
-            "262"
-        ]
-    },
-    "MX": {
-        "tld": ".mx",
-        "flag_emoji": "🇲🇽",
-        "calling_code": [
-            "52"
-        ]
-    },
-    "FM": {
-        "tld": ".fm",
-        "flag_emoji": "🇫🇲",
-        "calling_code": [
-            "691"
-        ]
-    },
-    "MD": {
-        "tld": ".md",
-        "flag_emoji": "🇲🇩",
-        "calling_code": [
-            "373"
-        ]
-    },
-    "MC": {
-        "tld": ".mc",
-        "flag_emoji": "🇲🇨",
-        "calling_code": [
-            "377"
-        ]
-    },
-    "MN": {
-        "tld": ".mn",
-        "flag_emoji": "🇲🇳",
-        "calling_code": [
-            "976"
+            "95"
         ]
     },
     "ME": {
@@ -1040,116 +1038,11 @@
             "382"
         ]
     },
-    "MS": {
-        "tld": ".ms",
-        "flag_emoji": "🇲🇸",
+    "MN": {
+        "tld": ".mn",
+        "flag_emoji": "🇲🇳",
         "calling_code": [
-            "1-664"
-        ]
-    },
-    "MA": {
-        "tld": ".ma",
-        "flag_emoji": "🇲🇦",
-        "calling_code": [
-            "212"
-        ]
-    },
-    "MZ": {
-        "tld": ".mz",
-        "flag_emoji": "🇲🇿",
-        "calling_code": [
-            "258"
-        ]
-    },
-    "MM": {
-        "tld": ".mm",
-        "flag_emoji": "🇲🇲",
-        "calling_code": [
-            "95"
-        ]
-    },
-    "NA": {
-        "tld": ".na",
-        "flag_emoji": "🇳🇦",
-        "calling_code": [
-            "264"
-        ]
-    },
-    "NR": {
-        "tld": ".nr",
-        "flag_emoji": "🇳🇷",
-        "calling_code": [
-            "674"
-        ]
-    },
-    "NP": {
-        "tld": ".np",
-        "flag_emoji": "🇳🇵",
-        "calling_code": [
-            "977"
-        ]
-    },
-    "NL": {
-        "tld": ".nl",
-        "flag_emoji": "🇳🇱",
-        "calling_code": [
-            "31"
-        ]
-    },
-    "NC": {
-        "tld": ".nc",
-        "flag_emoji": "🇳🇨",
-        "calling_code": [
-            "687"
-        ]
-    },
-    "NZ": {
-        "tld": ".nz",
-        "flag_emoji": "🇳🇿",
-        "calling_code": [
-            "64"
-        ]
-    },
-    "NI": {
-        "tld": ".ni",
-        "flag_emoji": "🇳🇮",
-        "calling_code": [
-            "505"
-        ]
-    },
-    "NE": {
-        "tld": ".ne",
-        "flag_emoji": "🇳🇪",
-        "calling_code": [
-            "227"
-        ]
-    },
-    "NG": {
-        "tld": ".ng",
-        "flag_emoji": "🇳🇬",
-        "calling_code": [
-            "234"
-        ]
-    },
-    "NU": {
-        "tld": ".nu",
-        "flag_emoji": "🇳🇺",
-        "calling_code": [
-            "683"
-        ]
-    },
-    "NF": {
-        "tld": ".nf",
-        "flag_emoji": "🇳🇫",
-        "calling_code": [
-            "672"
-        ]
-    },
-    "MK": {
-        "tld": ".mk",
-        "flag_emoji": "🇲🇰",
-        "calling_code": [
-            "389"
+            "976"
         ]
     },
     "MP": {
@@ -1159,11 +1052,144 @@
             "1-670"
         ]
     },
+    "MZ": {
+        "tld": ".mz",
+        "flag_emoji": "🇲🇿",
+        "calling_code": [
+            "258"
+        ]
+    },
+    "MR": {
+        "tld": ".mr",
+        "flag_emoji": "🇲🇷",
+        "calling_code": [
+            "222"
+        ]
+    },
+    "MS": {
+        "tld": ".ms",
+        "flag_emoji": "🇲🇸",
+        "calling_code": [
+            "1-664"
+        ]
+    },
+    "MQ": {
+        "tld": ".mq",
+        "flag_emoji": "🇲🇶",
+        "calling_code": [
+            "596"
+        ]
+    },
+    "MU": {
+        "tld": ".mu",
+        "flag_emoji": "🇲🇺",
+        "calling_code": [
+            "230"
+        ]
+    },
+    "MW": {
+        "tld": ".mw",
+        "flag_emoji": "🇲🇼",
+        "calling_code": [
+            "265"
+        ]
+    },
+    "MY": {
+        "tld": ".my",
+        "flag_emoji": "🇲🇾",
+        "calling_code": [
+            "60"
+        ]
+    },
+    "YT": {
+        "tld": ".yt",
+        "flag_emoji": "🇾🇹",
+        "calling_code": [
+            "262"
+        ]
+    },
+    "NA": {
+        "tld": ".na",
+        "flag_emoji": "🇳🇦",
+        "calling_code": [
+            "264"
+        ]
+    },
+    "NC": {
+        "tld": ".nc",
+        "flag_emoji": "🇳🇨",
+        "calling_code": [
+            "687"
+        ]
+    },
+    "NE": {
+        "tld": ".ne",
+        "flag_emoji": "🇳🇪",
+        "calling_code": [
+            "227"
+        ]
+    },
+    "NF": {
+        "tld": ".nf",
+        "flag_emoji": "🇳🇫",
+        "calling_code": [
+            "672"
+        ]
+    },
+    "NG": {
+        "tld": ".ng",
+        "flag_emoji": "🇳🇬",
+        "calling_code": [
+            "234"
+        ]
+    },
+    "NI": {
+        "tld": ".ni",
+        "flag_emoji": "🇳🇮",
+        "calling_code": [
+            "505"
+        ]
+    },
+    "NU": {
+        "tld": ".nu",
+        "flag_emoji": "🇳🇺",
+        "calling_code": [
+            "683"
+        ]
+    },
+    "NL": {
+        "tld": ".nl",
+        "flag_emoji": "🇳🇱",
+        "calling_code": [
+            "31"
+        ]
+    },
     "NO": {
         "tld": ".no",
         "flag_emoji": "🇳🇴",
         "calling_code": [
             "47"
+        ]
+    },
+    "NP": {
+        "tld": ".np",
+        "flag_emoji": "🇳🇵",
+        "calling_code": [
+            "977"
+        ]
+    },
+    "NR": {
+        "tld": ".nr",
+        "flag_emoji": "🇳🇷",
+        "calling_code": [
+            "674"
+        ]
+    },
+    "NZ": {
+        "tld": ".nz",
+        "flag_emoji": "🇳🇿",
+        "calling_code": [
+            "64"
         ]
     },
     "OM": {
@@ -1180,21 +1206,6 @@
             "92"
         ]
     },
-    "PW": {
-        "tld": ".pw",
-        "flag_emoji": "🇵🇼",
-        "calling_code": [
-            "680"
-        ]
-    },
-    "PS": {
-        "tld": ".ps",
-        "flag_emoji": "🇵🇸",
-        "calling_code": [
-            "970",
-            "972"
-        ]
-    },
     "PA": {
         "tld": ".pa",
         "flag_emoji": "🇵🇦",
@@ -1202,18 +1213,11 @@
             "507"
         ]
     },
-    "PG": {
-        "tld": ".pg",
-        "flag_emoji": "🇵🇬",
+    "PN": {
+        "tld": ".pn",
+        "flag_emoji": "🇵🇳",
         "calling_code": [
-            "675"
-        ]
-    },
-    "PY": {
-        "tld": ".py",
-        "flag_emoji": "🇵🇾",
-        "calling_code": [
-            "595"
+            "870"
         ]
     },
     "PE": {
@@ -1230,11 +1234,18 @@
             "63"
         ]
     },
-    "PN": {
-        "tld": ".pn",
-        "flag_emoji": "🇵🇳",
+    "PW": {
+        "tld": ".pw",
+        "flag_emoji": "🇵🇼",
         "calling_code": [
-            "870"
+            "680"
+        ]
+    },
+    "PG": {
+        "tld": ".pg",
+        "flag_emoji": "🇵🇬",
+        "calling_code": [
+            "675"
         ]
     },
     "PL": {
@@ -1244,6 +1255,21 @@
             "48"
         ]
     },
+    "PR": {
+        "tld": ".pr",
+        "flag_emoji": "🇵🇷",
+        "calling_code": [
+            "1-787",
+            "1-939"
+        ]
+    },
+    "KP": {
+        "tld": ".kp",
+        "flag_emoji": "🇰🇵",
+        "calling_code": [
+            "850"
+        ]
+    },
     "PT": {
         "tld": ".pt",
         "flag_emoji": "🇵🇹",
@@ -1251,12 +1277,26 @@
             "351"
         ]
     },
-    "PR": {
-        "tld": ".pr",
-        "flag_emoji": "🇵🇷",
+    "PY": {
+        "tld": ".py",
+        "flag_emoji": "🇵🇾",
         "calling_code": [
-            "1-787",
-            "1-939"
+            "595"
+        ]
+    },
+    "PS": {
+        "tld": ".ps",
+        "flag_emoji": "🇵🇸",
+        "calling_code": [
+            "970",
+            "972"
+        ]
+    },
+    "PF": {
+        "tld": ".pf",
+        "flag_emoji": "🇵🇫",
+        "calling_code": [
+            "689"
         ]
     },
     "QA": {
@@ -1294,81 +1334,18 @@
             "250"
         ]
     },
-    "BL": {
-        "tld": ".bl",
-        "flag_emoji": "🇧🇱",
-        "calling_code": [
-            "590"
-        ]
-    },
-    "SH": {
-        "tld": ".sh",
-        "flag_emoji": "🇸🇭",
-        "calling_code": [
-            "290"
-        ]
-    },
-    "KN": {
-        "tld": ".kn",
-        "flag_emoji": "🇰🇳",
-        "calling_code": [
-            "1-869"
-        ]
-    },
-    "LC": {
-        "tld": ".lc",
-        "flag_emoji": "🇱🇨",
-        "calling_code": [
-            "1-758"
-        ]
-    },
-    "MF": {
-        "tld": ".mf",
-        "flag_emoji": "🇲🇫",
-        "calling_code": [
-            "590"
-        ]
-    },
-    "PM": {
-        "tld": ".pm",
-        "flag_emoji": "🇵🇲",
-        "calling_code": [
-            "508"
-        ]
-    },
-    "VC": {
-        "tld": ".vc",
-        "flag_emoji": "🇻🇨",
-        "calling_code": [
-            "1-784"
-        ]
-    },
-    "WS": {
-        "tld": ".ws",
-        "flag_emoji": "🇼🇸",
-        "calling_code": [
-            "685"
-        ]
-    },
-    "SM": {
-        "tld": ".sm",
-        "flag_emoji": "🇸🇲",
-        "calling_code": [
-            "378"
-        ]
-    },
-    "ST": {
-        "tld": ".st",
-        "flag_emoji": "🇸🇹",
-        "calling_code": [
-            "239"
-        ]
-    },
     "SA": {
         "tld": ".sa",
         "flag_emoji": "🇸🇦",
         "calling_code": [
             "966"
+        ]
+    },
+    "SD": {
+        "tld": ".sd",
+        "flag_emoji": "🇸🇩",
+        "calling_code": [
+            "249"
         ]
     },
     "SN": {
@@ -1378,18 +1355,39 @@
             "221"
         ]
     },
-    "RS": {
-        "tld": ".rs",
-        "flag_emoji": "🇷🇸",
+    "SG": {
+        "tld": ".sg",
+        "flag_emoji": "🇸🇬",
         "calling_code": [
-            "381"
+            "65"
         ]
     },
-    "SC": {
-        "tld": ".sc",
-        "flag_emoji": "🇸🇨",
+    "GS": {
+        "tld": ".gs",
+        "flag_emoji": "🇬🇸",
         "calling_code": [
-            "248"
+            "500"
+        ]
+    },
+    "SH": {
+        "tld": ".sh",
+        "flag_emoji": "🇸🇭",
+        "calling_code": [
+            "290"
+        ]
+    },
+    "SJ": {
+        "tld": ".sj",
+        "flag_emoji": "🇸🇯",
+        "calling_code": [
+            "47"
+        ]
+    },
+    "SB": {
+        "tld": ".sb",
+        "flag_emoji": "🇸🇧",
+        "calling_code": [
+            "677"
         ]
     },
     "SL": {
@@ -1399,18 +1397,60 @@
             "232"
         ]
     },
-    "SG": {
-        "tld": ".sg",
-        "flag_emoji": "🇸🇬",
+    "SV": {
+        "tld": ".sv",
+        "flag_emoji": "🇸🇻",
         "calling_code": [
-            "65"
+            "503"
         ]
     },
-    "SX": {
-        "tld": ".sx",
-        "flag_emoji": "🇸🇽",
+    "SM": {
+        "tld": ".sm",
+        "flag_emoji": "🇸🇲",
         "calling_code": [
-            "1-721"
+            "378"
+        ]
+    },
+    "SO": {
+        "tld": ".so",
+        "flag_emoji": "🇸🇴",
+        "calling_code": [
+            "252"
+        ]
+    },
+    "PM": {
+        "tld": ".pm",
+        "flag_emoji": "🇵🇲",
+        "calling_code": [
+            "508"
+        ]
+    },
+    "RS": {
+        "tld": ".rs",
+        "flag_emoji": "🇷🇸",
+        "calling_code": [
+            "381"
+        ]
+    },
+    "SS": {
+        "tld": ".ss",
+        "flag_emoji": "🇸🇸",
+        "calling_code": [
+            "211"
+        ]
+    },
+    "ST": {
+        "tld": ".st",
+        "flag_emoji": "🇸🇹",
+        "calling_code": [
+            "239"
+        ]
+    },
+    "SR": {
+        "tld": ".sr",
+        "flag_emoji": "🇸🇷",
+        "calling_code": [
+            "597"
         ]
     },
     "SK": {
@@ -1427,76 +1467,6 @@
             "386"
         ]
     },
-    "SB": {
-        "tld": ".sb",
-        "flag_emoji": "🇸🇧",
-        "calling_code": [
-            "677"
-        ]
-    },
-    "SO": {
-        "tld": ".so",
-        "flag_emoji": "🇸🇴",
-        "calling_code": [
-            "252"
-        ]
-    },
-    "ZA": {
-        "tld": ".za",
-        "flag_emoji": "🇿🇦",
-        "calling_code": [
-            "27"
-        ]
-    },
-    "GS": {
-        "tld": ".gs",
-        "flag_emoji": "🇬🇸",
-        "calling_code": [
-            "500"
-        ]
-    },
-    "SS": {
-        "tld": ".ss",
-        "flag_emoji": "🇸🇸",
-        "calling_code": [
-            "211"
-        ]
-    },
-    "ES": {
-        "tld": ".es",
-        "flag_emoji": "🇪🇸",
-        "calling_code": [
-            "34"
-        ]
-    },
-    "LK": {
-        "tld": ".lk",
-        "flag_emoji": "🇱🇰",
-        "calling_code": [
-            "94"
-        ]
-    },
-    "SD": {
-        "tld": ".sd",
-        "flag_emoji": "🇸🇩",
-        "calling_code": [
-            "249"
-        ]
-    },
-    "SR": {
-        "tld": ".sr",
-        "flag_emoji": "🇸🇷",
-        "calling_code": [
-            "597"
-        ]
-    },
-    "SJ": {
-        "tld": ".sj",
-        "flag_emoji": "🇸🇯",
-        "calling_code": [
-            "47"
-        ]
-    },
     "SE": {
         "tld": ".se",
         "flag_emoji": "🇸🇪",
@@ -1504,11 +1474,25 @@
             "46"
         ]
     },
-    "CH": {
-        "tld": ".ch",
-        "flag_emoji": "🇨🇭",
+    "SZ": {
+        "tld": ".sz",
+        "flag_emoji": "🇸🇿",
         "calling_code": [
-            "41"
+            "268"
+        ]
+    },
+    "SX": {
+        "tld": ".sx",
+        "flag_emoji": "🇸🇽",
+        "calling_code": [
+            "1-721"
+        ]
+    },
+    "SC": {
+        "tld": ".sc",
+        "flag_emoji": "🇸🇨",
+        "calling_code": [
+            "248"
         ]
     },
     "SY": {
@@ -1518,39 +1502,18 @@
             "963"
         ]
     },
-    "TW": {
-        "tld": ".tw",
-        "flag_emoji": "🇹🇼",
+    "TC": {
+        "tld": ".tc",
+        "flag_emoji": "🇹🇨",
         "calling_code": [
-            "886"
+            "1-649"
         ]
     },
-    "TJ": {
-        "tld": ".tj",
-        "flag_emoji": "🇹🇯",
+    "TD": {
+        "tld": ".td",
+        "flag_emoji": "🇹🇩",
         "calling_code": [
-            "992"
-        ]
-    },
-    "TZ": {
-        "tld": ".tz",
-        "flag_emoji": "🇹🇿",
-        "calling_code": [
-            "255"
-        ]
-    },
-    "TH": {
-        "tld": ".th",
-        "flag_emoji": "🇹🇭",
-        "calling_code": [
-            "66"
-        ]
-    },
-    "TL": {
-        "tld": ".tl",
-        "flag_emoji": "🇹🇱",
-        "calling_code": [
-            "670"
+            "235"
         ]
     },
     "TG": {
@@ -1560,11 +1523,39 @@
             "228"
         ]
     },
+    "TH": {
+        "tld": ".th",
+        "flag_emoji": "🇹🇭",
+        "calling_code": [
+            "66"
+        ]
+    },
+    "TJ": {
+        "tld": ".tj",
+        "flag_emoji": "🇹🇯",
+        "calling_code": [
+            "992"
+        ]
+    },
     "TK": {
         "tld": ".tk",
         "flag_emoji": "🇹🇰",
         "calling_code": [
             "690"
+        ]
+    },
+    "TM": {
+        "tld": ".tm",
+        "flag_emoji": "🇹🇲",
+        "calling_code": [
+            "993"
+        ]
+    },
+    "TL": {
+        "tld": ".tl",
+        "flag_emoji": "🇹🇱",
+        "calling_code": [
+            "670"
         ]
     },
     "TO": {
@@ -1595,25 +1586,25 @@
             "90"
         ]
     },
-    "TM": {
-        "tld": ".tm",
-        "flag_emoji": "🇹🇲",
-        "calling_code": [
-            "993"
-        ]
-    },
-    "TC": {
-        "tld": ".tc",
-        "flag_emoji": "🇹🇨",
-        "calling_code": [
-            "1-649"
-        ]
-    },
     "TV": {
         "tld": ".tv",
         "flag_emoji": "🇹🇻",
         "calling_code": [
             "688"
+        ]
+    },
+    "TW": {
+        "tld": ".tw",
+        "flag_emoji": "🇹🇼",
+        "calling_code": [
+            "886"
+        ]
+    },
+    "TZ": {
+        "tld": ".tz",
+        "flag_emoji": "🇹🇿",
+        "calling_code": [
+            "255"
         ]
     },
     "UG": {
@@ -1630,27 +1621,6 @@
             "380"
         ]
     },
-    "AE": {
-        "tld": ".ae",
-        "flag_emoji": "🇦🇪",
-        "calling_code": [
-            "971"
-        ]
-    },
-    "GB": {
-        "tld": ".gb",
-        "flag_emoji": "🇬🇧",
-        "calling_code": [
-            "44"
-        ]
-    },
-    "US": {
-        "tld": ".us",
-        "flag_emoji": "🇺🇸",
-        "calling_code": [
-            "1"
-        ]
-    },
     "UM": {
         "tld": ".um",
         "flag_emoji": "🇺🇲",
@@ -1665,6 +1635,13 @@
             "598"
         ]
     },
+    "US": {
+        "tld": ".us",
+        "flag_emoji": "🇺🇸",
+        "calling_code": [
+            "1"
+        ]
+    },
     "UZ": {
         "tld": ".uz",
         "flag_emoji": "🇺🇿",
@@ -1672,11 +1649,18 @@
             "998"
         ]
     },
-    "VU": {
-        "tld": ".vu",
-        "flag_emoji": "🇻🇺",
+    "VA": {
+        "tld": ".va",
+        "flag_emoji": "🇻🇦",
         "calling_code": [
-            "678"
+            "39"
+        ]
+    },
+    "VC": {
+        "tld": ".vc",
+        "flag_emoji": "🇻🇨",
+        "calling_code": [
+            "1-784"
         ]
     },
     "VE": {
@@ -1684,13 +1668,6 @@
         "flag_emoji": "🇻🇪",
         "calling_code": [
             "58"
-        ]
-    },
-    "VN": {
-        "tld": ".vn",
-        "flag_emoji": "🇻🇳",
-        "calling_code": [
-            "84"
         ]
     },
     "VG": {
@@ -1707,6 +1684,20 @@
             "1-340"
         ]
     },
+    "VN": {
+        "tld": ".vn",
+        "flag_emoji": "🇻🇳",
+        "calling_code": [
+            "84"
+        ]
+    },
+    "VU": {
+        "tld": ".vu",
+        "flag_emoji": "🇻🇺",
+        "calling_code": [
+            "678"
+        ]
+    },
     "WF": {
         "tld": ".wf",
         "flag_emoji": "🇼🇫",
@@ -1714,16 +1705,25 @@
             "681"
         ]
     },
-    "EH": {
-        "tld": ".eh",
-        "flag_emoji": "🇪🇭",
-        "calling_code": []
+    "WS": {
+        "tld": ".ws",
+        "flag_emoji": "🇼🇸",
+        "calling_code": [
+            "685"
+        ]
     },
     "YE": {
         "tld": ".ye",
         "flag_emoji": "🇾🇪",
         "calling_code": [
             "967"
+        ]
+    },
+    "ZA": {
+        "tld": ".za",
+        "flag_emoji": "🇿🇦",
+        "calling_code": [
+            "27"
         ]
     },
     "ZM": {
