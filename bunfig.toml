@@ -1,0 +1,3 @@
+[test]
+coverageReporter = ["lcov", "text"]
+coverageDir = "coverage"

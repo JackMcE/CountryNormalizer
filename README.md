@@ -1,6 +1,22 @@
 # 🌎 Country Data Lookup And Normalizer 🌍
 
+[![CI](https://github.com/JackMcE/CountryNormalizer/actions/workflows/ci.yml/badge.svg)](https://github.com/JackMcE/CountryNormalizer/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/countrynormalizer.svg)](https://www.npmjs.com/package/countrynormalizer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Coverage](https://codecov.io/gh/JackMcE/CountryNormalizer/branch/main/graph/badge.svg)](https://codecov.io/gh/JackMcE/CountryNormalizer)
+[![npm downloads](https://img.shields.io/npm/dm/countrynormalizer.svg)](https://www.npmjs.com/package/countrynormalizer)
+
 A simple library for consolidation and reverse lookup of common ISO country data fields and calling codes all in one place.
+
+## Installation
+
+```bash
+npm install countrynormalizer
+```
+
+```bash
+bun add countrynormalizer
+```
 
 Developers routinely need to mix and match pieces of country data across an application.
 

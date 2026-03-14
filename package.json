@@ -1,6 +1,7 @@
 {
   "name": "countrynormalizer",
   "version": "0.1.1",
+  "description": "ISO 3166 country data lookup and normalization. Convert between alpha-2, alpha-3, ISO numbers, country names, calling codes, flag emojis, TLDs, continents, and demonyms.",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -15,8 +16,50 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "country",
+    "countries",
+    "iso-3166",
+    "iso3166",
+    "country-code",
+    "alpha-2",
+    "alpha-3",
+    "country-lookup",
+    "country-normalizer",
+    "country-normalize",
+    "calling-code",
+    "phone-code",
+    "dialing-code",
+    "flag-emoji",
+    "flag",
+    "tld",
+    "top-level-domain",
+    "continent",
+    "demonym",
+    "country-data",
+    "country-name",
+    "country-flag",
+    "country-phone",
+    "internationalization",
+    "i18n",
+    "localization",
+    "l10n",
+    "country-list",
+    "typescript"
+  ],
+  "author": "JackMcE",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JackMcE/CountryNormalizer.git"
+  },
+  "homepage": "https://github.com/JackMcE/CountryNormalizer#readme",
+  "bugs": {
+    "url": "https://github.com/JackMcE/CountryNormalizer/issues"
+  },
   "scripts": {
     "build": "bun run build.ts",
+    "test": "bun test",
     "extract-data": "bun ./tools/build-data.ts"
   },
   "devDependencies": {
