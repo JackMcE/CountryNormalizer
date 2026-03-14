@@ -16,6 +16,7 @@ const allCountries = allCountriesData as AllCountryFields[];
  * - `formal_order` — naturally spoken order of the formal country name
  * - `flag_emoji` — Unicode flag emoji for the country
  * - `common_reference` — casual/colloquial country name
+ * - `tld (top-level domain)` - Searches for the countries top-level domain match.
  *
  * This will **not** search non-unique fields like calling codes, continents, or demonyms.
  * Use {@link findAllMatchedCountries} for those lookups.
@@ -65,6 +66,7 @@ export const findCountryByUnique = (
     allCountries.find((c) => c.alpha_3.toLowerCase() === forgedNeedle) ??
     allCountries.find((c) => c.english_clean.toLowerCase() === forgedNeedle) ??
     allCountries.find((c) => c.formal_order.toLowerCase() === forgedNeedle) ??
+    allCountries.find((c) => matchesCleanedDomain(forgedNeedle, c.tld)) ??
     allCountries.find((c) => c.flag_emoji.toLowerCase() === forgedNeedle) ??
     allCountries.find(
       (c) => c.common_reference.toLowerCase() === forgedNeedle,

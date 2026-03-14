@@ -13,7 +13,7 @@ const contactData = contactFieldsData as Record<string, ContactCountryFields>;
 export const getContactFieldsByAlpha2 = (
   inputAlpha2: string,
 ): ContactCountryFields | null => {
-  if (inputAlpha2.length === 2) {
+  if (inputAlpha2.length !== 2) {
     console.warn(
       `Getting contact fields for a country requires the ISO 3166-1 alpha-2 value. ${inputAlpha2} is an incorrect length.`,
     );
