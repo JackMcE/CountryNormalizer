@@ -146,9 +146,9 @@ This function still supports singular lookup. Entering something like `findAllMa
 Entering a text value into this function that yields no results will return an empty (`[]`) array.
 
 ### Get Countries Contact Fields:
-It is common for applications to want to get the contact fields such as calling code blocks for the country, the flag of the country for visual identiifcation, or or top-level domains.
+It is common for applications to want to get the contact fields such as calling code blocks for the country, the flag of the country for visual identification, or top-level domains.
 
-In order to keep a smaller object available to work with and for tree-shaking consumer facing apps you can call `getCountriesByContinent(alpha2: string): ContactCountryFields | null` in order to get a response object of only the countries contact fields.
+In order to keep a smaller object available to work with and for tree-shaking consumer facing apps you can call `getContactFieldsByAlpha2(alpha2: string): ContactCountryFields | null` in order to get a response object of only the countries contact fields.
 
 ```
 {
@@ -167,7 +167,7 @@ In cases where you need to make a location selection you may want to query all c
 
 You can use `getCountriesByContinent(searchContinent: ContinentNames): ContinentTrimmedFields[]` function. This function requires a specifically matched enum input of continent names. It can be imported via `ContinentNames`.
 
-This function returns a trimmed down set of country data for each country on the continent. You'll recieve all the guaranteed unique contact fields and globally standardized data trimmed away. For example the response for Antartica would look like this...
+This function returns a trimmed down set of country data for each country on the continent. You'll receive all the guaranteed unique identifier and display fields, with globally standardized contact data trimmed away. For example the response for Antarctica would look like this...
 
 ```
 [
