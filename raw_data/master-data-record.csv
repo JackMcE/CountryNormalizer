@@ -1,250 +1,250 @@
 common_reference,english_clean,formal_order,alpha_2,alpha_3,num_code,demonym_male,demonym_female,gendered_demonym,tld,flag_emoji,calling_code,continent
+Aruba,Aruba,Aruba,AW,ABW,533,Aruban,Aruban,FALSE,.aw,🇦🇼,297,North America
 Afghanistan,Afghanistan,Afghanistan,AF,AFG,4,Afghan,Afghan,FALSE,.af,🇦🇫,93,Asia
-Aland Islands,Åland Islands,Åland Islands,AX,ALA,248,Ålander,Ålander,FALSE,.ax,🇦🇽,385,Europe
-Albania,Albania,Albania,AL,ALB,8,Albanian,Albanian,FALSE,.al,🇦🇱,355,Europe
-Algeria,Algeria,Algeria,DZ,DZA,12,Algerian,Algerian,FALSE,.dz,🇩🇿,213,Africa
-American Samoa,American Samoa,American Samoa,AS,ASM,16,American Samoan,American Samoan,FALSE,.as,🇦🇸,1-684,Oceania
-Andorra,Andorra,Andorra,AD,AND,20,Andorran,Andorran,FALSE,.ad,🇦🇩,376,Europe
 Angola,Angola,Angola,AO,AGO,24,Angolan,Angolan,FALSE,.ao,🇦🇴,244,Africa
 Anguilla,Anguilla,Anguilla,AI,AIA,660,Anguillan,Anguillan,FALSE,.ai,🇦🇮,1-264,North America
-Antarctica,Antarctica,Antarctica,AQ,ATA,10,Antarctican,Antarctican,FALSE,.aq,🇦🇶,672,Antarctica
-Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,ATG,28,"Antiguan, Barbudan","Antiguan, Barbudan",FALSE,.ag,🇦🇬,1-268,North America
+Aland Islands,Åland Islands,Åland Islands,AX,ALA,248,Ålander,Ålander,FALSE,.ax,🇦🇽,385,Europe
+Albania,Albania,Albania,AL,ALB,8,Albanian,Albanian,FALSE,.al,🇦🇱,355,Europe
+Andorra,Andorra,Andorra,AD,AND,20,Andorran,Andorran,FALSE,.ad,🇦🇩,376,Europe
+UAE,United Arab Emirates,United Arab Emirates,AE,ARE,784,Emirati,Emirati,FALSE,.ae,🇦🇪,971,Asia
 Argentina,Argentina,Argentina,AR,ARG,32,Argentine,Argentine,FALSE,.ar,🇦🇷,54,South America
 Armenia,Armenia,Armenia,AM,ARM,51,Armenian,Armenian,FALSE,.am,🇦🇲,374,Asia
-Aruba,Aruba,Aruba,AW,ABW,533,Aruban,Aruban,FALSE,.aw,🇦🇼,297,North America
+American Samoa,American Samoa,American Samoa,AS,ASM,16,American Samoan,American Samoan,FALSE,.as,🇦🇸,1-684,Oceania
+Antarctica,Antarctica,Antarctica,AQ,ATA,10,Antarctican,Antarctican,FALSE,.aq,🇦🇶,672,Antarctica
+French Southern Territories,French Southern Territories,French Southern Territories,TF,ATF,260,French Southern Territories resident,French Southern Territories resident,FALSE,.tf,🇹🇫,FALSE,Africa
+Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,AG,ATG,28,"Antiguan, Barbudan","Antiguan, Barbudan",FALSE,.ag,🇦🇬,1-268,North America
 Australia,Australia,Australia,AU,AUS,36,Australian,Australian,FALSE,.au,🇦🇺,61,Oceania
 Austria,Austria,Austria,AT,AUT,40,Austrian,Austrian,FALSE,.at,🇦🇹,43,Europe
 Azerbaijan,Azerbaijan,Azerbaijan,AZ,AZE,31,Azerbaijani,Azerbaijani,FALSE,.az,🇦🇿,994,Asia
-Bahamas,Bahamas,Bahamas,BS,BHS,44,Bahamian,Bahamian,FALSE,.bs,🇧🇸,1-242,North America
-Bahrain,Bahrain,Bahrain,BH,BHR,48,Bahraini,Bahraini,FALSE,.bh,🇧🇭,973,Asia
-Bangladesh,Bangladesh,Bangladesh,BD,BGD,50,Bangladeshi,Bangladeshi,FALSE,.bd,🇧🇩,880,Asia
-Barbados,Barbados,Barbados,BB,BRB,52,Barbadian,Barbadian,FALSE,.bb,🇧🇧,1-246,North America
-Belarus,Belarus,Belarus,BY,BLR,112,Belarusian,Belarusian,FALSE,.by,🇧🇾,375,Europe
-Belgium,Belgium,Belgium,BE,BEL,56,Belgian,Belgian,FALSE,.be,🇧🇪,32,Europe
-Belize,Belize,Belize,BZ,BLZ,84,Belizean,Belizean,FALSE,.bz,🇧🇿,501,North America
-Benin,Benin,Benin,BJ,BEN,204,Beninese,Beninese,FALSE,.bj,🇧🇯,229,Africa
-Bermuda,Bermuda,Bermuda,BM,BMU,60,Bermudian,Bermudian,FALSE,.bm,🇧🇲,1-441,North America
-Bhutan,Bhutan,Bhutan,BT,BTN,64,Bhutanese,Bhutanese,FALSE,.bt,🇧🇹,975,Asia
-Bolivia,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,BOL,68,Bolivian,Bolivian,FALSE,.bo,🇧🇴,591,South America
-"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",BQ,BES,535,Bonairean,Bonairean,FALSE,.bq,🇧🇶,599,North America
-Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,70,"Bosnian, Herzegovinian","Bosnian, Herzegovinian",FALSE,.ba,🇧🇦,387,Europe
-Botswana,Botswana,Botswana,BW,BWA,72,Motswana,Motswana,FALSE,.bw,🇧🇼,267,Africa
-Bouvet Island,Bouvet Island,Bouvet Island,BV,BVT,74,Bouvet Islander,Bouvet Islander,FALSE,.bv,🇧🇻,FALSE,Antarctica
-Brazil,Brazil,Brazil,BR,BRA,76,Brazilian,Brazilian,FALSE,.br,🇧🇷,55,South America
-British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,86,British,British,FALSE,.io,🇮🇴,246,Africa
-Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,BN,BRN,96,Bruneian,Bruneian,FALSE,.bn,🇧🇳,673,Asia
-Bulgaria,Bulgaria,Bulgaria,BG,BGR,100,Bulgarian,Bulgarian,FALSE,.bg,🇧🇬,359,Europe
-Burkina Faso,Burkina Faso,Burkina Faso,BF,BFA,854,Burkinabe,Burkinabe,FALSE,.bf,🇧🇫,226,Africa
 Burundi,Burundi,Burundi,BI,BDI,108,Burundian,Burundian,FALSE,.bi,🇧🇮,257,Africa
-Cabo Verde,Cabo Verde,Cabo Verde,CV,CPV,132,Cape Verdian,Cape Verdian,FALSE,.cv,🇨🇻,238,Africa
-Cambodia,Cambodia,Cambodia,KH,KHM,116,Cambodian,Cambodian,FALSE,.kh,🇰🇭,855,Asia
-Cameroon,Cameroon,Cameroon,CM,CMR,120,Cameroonian,Cameroonian,FALSE,.cm,🇨🇲,237,Africa
-Canada,Canada,Canada,CA,CAN,124,Canadian,Canadian,FALSE,.ca,🇨🇦,1,North America
-Cayman Islands,Cayman Islands,Cayman Islands,KY,CYM,136,Caymanian,Caymanian,FALSE,.ky,🇰🇾,1-345,North America
+Belgium,Belgium,Belgium,BE,BEL,56,Belgian,Belgian,FALSE,.be,🇧🇪,32,Europe
+Benin,Benin,Benin,BJ,BEN,204,Beninese,Beninese,FALSE,.bj,🇧🇯,229,Africa
+"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",BQ,BES,535,Bonairean,Bonairean,FALSE,.bq,🇧🇶,599,North America
+Burkina Faso,Burkina Faso,Burkina Faso,BF,BFA,854,Burkinabe,Burkinabe,FALSE,.bf,🇧🇫,226,Africa
+Bangladesh,Bangladesh,Bangladesh,BD,BGD,50,Bangladeshi,Bangladeshi,FALSE,.bd,🇧🇩,880,Asia
+Bulgaria,Bulgaria,Bulgaria,BG,BGR,100,Bulgarian,Bulgarian,FALSE,.bg,🇧🇬,359,Europe
+Bahrain,Bahrain,Bahrain,BH,BHR,48,Bahraini,Bahraini,FALSE,.bh,🇧🇭,973,Asia
+Bahamas,Bahamas,Bahamas,BS,BHS,44,Bahamian,Bahamian,FALSE,.bs,🇧🇸,1-242,North America
+Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,70,"Bosnian, Herzegovinian","Bosnian, Herzegovinian",FALSE,.ba,🇧🇦,387,Europe
+Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,BL,BLM,652,Saint-Barthélemois,Saint-Barthélemoise,TRUE,.bl,🇧🇱,590,North America
+Belarus,Belarus,Belarus,BY,BLR,112,Belarusian,Belarusian,FALSE,.by,🇧🇾,375,Europe
+Belize,Belize,Belize,BZ,BLZ,84,Belizean,Belizean,FALSE,.bz,🇧🇿,501,North America
+Bermuda,Bermuda,Bermuda,BM,BMU,60,Bermudian,Bermudian,FALSE,.bm,🇧🇲,1-441,North America
+Bolivia,"Bolivia, Plurinational State of",Plurinational State of Bolivia,BO,BOL,68,Bolivian,Bolivian,FALSE,.bo,🇧🇴,591,South America
+Brazil,Brazil,Brazil,BR,BRA,76,Brazilian,Brazilian,FALSE,.br,🇧🇷,55,South America
+Barbados,Barbados,Barbados,BB,BRB,52,Barbadian,Barbadian,FALSE,.bb,🇧🇧,1-246,North America
+Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,BN,BRN,96,Bruneian,Bruneian,FALSE,.bn,🇧🇳,673,Asia
+Bhutan,Bhutan,Bhutan,BT,BTN,64,Bhutanese,Bhutanese,FALSE,.bt,🇧🇹,975,Asia
+Bouvet Island,Bouvet Island,Bouvet Island,BV,BVT,74,Bouvet Islander,Bouvet Islander,FALSE,.bv,🇧🇻,FALSE,Antarctica
+Botswana,Botswana,Botswana,BW,BWA,72,Motswana,Motswana,FALSE,.bw,🇧🇼,267,Africa
 Central African Republic,Central African Republic,Central African Republic,CF,CAF,140,Central African,Central African,FALSE,.cf,🇨🇫,236,Africa
-Chad,Chad,Chad,TD,TCD,148,Chadian,Chadian,FALSE,.td,🇹🇩,235,Africa
+Canada,Canada,Canada,CA,CAN,124,Canadian,Canadian,FALSE,.ca,🇨🇦,1,North America
+Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,CC,CCK,166,Cocos Islander,Cocos Islander,FALSE,.cc,🇨🇨,61,Oceania
+Switzerland,Switzerland,Switzerland,CH,CHE,756,Swiss,Swiss,FALSE,.ch,🇨🇭,41,Europe
 Chile,Chile,Chile,CL,CHL,152,Chilean,Chilean,FALSE,.cl,🇨🇱,56,South America
 China,China,China,CN,CHN,156,Chinese,Chinese,FALSE,.cn,🇨🇳,86,Asia
-Christmas Island,Christmas Island,Christmas Island,CX,CXR,162,Christmas Islander,Christmas Islander,FALSE,.cx,🇨🇽,61,Oceania
-Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,CC,CCK,166,Cocos Islander,Cocos Islander,FALSE,.cc,🇨🇨,61,Oceania
+Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,384,Ivorian,Ivorian,FALSE,.ci,🇨🇮,225,Africa
+Cameroon,Cameroon,Cameroon,CM,CMR,120,Cameroonian,Cameroonian,FALSE,.cm,🇨🇲,237,Africa
+Democratic Republic of the Congo,"Congo, Democratic Republic of the",Democratic Republic of the Congo,CD,COD,180,Congolese,Congolese,FALSE,.cd,🇨🇩,243,Africa
+Congo,Congo,Congo,CG,COG,178,Congolese,Congolese,FALSE,.cg,🇨🇬,242,Africa
+Cook Islands,Cook Islands,Cook Islands,CK,COK,184,Cook Islander,Cook Islander,FALSE,.ck,🇨🇰,682,Oceania
 Colombia,Colombia,Colombia,CO,COL,170,Colombian,Colombian,FALSE,.co,🇨🇴,57,South America
 Comoros,Comoros,Comoros,KM,COM,174,Comoran,Comoran,FALSE,.km,🇰🇲,269,Africa
-Congo,Congo,Congo,CG,COG,178,Congolese,Congolese,FALSE,.cg,🇨🇬,242,Africa
-Democratic Republic of the Congo,"Congo, Democratic Republic of the",Democratic Republic of the Congo,CD,COD,180,Congolese,Congolese,FALSE,.cd,🇨🇩,243,Africa
-Cook Islands,Cook Islands,Cook Islands,CK,COK,184,Cook Islander,Cook Islander,FALSE,.ck,🇨🇰,682,Oceania
+Cabo Verde,Cabo Verde,Cabo Verde,CV,CPV,132,Cape Verdian,Cape Verdian,FALSE,.cv,🇨🇻,238,Africa
 Costa Rica,Costa Rica,Costa Rica,CR,CRI,188,Costa Rican,Costa Rican,FALSE,.cr,🇨🇷,506,North America
-Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,384,Ivorian,Ivorian,FALSE,.ci,🇨🇮,225,Africa
-Croatia,Croatia,Croatia,HR,HRV,191,Croatian,Croatian,FALSE,.hr,🇭🇷,385,Europe
 Cuba,Cuba,Cuba,CU,CUB,192,Cuban,Cuban,FALSE,.cu,🇨🇺,53,North America
 Curacao,Curaçao,Curaçao,CW,CUW,531,Curaçaoan,Curaçaoan,FALSE,.cw,🇨🇼,599,North America
+Christmas Island,Christmas Island,Christmas Island,CX,CXR,162,Christmas Islander,Christmas Islander,FALSE,.cx,🇨🇽,61,Oceania
+Cayman Islands,Cayman Islands,Cayman Islands,KY,CYM,136,Caymanian,Caymanian,FALSE,.ky,🇰🇾,1-345,North America
 Cyprus,Cyprus,Cyprus,CY,CYP,196,Cypriot,Cypriot,FALSE,.cy,🇨🇾,357,Asia
 Czechia,Czechia,Czechia,CZ,CZE,203,Czech,Czech,FALSE,.cz,🇨🇿,420,Europe
-Denmark,Denmark,Denmark,DK,DNK,208,Danish,Danish,FALSE,.dk,🇩🇰,45,Europe
+Germany,Germany,Germany,DE,DEU,276,German,German,FALSE,.de,🇩🇪,49,Europe
 Djibouti,Djibouti,Djibouti,DJ,DJI,262,Djibouti,Djibouti,FALSE,.dj,🇩🇯,253,Africa
 Dominica,Dominica,Dominica,DM,DMA,212,Dominican,Dominican,FALSE,.dm,🇩🇲,1-767,North America
+Denmark,Denmark,Denmark,DK,DNK,208,Danish,Danish,FALSE,.dk,🇩🇰,45,Europe
 Dominican Republic,Dominican Republic,Dominican Republic,DO,DOM,214,Dominican,Dominican,FALSE,.do,🇩🇴,"1-809,1-829,1-849",North America
+Algeria,Algeria,Algeria,DZ,DZA,12,Algerian,Algerian,FALSE,.dz,🇩🇿,213,Africa
 Ecuador,Ecuador,Ecuador,EC,ECU,218,Ecuadorean,Ecuadorean,FALSE,.ec,🇪🇨,593,South America
 Egypt,Egypt,Egypt,EG,EGY,818,Egyptian,Egyptian,FALSE,.eg,🇪🇬,20,Africa
-El Salvador,El Salvador,El Salvador,SV,SLV,222,Salvadoran,Salvadoran,FALSE,.sv,🇸🇻,503,North America
-Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,226,Equatorial Guinean,Equatorial Guinean,FALSE,.gq,🇬🇶,240,Africa
 Eritrea,Eritrea,Eritrea,ER,ERI,232,Eritrean,Eritrean,FALSE,.er,🇪🇷,291,Africa
+Western Sahara,Western Sahara,Western Sahara,EH,ESH,732,Sahrawi,Sahrawi,FALSE,.eh,🇪🇭,FALSE,Africa
+Spain,Spain,Spain,ES,ESP,724,Spanish,Spanish,FALSE,.es,🇪🇸,34,Europe
 Estonia,Estonia,Estonia,EE,EST,233,Estonian,Estonian,FALSE,.ee,🇪🇪,372,Europe
-Eswatini,Eswatini,Eswatini,SZ,SWZ,748,Swazi,Swazi,FALSE,.sz,🇸🇿,268,Africa
 Ethiopia,Ethiopia,Ethiopia,ET,ETH,231,Ethiopian,Ethiopian,FALSE,.et,🇪🇹,251,Africa
-Falkland Islands (Malvinas),Falkland Islands (Malvinas),Falkland Islands (Malvinas),FK,FLK,238,Falkland Islander,Falkland Islander,FALSE,.fk,🇫🇰,500,South America
-Faroe Islands,Faroe Islands,Faroe Islands,FO,FRO,234,Faroese,Faroese,FALSE,.fo,🇫🇴,298,Europe
-Fiji,Fiji,Fiji,FJ,FJI,242,Fijian,Fijian,FALSE,.fj,🇫🇯,679,Oceania
 Finland,Finland,Finland,FI,FIN,246,Finnish,Finnish,FALSE,.fi,🇫🇮,358,Europe
+Fiji,Fiji,Fiji,FJ,FJI,242,Fijian,Fijian,FALSE,.fj,🇫🇯,679,Oceania
+Falkland Islands,Falkland Islands (Malvinas),Falkland Islands (Malvinas),FK,FLK,238,Falkland Islander,Falkland Islander,FALSE,.fk,🇫🇰,500,South America
 France,France,France,FR,FRA,250,French,French,FALSE,.fr,🇫🇷,33,Europe
-French Guiana,French Guiana,French Guiana,GF,GUF,254,French Guianan,French Guianan,FALSE,.gf,🇬🇫,594,South America
-French Polynesia,French Polynesia,French Polynesia,PF,PYF,258,French Polynesian,French Polynesian,FALSE,.pf,🇵🇫,689,Oceania
-French Southern Territories,French Southern Territories,French Southern Territories,TF,ATF,260,French Southern Territories resident,French Southern Territories resident,FALSE,.tf,🇹🇫,FALSE,Africa
+Faroe Islands,Faroe Islands,Faroe Islands,FO,FRO,234,Faroese,Faroese,FALSE,.fo,🇫🇴,298,Europe
+Micronesia,"Micronesia, Federated States of",Federated States of Micronesia,FM,FSM,583,Micronesian,Micronesian,FALSE,.fm,🇫🇲,691,Oceania
 Gabon,Gabon,Gabon,GA,GAB,266,Gabonese,Gabonese,FALSE,.ga,🇬🇦,241,Africa
-Gambia,Gambia,Gambia,GM,GMB,270,Gambian,Gambian,FALSE,.gm,🇬🇲,220,Africa
+Uninted Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826,British,British,FALSE,.gb,🇬🇧,44,Europe
 Georgia,Georgia,Georgia,GE,GEO,268,Georgian,Georgian,FALSE,.ge,🇬🇪,995,Asia
-Germany,Germany,Germany,DE,DEU,276,German,German,FALSE,.de,🇩🇪,49,Europe
+Guernsey,Guernsey,Guernsey,GG,GGY,831,Guernseyman,Guernseywoman,TRUE,.gg,🇬🇬,44,Europe
 Ghana,Ghana,Ghana,GH,GHA,288,Ghanaian,Ghanaian,FALSE,.gh,🇬🇭,233,Africa
 Gibraltar,Gibraltar,Gibraltar,GI,GIB,292,Gibraltarian,Gibraltarian,FALSE,.gi,🇬🇮,350,Europe
-Greece,Greece,Greece,GR,GRC,300,Greek,Greek,FALSE,.gr,🇬🇷,30,Europe
-Greenland,Greenland,Greenland,GL,GRL,304,Greenlander,Greenlander,FALSE,.gl,🇬🇱,299,North America
-Grenada,Grenada,Grenada,GD,GRD,308,Grenadian,Grenadian,FALSE,.gd,🇬🇩,1-473,North America
-Guadeloupe,Guadeloupe,Guadeloupe,GP,GLP,312,Guadeloupean,Guadeloupean,FALSE,.gp,🇬🇵,590,North America
-Guam,Guam,Guam,GU,GUM,316,Guamanian,Guamanian,FALSE,.gu,🇬🇺,1-671,Oceania
-Guatemala,Guatemala,Guatemala,GT,GTM,320,Guatemalan,Guatemalan,FALSE,.gt,🇬🇹,502,North America
-Guernsey,Guernsey,Guernsey,GG,GGY,831,Guernseyman,Guernseywoman,TRUE,.gg,🇬🇬,44,Europe
 Guinea,Guinea,Guinea,GN,GIN,324,Guinean,Guinean,FALSE,.gn,🇬🇳,224,Africa
+Guadeloupe,Guadeloupe,Guadeloupe,GP,GLP,312,Guadeloupean,Guadeloupean,FALSE,.gp,🇬🇵,590,North America
+Gambia,Gambia,Gambia,GM,GMB,270,Gambian,Gambian,FALSE,.gm,🇬🇲,220,Africa
 Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,GW,GNB,624,Guinea-Bissauan,Guinea-Bissauan,FALSE,.gw,🇬🇼,245,Africa
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,GQ,GNQ,226,Equatorial Guinean,Equatorial Guinean,FALSE,.gq,🇬🇶,240,Africa
+Greece,Greece,Greece,GR,GRC,300,Greek,Greek,FALSE,.gr,🇬🇷,30,Europe
+Grenada,Grenada,Grenada,GD,GRD,308,Grenadian,Grenadian,FALSE,.gd,🇬🇩,1-473,North America
+Greenland,Greenland,Greenland,GL,GRL,304,Greenlander,Greenlander,FALSE,.gl,🇬🇱,299,North America
+Guatemala,Guatemala,Guatemala,GT,GTM,320,Guatemalan,Guatemalan,FALSE,.gt,🇬🇹,502,North America
+French Guiana,French Guiana,French Guiana,GF,GUF,254,French Guianan,French Guianan,FALSE,.gf,🇬🇫,594,South America
+Guam,Guam,Guam,GU,GUM,316,Guamanian,Guamanian,FALSE,.gu,🇬🇺,1-671,Oceania
 Guyana,Guyana,Guyana,GY,GUY,328,Guyanese,Guyanese,FALSE,.gy,🇬🇾,592,South America
-Haiti,Haiti,Haiti,HT,HTI,332,Haitian,Haitian,FALSE,.ht,🇭🇹,509,North America
-Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,334,Heard Islander,Heard Islander,FALSE,.hm,🇭🇲,61,Antarctica
-Holy See,Holy See,Holy See,VA,VAT,336,Vatican,Vatican,FALSE,.va,🇻🇦,39,Europe
-Honduras,Honduras,Honduras,HN,HND,340,Honduran,Honduran,FALSE,.hn,🇭🇳,504,North America
 Hong Kong,Hong Kong,Hong Kong,HK,HKG,344,Honkonger,Hongkonger,TRUE,.hk,🇭🇰,852,Asia
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,334,Heard Islander,Heard Islander,FALSE,.hm,🇭🇲,61,Antarctica
+Honduras,Honduras,Honduras,HN,HND,340,Honduran,Honduran,FALSE,.hn,🇭🇳,504,North America
+Croatia,Croatia,Croatia,HR,HRV,191,Croatian,Croatian,FALSE,.hr,🇭🇷,385,Europe
+Haiti,Haiti,Haiti,HT,HTI,332,Haitian,Haitian,FALSE,.ht,🇭🇹,509,North America
 Hungary,Hungary,Hungary,HU,HUN,348,Hungarian,Hungarian,FALSE,.hu,🇭🇺,36,Europe
-Iceland,Iceland,Iceland,IS,ISL,352,Icelander,Icelander,FALSE,.is,🇮🇸,354,Europe
-India,India,India,IN,IND,356,Indian,Indian,FALSE,.in,🇮🇳,91,Asia
 Indonesia,Indonesia,Indonesia,ID,IDN,360,Indonesian,Indonesian,FALSE,.id,🇮🇩,62,Asia
+Isle of Man,Isle of Man,Isle of Man,IM,IMN,833,Manxman,Manxwoman,TRUE,.im,🇮🇲,44,Europe
+India,India,India,IN,IND,356,Indian,Indian,FALSE,.in,🇮🇳,91,Asia
+British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,86,British,British,FALSE,.io,🇮🇴,246,Africa
+Ireland,Ireland,Ireland,IE,IRL,372,Irish,Irish,FALSE,.ie,🇮🇪,353,Europe
 Iran,"Iran, Islamic Republic of","Iran, Islamic Republic of",IR,IRN,364,Iranian,Iranian,FALSE,.ir,🇮🇷,98,Asia
 Iraq,Iraq,Iraq,IQ,IRQ,368,Iraqi,Iraqi,FALSE,.iq,🇮🇶,964,Asia
-Ireland,Ireland,Ireland,IE,IRL,372,Irish,Irish,FALSE,.ie,🇮🇪,353,Europe
-Isle of Man,Isle of Man,Isle of Man,IM,IMN,833,Manxman,Manxwoman,TRUE,.im,🇮🇲,44,Europe
+Iceland,Iceland,Iceland,IS,ISL,352,Icelander,Icelander,FALSE,.is,🇮🇸,354,Europe
 Israel,Israel,Israel,IL,ISR,376,Israeli,Israeli,FALSE,.il,🇮🇱,972,Asia
 Italy,Italy,Italy,IT,ITA,380,Italian,Italian,FALSE,.it,🇮🇹,39,Europe
 Jamaica,Jamaica,Jamaica,JM,JAM,388,Jamaican,Jamaican,FALSE,.jm,🇯🇲,1-876,North America
-Japan,Japan,Japan,JP,JPN,392,Japanese,Japanese,FALSE,.jp,🇯🇵,81,Asia
 Jersey,Jersey,Jersey,JE,JEY,832,Jerseyman,Jerseywoman,TRUE,.je,🇯🇪,44,Europe
 Jordan,Jordan,Jordan,JO,JOR,400,Jordanian,Jordanian,FALSE,.jo,🇯🇴,962,Asia
+Japan,Japan,Japan,JP,JPN,392,Japanese,Japanese,FALSE,.jp,🇯🇵,81,Asia
 Kazakhstan,Kazakhstan,Kazakhstan,KZ,KAZ,398,Kazakhstani,Kazakhstani,FALSE,.kz,🇰🇿,7,Asia
 Kenya,Kenya,Kenya,KE,KEN,404,Kenyan,Kenyan,FALSE,.ke,🇰🇪,254,Africa
+Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KG,KGZ,417,Kirghiz,Kirghiz,FALSE,.kg,🇰🇬,996,Asia
+Cambodia,Cambodia,Cambodia,KH,KHM,116,Cambodian,Cambodian,FALSE,.kh,🇰🇭,855,Asia
 Kiribati,Kiribati,Kiribati,KI,KIR,296,I-Kiribati,I-Kiribati,FALSE,.ki,🇰🇮,686,Oceania
-North Korea,"Korea, Democratic People's Republic of",Democratic People's Republic of Korea,KP,PRK,408,North Korean,North Korean,FALSE,.kp,🇰🇵,850,Asia
+Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,659,Kittitian or Nevisian,Kittitian or Nevisian,FALSE,.kn,🇰🇳,1-869,North America
 South Korea,"Korea, Republic of",Republic of Korea,KR,KOR,410,South Korean,South Korean,FALSE,.kr,🇰🇷,82,Asia
 Kuwait,Kuwait,Kuwait,KW,KWT,414,Kuwaiti,Kuwaiti,FALSE,.kw,🇰🇼,965,Asia
-Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,KG,KGZ,417,Kirghiz,Kirghiz,FALSE,.kg,🇰🇬,996,Asia
 Laos,Lao People's Democratic Republic,Lao People's Democratic Republic,LA,LAO,418,Laotian,Laotian,FALSE,.la,🇱🇦,856,Asia
-Latvia,Latvia,Latvia,LV,LVA,428,Latvian,Latvian,FALSE,.lv,🇱🇻,371,Europe
 Lebanon,Lebanon,Lebanon,LB,LBN,422,Lebanese,Lebanese,FALSE,.lb,🇱🇧,961,Asia
-Lesotho,Lesotho,Lesotho,LS,LSO,426,Mosotho,Mosotho,FALSE,.ls,🇱🇸,266,Africa
 Liberia,Liberia,Liberia,LR,LBR,430,Liberian,Liberian,FALSE,.lr,🇱🇷,231,Africa
 Libya,Libya,Libya,LY,LBY,434,Libyan,Libyan,FALSE,.ly,🇱🇾,218,Africa
+Saint Lucia,Saint Lucia,Saint Lucia,LC,LCA,662,Saint Lucian,Saint Lucian,FALSE,.lc,🇱🇨,1-758,North America
 Liechtenstein,Liechtenstein,Liechtenstein,LI,LIE,438,Liechtensteiner,Liechtensteiner,FALSE,.li,🇱🇮,423,Europe
+Sri Lanka,Sri Lanka,Sri Lanka,LK,LKA,144,Sri Lankan,Sri Lankan,FALSE,.lk,🇱🇰,94,Asia
+Lesotho,Lesotho,Lesotho,LS,LSO,426,Mosotho,Mosotho,FALSE,.ls,🇱🇸,266,Africa
 Lithuania,Lithuania,Lithuania,LT,LTU,440,Lithuanian,Lithuanian,FALSE,.lt,🇱🇹,370,Europe
 Luxembourg,Luxembourg,Luxembourg,LU,LUX,442,Luxembourger,Luxembourger,FALSE,.lu,🇱🇺,352,Europe
+Latvia,Latvia,Latvia,LV,LVA,428,Latvian,Latvian,FALSE,.lv,🇱🇻,371,Europe
 Macao,Macao,Macao,MO,MAC,446,Macanese,Macanese,FALSE,.mo,🇲🇴,853,Asia
+Saint Martin (French part),Saint Martin (French part),Saint Martin (French part),MF,MAF,663,Saint-Martinois,Saint-Martinoise,TRUE,.mf,🇲🇫,590,North America
+Morocco,Morocco,Morocco,MA,MAR,504,Moroccan,Moroccan,FALSE,.ma,🇲🇦,212,Africa
+Monaco,Monaco,Monaco,MC,MCO,492,Monegasque,Monegasque,FALSE,.mc,🇲🇨,377,Europe
+Moldova,"Moldova, Republic of",Republic of Moldova,MD,MDA,498,Moldovan,Moldovan,FALSE,.md,🇲🇩,373,Europe
 Madagascar,Madagascar,Madagascar,MG,MDG,450,Malagasy,Malagasy,FALSE,.mg,🇲🇬,261,Africa
-Malawi,Malawi,Malawi,MW,MWI,454,Malawian,Malawian,FALSE,.mw,🇲🇼,265,Africa
-Malaysia,Malaysia,Malaysia,MY,MYS,458,Malaysian,Malaysian,FALSE,.my,🇲🇾,60,Asia
 Maldives,Maldives,Maldives,MV,MDV,462,Maldivan,Maldivan,FALSE,.mv,🇲🇻,960,Asia
+Mexico,Mexico,Mexico,MX,MEX,484,Mexican,Mexican,FALSE,.mx,🇲🇽,52,North America
+Marshall Islands,Marshall Islands,Marshall Islands,MH,MHL,584,Marshallese,Marshallese,FALSE,.mh,🇲🇭,692,Oceania
+North Macedonia,North Macedonia,North Macedonia,MK,MKD,807,Macedonian,Macedonian,FALSE,.mk,🇲🇰,389,Europe
 Mali,Mali,Mali,ML,MLI,466,Malian,Malian,FALSE,.ml,🇲🇱,223,Africa
 Malta,Malta,Malta,MT,MLT,470,Maltese,Maltese,FALSE,.mt,🇲🇹,356,Europe
-Marshall Islands,Marshall Islands,Marshall Islands,MH,MHL,584,Marshallese,Marshallese,FALSE,.mh,🇲🇭,692,Oceania
-Martinique,Martinique,Martinique,MQ,MTQ,474,Martiniquais,Martiniquaise,TRUE,.mq,🇲🇶,596,North America
-Mauritania,Mauritania,Mauritania,MR,MRT,478,Mauritanian,Mauritanian,FALSE,.mr,🇲🇷,222,Africa
-Mauritius,Mauritius,Mauritius,MU,MUS,480,Mauritian,Mauritian,FALSE,.mu,🇲🇺,230,Africa
-Mayotte,Mayotte,Mayotte,YT,MYT,175,Mahoran,Mahoran,FALSE,.yt,🇾🇹,262,Africa
-Mexico,Mexico,Mexico,MX,MEX,484,Mexican,Mexican,FALSE,.mx,🇲🇽,52,North America
-Micronesia,"Micronesia, Federated States of",Federated States of Micronesia,FM,FSM,583,Micronesian,Micronesian,FALSE,.fm,🇫🇲,691,Oceania
-Moldova,"Moldova, Republic of",Republic of Moldova,MD,MDA,498,Moldovan,Moldovan,FALSE,.md,🇲🇩,373,Europe
-Monaco,Monaco,Monaco,MC,MCO,492,Monegasque,Monegasque,FALSE,.mc,🇲🇨,377,Europe
-Mongolia,Mongolia,Mongolia,MN,MNG,496,Mongolian,Mongolian,FALSE,.mn,🇲🇳,976,Asia
-Montenegro,Montenegro,Montenegro,ME,MNE,499,Montenegrin,Montenegrin,FALSE,.me,🇲🇪,382,Europe
-Montserrat,Montserrat,Montserrat,MS,MSR,500,Montserratian,Montserratian,FALSE,.ms,🇲🇸,1-664,North America
-Morocco,Morocco,Morocco,MA,MAR,504,Moroccan,Moroccan,FALSE,.ma,🇲🇦,212,Africa
-Mozambique,Mozambique,Mozambique,MZ,MOZ,508,Mozambican,Mozambican,FALSE,.mz,🇲🇿,258,Africa
 Myanmar,Myanmar,Myanmar,MM,MMR,104,Burmese,Burmese,FALSE,.mm,🇲🇲,95,Asia
-Namibia,Namibia,Namibia,NA,NAM,516,Namibian,Namibian,FALSE,.na,🇳🇦,264,Africa
-Nauru,Nauru,Nauru,NR,NRU,520,Nauruan,Nauruan,FALSE,.nr,🇳🇷,674,Oceania
-Nepal,Nepal,Nepal,NP,NPL,524,Nepalese,Nepalese,FALSE,.np,🇳🇵,977,Asia
-Netherlands,"Netherlands, Kingdom of the",Kingdom of the Netherlands,NL,NLD,528,Dutch,Dutch,FALSE,.nl,🇳🇱,31,Europe
-New Caledonia,New Caledonia,New Caledonia,NC,NCL,540,New Caledonian,New Caledonian,FALSE,.nc,🇳🇨,687,Oceania
-New Zealand,New Zealand,New Zealand,NZ,NZL,554,New Zealander,New Zealander,FALSE,.nz,🇳🇿,64,Oceania
-Nicaragua,Nicaragua,Nicaragua,NI,NIC,558,Nicaraguan,Nicaraguan,FALSE,.ni,🇳🇮,505,North America
-Niger,Niger,Niger,NE,NER,562,Nigerien,Nigerien,FALSE,.ne,🇳🇪,227,Africa
-Nigeria,Nigeria,Nigeria,NG,NGA,566,Nigerian,Nigerian,FALSE,.ng,🇳🇬,234,Africa
-Niue,Niue,Niue,NU,NIU,570,Niuean,Niuean,FALSE,.nu,🇳🇺,683,Oceania
-Norfolk Island,Norfolk Island,Norfolk Island,NF,NFK,574,Norfolk Islander,Norfolk Islander,FALSE,.nf,🇳🇫,672,Oceania
-North Macedonia,North Macedonia,North Macedonia,MK,MKD,807,Macedonian,Macedonian,FALSE,.mk,🇲🇰,389,Europe
+Montenegro,Montenegro,Montenegro,ME,MNE,499,Montenegrin,Montenegrin,FALSE,.me,🇲🇪,382,Europe
+Mongolia,Mongolia,Mongolia,MN,MNG,496,Mongolian,Mongolian,FALSE,.mn,🇲🇳,976,Asia
 Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,MP,MNP,580,Northern Marianan,Northern Marianan,FALSE,.mp,🇲🇵,1-670,Oceania
+Mozambique,Mozambique,Mozambique,MZ,MOZ,508,Mozambican,Mozambican,FALSE,.mz,🇲🇿,258,Africa
+Mauritania,Mauritania,Mauritania,MR,MRT,478,Mauritanian,Mauritanian,FALSE,.mr,🇲🇷,222,Africa
+Montserrat,Montserrat,Montserrat,MS,MSR,500,Montserratian,Montserratian,FALSE,.ms,🇲🇸,1-664,North America
+Martinique,Martinique,Martinique,MQ,MTQ,474,Martiniquais,Martiniquaise,TRUE,.mq,🇲🇶,596,North America
+Mauritius,Mauritius,Mauritius,MU,MUS,480,Mauritian,Mauritian,FALSE,.mu,🇲🇺,230,Africa
+Malawi,Malawi,Malawi,MW,MWI,454,Malawian,Malawian,FALSE,.mw,🇲🇼,265,Africa
+Malaysia,Malaysia,Malaysia,MY,MYS,458,Malaysian,Malaysian,FALSE,.my,🇲🇾,60,Asia
+Mayotte,Mayotte,Mayotte,YT,MYT,175,Mahoran,Mahoran,FALSE,.yt,🇾🇹,262,Africa
+Namibia,Namibia,Namibia,NA,NAM,516,Namibian,Namibian,FALSE,.na,🇳🇦,264,Africa
+New Caledonia,New Caledonia,New Caledonia,NC,NCL,540,New Caledonian,New Caledonian,FALSE,.nc,🇳🇨,687,Oceania
+Niger,Niger,Niger,NE,NER,562,Nigerien,Nigerien,FALSE,.ne,🇳🇪,227,Africa
+Norfolk Island,Norfolk Island,Norfolk Island,NF,NFK,574,Norfolk Islander,Norfolk Islander,FALSE,.nf,🇳🇫,672,Oceania
+Nigeria,Nigeria,Nigeria,NG,NGA,566,Nigerian,Nigerian,FALSE,.ng,🇳🇬,234,Africa
+Nicaragua,Nicaragua,Nicaragua,NI,NIC,558,Nicaraguan,Nicaraguan,FALSE,.ni,🇳🇮,505,North America
+Niue,Niue,Niue,NU,NIU,570,Niuean,Niuean,FALSE,.nu,🇳🇺,683,Oceania
+Netherlands,"Netherlands, Kingdom of the",Kingdom of the Netherlands,NL,NLD,528,Dutch,Dutch,FALSE,.nl,🇳🇱,31,Europe
 Norway,Norway,Norway,NO,NOR,578,Norwegian,Norwegian,FALSE,.no,🇳🇴,47,Europe
+Nepal,Nepal,Nepal,NP,NPL,524,Nepalese,Nepalese,FALSE,.np,🇳🇵,977,Asia
+Nauru,Nauru,Nauru,NR,NRU,520,Nauruan,Nauruan,FALSE,.nr,🇳🇷,674,Oceania
+New Zealand,New Zealand,New Zealand,NZ,NZL,554,New Zealander,New Zealander,FALSE,.nz,🇳🇿,64,Oceania
 Oman,Oman,Oman,OM,OMN,512,Omani,Omani,FALSE,.om,🇴🇲,968,Asia
 Pakistan,Pakistan,Pakistan,PK,PAK,586,Pakistani,Pakistani,FALSE,.pk,🇵🇰,92,Asia
-Palau,Palau,Palau,PW,PLW,585,Palauan,Palauan,FALSE,.pw,🇵🇼,680,Oceania
-Palestine,"Palestine, State of",State of Palestine,PS,PSE,275,Palestinian,Palestinian,FALSE,.ps,🇵🇸,"970,972",Asia
 Panama,Panama,Panama,PA,PAN,591,Panamanian,Panamanian,FALSE,.pa,🇵🇦,507,North America
-Papua New Guinea,Papua New Guinea,Papua New Guinea,PG,PNG,598,Papua New Guinean,Papua New Guinean,FALSE,.pg,🇵🇬,675,Oceania
-Paraguay,Paraguay,Paraguay,PY,PRY,600,Paraguayan,Paraguayan,FALSE,.py,🇵🇾,595,South America
+Pitcairn,Pitcairn,Pitcairn,PN,PCN,612,Pitcairn Islander,Pitcairn Islander,FALSE,.pn,🇵🇳,870,Oceania
 Peru,Peru,Peru,PE,PER,604,Peruvian,Peruvian,FALSE,.pe,🇵🇪,51,South America
 Philippines,Philippines,Philippines,PH,PHL,608,Filipino,Filipino,FALSE,.ph,🇵🇭,63,Asia
-Pitcairn,Pitcairn,Pitcairn,PN,PCN,612,Pitcairn Islander,Pitcairn Islander,FALSE,.pn,🇵🇳,870,Oceania
+Palau,Palau,Palau,PW,PLW,585,Palauan,Palauan,FALSE,.pw,🇵🇼,680,Oceania
+Papua New Guinea,Papua New Guinea,Papua New Guinea,PG,PNG,598,Papua New Guinean,Papua New Guinean,FALSE,.pg,🇵🇬,675,Oceania
 Poland,Poland,Poland,PL,POL,616,Polish,Polish,FALSE,.pl,🇵🇱,48,Europe
-Portugal,Portugal,Portugal,PT,PRT,620,Portuguese,Portuguese,FALSE,.pt,🇵🇹,351,Europe
 Puerto Rico,Puerto Rico,Puerto Rico,PR,PRI,630,Puerto Rican,Puerto Rican,FALSE,.pr,🇵🇷,"1-787,1-939",North America
+North Korea,"Korea, Democratic People's Republic of",Democratic People's Republic of Korea,KP,PRK,408,North Korean,North Korean,FALSE,.kp,🇰🇵,850,Asia
+Portugal,Portugal,Portugal,PT,PRT,620,Portuguese,Portuguese,FALSE,.pt,🇵🇹,351,Europe
+Paraguay,Paraguay,Paraguay,PY,PRY,600,Paraguayan,Paraguayan,FALSE,.py,🇵🇾,595,South America
+Palestine,"Palestine, State of",State of Palestine,PS,PSE,275,Palestinian,Palestinian,FALSE,.ps,🇵🇸,"970,972",Asia
+French Polynesia,French Polynesia,French Polynesia,PF,PYF,258,French Polynesian,French Polynesian,FALSE,.pf,🇵🇫,689,Oceania
 Qatar,Qatar,Qatar,QA,QAT,634,Qatari,Qatari,FALSE,.qa,🇶🇦,974,Asia
 Réunion,Réunion,Réunion,RE,REU,638,Réunionnais,Réunionnaise,TRUE,.re,🇷🇪,262,Africa
 Romania,Romania,Romania,RO,ROU,642,Romanian,Romanian,FALSE,.ro,🇷🇴,40,Europe
 Russian Federation,Russian Federation,Russian Federation,RU,RUS,643,Russian,Russian,FALSE,.ru,🇷🇺,7,Europe
 Rwanda,Rwanda,Rwanda,RW,RWA,646,Rwandan,Rwandan,FALSE,.rw,🇷🇼,250,Africa
-Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,BL,BLM,652,Saint-Barthélemois,Saint-Barthélemoise,TRUE,.bl,🇧🇱,590,North America
-"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,Saint Helenian,Saint Helenian,FALSE,.sh,🇸🇭,290,Africa
-Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,659,Kittitian or Nevisian,Kittitian or Nevisian,FALSE,.kn,🇰🇳,1-869,North America
-Saint Lucia,Saint Lucia,Saint Lucia,LC,LCA,662,Saint Lucian,Saint Lucian,FALSE,.lc,🇱🇨,1-758,North America
-Saint Martin (French part),Saint Martin (French part),Saint Martin (French part),MF,MAF,663,Saint-Martinois,Saint-Martinoise,TRUE,.mf,🇲🇫,590,North America
-Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,666,Saint-Pierrais,Saint-Pierraise,TRUE,.pm,🇵🇲,508,North America
-Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,670,Saint Vincentian,Saint Vincentian,FALSE,.vc,🇻🇨,1-784,North America
-Samoa,Samoa,Samoa,WS,WSM,882,Samoan,Samoan,FALSE,.ws,🇼🇸,685,Oceania
-San Marino,San Marino,San Marino,SM,SMR,674,Sammarinese,Sammarinese,FALSE,.sm,🇸🇲,378,Europe
-Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,ST,STP,678,Sao Tomean,Sao Tomean,FALSE,.st,🇸🇹,239,Africa
 Saudi Arabia,Saudi Arabia,Saudi Arabia,SA,SAU,682,Saudi Arabian,Saudi Arabian,FALSE,.sa,🇸🇦,966,Asia
+Sudan,Sudan,Sudan,SD,SDN,729,Sudanese,Sudanese,FALSE,.sd,🇸🇩,249,Africa
 Senegal,Senegal,Senegal,SN,SEN,686,Senegalese,Senegalese,FALSE,.sn,🇸🇳,221,Africa
-Serbia,Serbia,Serbia,RS,SRB,688,Serbian,Serbian,FALSE,.rs,🇷🇸,381,Europe
-Seychelles,Seychelles,Seychelles,SC,SYC,690,Seychellois,Seychellois,FALSE,.sc,🇸🇨,248,Africa
-Sierra Leone,Sierra Leone,Sierra Leone,SL,SLE,694,Sierra Leonean,Sierra Leonean,FALSE,.sl,🇸🇱,232,Africa
 Singapore,Singapore,Singapore,SG,SGP,702,Singaporean,Singaporean,FALSE,.sg,🇸🇬,65,Asia
-Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,SXM,534,Sint Maartener,Sint Maartener,FALSE,.sx,🇸🇽,1-721,North America
+South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgian,South Georgian,FALSE,.gs,🇬🇸,500,Antarctica
+"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,SHN,654,Saint Helenian,Saint Helenian,FALSE,.sh,🇸🇭,290,Africa
+Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJ,SJM,744,Svalbardian,Svalbardian,FALSE,.sj,🇸🇯,47,Antarctica
+Solomon Islands,Solomon Islands,Solomon Islands,SB,SLB,90,Solomon Islander,Solomon Islander,FALSE,.sb,🇸🇧,677,Oceania
+Sierra Leone,Sierra Leone,Sierra Leone,SL,SLE,694,Sierra Leonean,Sierra Leonean,FALSE,.sl,🇸🇱,232,Africa
+El Salvador,El Salvador,El Salvador,SV,SLV,222,Salvadoran,Salvadoran,FALSE,.sv,🇸🇻,503,North America
+San Marino,San Marino,San Marino,SM,SMR,674,Sammarinese,Sammarinese,FALSE,.sm,🇸🇲,378,Europe
+Somalia,Somalia,Somalia,SO,SOM,706,Somali,Somali,FALSE,.so,🇸🇴,252,Africa
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,666,Saint-Pierrais,Saint-Pierraise,TRUE,.pm,🇵🇲,508,North America
+Serbia,Serbia,Serbia,RS,SRB,688,Serbian,Serbian,FALSE,.rs,🇷🇸,381,Europe
+South Sudan,South Sudan,South Sudan,SS,SSD,728,South Sudanese,South Sudanese,FALSE,.ss,🇸🇸,211,Africa
+Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,ST,STP,678,Sao Tomean,Sao Tomean,FALSE,.st,🇸🇹,239,Africa
+Suriname,Suriname,Suriname,SR,SUR,740,Surinamer,Surinamer,FALSE,.sr,🇸🇷,597,South America
 Slovakia,Slovakia,Slovakia,SK,SVK,703,Slovak,Slovak,FALSE,.sk,🇸🇰,421,Europe
 Slovenia,Slovenia,Slovenia,SI,SVN,705,Slovene,Slovene,FALSE,.si,🇸🇮,386,Europe
-Solomon Islands,Solomon Islands,Solomon Islands,SB,SLB,90,Solomon Islander,Solomon Islander,FALSE,.sb,🇸🇧,677,Oceania
-Somalia,Somalia,Somalia,SO,SOM,706,Somali,Somali,FALSE,.so,🇸🇴,252,Africa
-South Africa,South Africa,South Africa,ZA,ZAF,710,South African,South African,FALSE,.za,🇿🇦,27,Africa
-South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,GS,SGS,239,South Georgian,South Georgian,FALSE,.gs,🇬🇸,500,Antarctica
-South Sudan,South Sudan,South Sudan,SS,SSD,728,South Sudanese,South Sudanese,FALSE,.ss,🇸🇸,211,Africa
-Spain,Spain,Spain,ES,ESP,724,Spanish,Spanish,FALSE,.es,🇪🇸,34,Europe
-Sri Lanka,Sri Lanka,Sri Lanka,LK,LKA,144,Sri Lankan,Sri Lankan,FALSE,.lk,🇱🇰,94,Asia
-Sudan,Sudan,Sudan,SD,SDN,729,Sudanese,Sudanese,FALSE,.sd,🇸🇩,249,Africa
-Suriname,Suriname,Suriname,SR,SUR,740,Surinamer,Surinamer,FALSE,.sr,🇸🇷,597,South America
-Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen,SJ,SJM,744,Svalbardian,Svalbardian,FALSE,.sj,🇸🇯,47,Antarctica
 Sweden,Sweden,Sweden,SE,SWE,752,Swedish,Swedish,FALSE,.se,🇸🇪,46,Europe
-Switzerland,Switzerland,Switzerland,CH,CHE,756,Swiss,Swiss,FALSE,.ch,🇨🇭,41,Europe
+Eswatini,Eswatini,Eswatini,SZ,SWZ,748,Swazi,Swazi,FALSE,.sz,🇸🇿,268,Africa
+Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,SXM,534,Sint Maartener,Sint Maartener,FALSE,.sx,🇸🇽,1-721,North America
+Seychelles,Seychelles,Seychelles,SC,SYC,690,Seychellois,Seychellois,FALSE,.sc,🇸🇨,248,Africa
 Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,SY,SYR,760,Syrian,Syrian,FALSE,.sy,🇸🇾,963,Asia
-Taiwan,"Taiwan, Province of China","Taiwan, Province of China",TW,TWN,158,Taiwanese,Taiwanese,FALSE,.tw,🇹🇼,886,Asia
-Tajikistan,Tajikistan,Tajikistan,TJ,TJK,762,Tadzhik,Tadzhik,FALSE,.tj,🇹🇯,992,Asia
-Tanzania,"Tanzania, United Republic of",United Republic of Tanzania,TZ,TZA,834,Tanzanian,Tanzanian,FALSE,.tz,🇹🇿,255,Africa
-Thailand,Thailand,Thailand,TH,THA,764,Thai,Thai,FALSE,.th,🇹🇭,66,Asia
-Timor-Leste,Timor-Leste,Timor-Leste,TL,TLS,626,East Timorese,East Timorese,FALSE,.tl,🇹🇱,670,Asia
+Turks and Caicos,Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,796,Turks and Caicos Islander,Turks and Caicos Islander,FALSE,.tc,🇹🇨,1-649,North America
+Chad,Chad,Chad,TD,TCD,148,Chadian,Chadian,FALSE,.td,🇹🇩,235,Africa
 Togo,Togo,Togo,TG,TGO,768,Togolese,Togolese,FALSE,.tg,🇹🇬,228,Africa
+Thailand,Thailand,Thailand,TH,THA,764,Thai,Thai,FALSE,.th,🇹🇭,66,Asia
+Tajikistan,Tajikistan,Tajikistan,TJ,TJK,762,Tadzhik,Tadzhik,FALSE,.tj,🇹🇯,992,Asia
 Tokelau,Tokelau,Tokelau,TK,TKL,772,Tokelauan,Tokelauan,FALSE,.tk,🇹🇰,690,Oceania
+Turkmenistan,Turkmenistan,Turkmenistan,TM,TKM,795,Turkmen,Turkmen,FALSE,.tm,🇹🇲,993,Asia
+Timor-Leste,Timor-Leste,Timor-Leste,TL,TLS,626,East Timorese,East Timorese,FALSE,.tl,🇹🇱,670,Asia
 Tonga,Tonga,Tonga,TO,TON,776,Tongan,Tongan,FALSE,.to,🇹🇴,676,Oceania
 Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,780,Trinidadian,Trinidadian,FALSE,.tt,🇹🇹,1-868,North America
 Tunisia,Tunisia,Tunisia,TN,TUN,788,Tunisian,Tunisian,FALSE,.tn,🇹🇳,216,Africa
 Türkiye,Türkiye,Türkiye,TR,TUR,792,Turkish,Turkish,FALSE,.tr,🇹🇷,90,Asia
-Turkmenistan,Turkmenistan,Turkmenistan,TM,TKM,795,Turkmen,Turkmen,FALSE,.tm,🇹🇲,993,Asia
-Turks and Caicos,Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,796,Turks and Caicos Islander,Turks and Caicos Islander,FALSE,.tc,🇹🇨,1-649,North America
 Tuvalu,Tuvalu,Tuvalu,TV,TUV,798,Tuvaluan,Tuvaluan,FALSE,.tv,🇹🇻,688,Oceania
+Taiwan,"Taiwan, Province of China","Taiwan, Province of China",TW,TWN,158,Taiwanese,Taiwanese,FALSE,.tw,🇹🇼,886,Asia
+Tanzania,"Tanzania, United Republic of",United Republic of Tanzania,TZ,TZA,834,Tanzanian,Tanzanian,FALSE,.tz,🇹🇿,255,Africa
 Uganda,Uganda,Uganda,UG,UGA,800,Ugandan,Ugandan,FALSE,.ug,🇺🇬,256,Africa
 Ukraine,Ukraine,Ukraine,UA,UKR,804,Ukrainian,Ukrainian,FALSE,.ua,🇺🇦,380,Europe
-United Arab Emirates,United Arab Emirates,United Arab Emirates,AE,ARE,784,Emirati,Emirati,FALSE,.ae,🇦🇪,971,Asia
-Uninted Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826,British,British,FALSE,.gb,🇬🇧,44,Europe
-United States of America,United States of America,United States of America,US,USA,840,American,American,FALSE,.us,🇺🇸,1,North America
-United States Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,581,United States Minor Outlying Islander,United States Minor Outlying Islander,FALSE,.um,🇺🇲,1,Oceania
+US Territories,United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,581,United States Minor Outlying Islander,United States Minor Outlying Islander,FALSE,.um,🇺🇲,1,Oceania
 Uruguay,Uruguay,Uruguay,UY,URY,858,Uruguayan,Uruguayan,FALSE,.uy,🇺🇾,598,South America
+United States,United States of America,United States of America,US,USA,840,American,American,FALSE,.us,🇺🇸,1,North America
 Uzbekistan,Uzbekistan,Uzbekistan,UZ,UZB,860,Uzbekistani,Uzbekistani,FALSE,.uz,🇺🇿,998,Asia
-Vanuatu,Vanuatu,Vanuatu,VU,VUT,548,Ni-Vanuatu,Ni-Vanuatu,FALSE,.vu,🇻🇺,678,Oceania
+Vatican City,Holy See,Holy See,VA,VAT,336,Vatican,Vatican,FALSE,.va,🇻🇦,39,Europe
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,670,Saint Vincentian,Saint Vincentian,FALSE,.vc,🇻🇨,1-784,North America
 Venezuela,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,VE,VEN,862,Venezuelan,Venezuelan,FALSE,.ve,🇻🇪,58,South America
-Viet Nam,Viet Nam,Viet Nam,VN,VNM,704,Vietnamese,Vietnamese,FALSE,.vn,🇻🇳,84,Asia
 British Virgin Islands,Virgin Islands (British),Virgin Islands (British),VG,VGB,92,British Virgin Islander,British Virgin Islander,FALSE,.vg,🇻🇬,284,North America
 U.S. Virgin Islands,Virgin Islands (U.S.),Virgin Islands (U.S.),VI,VIR,850,U.S. Virgin Islander,U.S. Virgin Islander,FALSE,.vi,🇻🇮,1-340,North America
+Viet Nam,Viet Nam,Viet Nam,VN,VNM,704,Vietnamese,Vietnamese,FALSE,.vn,🇻🇳,84,Asia
+Vanuatu,Vanuatu,Vanuatu,VU,VUT,548,Ni-Vanuatu,Ni-Vanuatu,FALSE,.vu,🇻🇺,678,Oceania
 Wallis and Futuna,Wallis and Futuna,Wallis and Futuna,WF,WLF,876,Wallisian / Futunan,Wallisian / Futunan,FALSE,.wf,🇼🇫,681,Oceania
-Western Sahara,Western Sahara,Western Sahara,EH,ESH,732,Sahrawi,Sahrawi,FALSE,.eh,🇪🇭,FALSE,Africa
+Samoa,Samoa,Samoa,WS,WSM,882,Samoan,Samoan,FALSE,.ws,🇼🇸,685,Oceania
 Yemen,Yemen,Yemen,YE,YEM,887,Yemeni,Yemeni,FALSE,.ye,🇾🇪,967,Asia
+South Africa,South Africa,South Africa,ZA,ZAF,710,South African,South African,FALSE,.za,🇿🇦,27,Africa
 Zambia,Zambia,Zambia,ZM,ZMB,894,Zambian,Zambian,FALSE,.zm,🇿🇲,260,Africa
 Zimbabwe,Zimbabwe,Zimbabwe,ZW,ZWE,716,Zimbabwean,Zimbabwean,FALSE,.zw,🇿🇼,263,Africa

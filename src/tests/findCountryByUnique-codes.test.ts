@@ -1,7 +1,7 @@
 import { map } from "lodash";
 
-import { findCountryByUnique } from "./findCountryByUnqiue";
-import AllCountriesData from "../data/complete.json";
+import { findCountryByUnique } from "../findCountryByUnqiue";
+import AllCountriesData from "../../data/complete.json";
 
 /*
   A mass validation test to ensure that if you extract all country codes you can reverse map them to their relevant country names.
@@ -94,7 +94,7 @@ describe("Manually validate full country returns from ISO numbers", () => {
     const lookup = findCountryByUnique(840);
 
     expect(lookup).toMatchObject({
-      common_reference: "United States of America",
+      common_reference: "United States",
       english_clean: "United States of America",
       formal_order: "United States of America",
       alpha_2: "US",

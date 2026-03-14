@@ -34,12 +34,13 @@ The guaranteed unique fields are:
 * `formal_order`: The naturally spoken order of a country's formal name from the ISO 3166 standard. For instance, the `english_clean` for the Netherlands is `Netherlands, Kingdom of the`, while the `formal_order` is `Kingdom of the Netherlands` — the way the country would be referenced in formal international or political conversation.
 * `common_reference`: Maps country names to how they would be referred to in normal casual conversation. So `Kingdom of the Netherlands` is just `Netherlands`. The `Holy See` is `Vatican City`. You can probably use common sense to arrive at most of these.
 * `flag_emoji`: The Unicode standard dictates that all ISO 3166 countries shall have an emoji flag. As such you can search the emoji of a flag as input and retrieve all data for that country.
+* `tld (top-level domain)` - Searches for the countries top-level domain match.
 
 The returned country structure will match the `AllCountryFields` type and look like this...
 
 ```
 {
-      common_reference: "United States of America",
+      common_reference: "United States",
       english_clean: "United States of America",
       formal_order: "United States of America",
       alpha_2: "US",
@@ -65,7 +66,7 @@ A common example of this is calling codes. Most of North America uses the `+1` c
 
 ```
 {
-        "common_reference": "United States of America",
+        "common_reference": "United States",
         "english_clean": "United States of America",
         "formal_order": "United States of America",
         "alpha_2": "US",
@@ -82,7 +83,7 @@ A common example of this is calling codes. Most of North America uses the `+1` c
         "continent": "North America"
     },
 {
-        "common_reference": "United States Minor Outlying Islands",
+        "common_reference": "US Territories",
         "english_clean": "United States Minor Outlying Islands",
         "formal_order": "United States Minor Outlying Islands",
         "alpha_2": "UM",
@@ -144,6 +145,82 @@ This function still supports singular lookup. Entering something like `findAllMa
 
 Entering a text value into this function that yields no results will return an empty (`[]`) array.
 
+### Get Countries Contact Fields:
+It is common for applications to want to get the contact fields such as calling code blocks for the country, the flag of the country for visual identification, or top-level domains.
+
+In order to keep a smaller object available to work with and for tree-shaking consumer facing apps you can call `getContactFieldsByAlpha2(alpha2: string): ContactCountryFields | null` in order to get a response object of only the countries contact fields.
+
+```
+{
+   "tld": ".gn",
+   "flag_emoji": "🇬🇳",
+   "calling_code": [
+      "224"
+   ]
+}
+```
+
+If the input does not match a valid ISO Alpha 2 value function returns `null`. The inputs ARE NOT keyed and open ended. Since this kind of data lookup is often times done based on open ended user input it is easier to simply check any string coming in and handle it vs making applications have to typecheck the input lookup.
+
+### Get All Countries For Continent:
+In cases where you need to make a location selection you may want to query all countries located on a continent.
+
+You can use `getCountriesByContinent(searchContinent: ContinentNames): ContinentTrimmedFields[]` function. This function requires a specifically matched enum input of continent names. It can be imported via `ContinentNames`.
+
+This function returns a trimmed down set of country data for each country on the continent. You'll receive all the guaranteed unique identifier and display fields, with globally standardized contact data trimmed away. For example the response for Antarctica would look like this...
+
+```
+[
+        {
+            "english_clean": "Antarctica",
+            "formal_order": "Antarctica",
+            "alpha_2": "AQ",
+            "alpha_3": "ATA",
+            "num_code": 10,
+            "tld": ".aq",
+            "flag_emoji": "🇦🇶"
+        },
+        {
+            "english_clean": "Bouvet Island",
+            "formal_order": "Bouvet Island",
+            "alpha_2": "BV",
+            "alpha_3": "BVT",
+            "num_code": 74,
+            "tld": ".bv",
+            "flag_emoji": "🇧🇻"
+        },
+        {
+            "english_clean": "Heard Island and McDonald Islands",
+            "formal_order": "Heard Island and McDonald Islands",
+            "alpha_2": "HM",
+            "alpha_3": "HMD",
+            "num_code": 334,
+            "tld": ".hm",
+            "flag_emoji": "🇭🇲"
+        },
+        {
+            "english_clean": "South Georgia and the South Sandwich Islands",
+            "formal_order": "South Georgia and the South Sandwich Islands",
+            "alpha_2": "GS",
+            "alpha_3": "SGS",
+            "num_code": 239,
+            "tld": ".gs",
+            "flag_emoji": "🇬🇸"
+        },
+        {
+            "english_clean": "Svalbard and Jan Mayen",
+            "formal_order": "Svalbard and Jan Mayen",
+            "alpha_2": "SJ",
+            "alpha_3": "SJM",
+            "num_code": 744,
+            "tld": ".sj",
+            "flag_emoji": "🇸🇯"
+        }
+    ]
+```
+
+If you need absolutely all information about every country on a continent use the `findAllMatchedCountries()` function with a continent entered.
+
 ## To-Do List:
 This package was started as part of language classification and news analytics projects I'm working on in my personal time.
 
@@ -151,7 +228,7 @@ I've enjoyed building it out but wanted to publish something for starters so I d
 
 Over the next few weeks (hopefully) I plan to build out the following...
 
-* tld search support should be added to unique lookups since these are unique values.
+* ~~tld search support should be added to unique lookups since these are unique values.~~
 * Optimize the search order of data when performing lookups.
 * Clean up some of the `common_reference` values. A lot of these are executive decisions I quickly made and could be better researched or refined.
 * Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.

@@ -19,7 +19,28 @@ export type ContactCountryFields = Pick<
   "tld" | "flag_emoji" | "calling_code"
 >;
 
-export type UniqueCountryFields = Pick<
+export enum ContinentNames {
+  NorthAmerica = "north_america",
+  Asia = "asia",
+  Africa = "africa",
+  Europe = "europe",
+  SouthAmerica = "south_america",
+  Oceania = "oceania",
+  Antarctica = "antarctica",
+}
+
+export type ContinentTrimmedFields = Pick<
   AllCountryFields,
-  "english_clean" | "formal_order" | "alpha_2" | "alpha_3" | "num_code"
+  | "english_clean"
+  | "formal_order"
+  | "alpha_2"
+  | "alpha_3"
+  | "num_code"
+  | "tld"
+  | "flag_emoji"
+>;
+
+export type CountriesByContinent = Record<
+  ContinentNames,
+  ContinentTrimmedFields[]
 >;

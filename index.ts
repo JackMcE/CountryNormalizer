@@ -3,7 +3,25 @@ import {
   findAllMatchedCountries,
 } from "./src/findCountryByUnqiue";
 
-import type { AllCountryFields } from "./types/core";
+import { getContactFieldsByAlpha2 } from "./src/getCountryContactData";
+import { getCountriesByContinent } from "./src/getCountriesByContinent";
 
-export { findCountryByUnique, findAllMatchedCountries };
-export type { AllCountryFields };
+import type {
+  AllCountryFields,
+  ContactCountryFields,
+  ContinentNames,
+  ContinentTrimmedFields,
+} from "./types/core";
+
+export {
+  findCountryByUnique,
+  findAllMatchedCountries,
+  getContactFieldsByAlpha2,
+  getCountriesByContinent,
+};
+export type {
+  AllCountryFields,
+  ContactCountryFields,
+  ContinentNames,
+  ContinentTrimmedFields,
+};

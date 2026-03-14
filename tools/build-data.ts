@@ -1,12 +1,12 @@
 import csv from "csvtojson";
 import fs from "fs/promises";
 import path from "path";
-import { pick } from "lodash";
+import { pick, mapValues, groupBy, snakeCase, mapKeys } from "lodash";
 
 import type {
   AllCountryFields,
   ContactCountryFields,
-  UniqueCountryFields,
+  CountriesByContinent,
 } from "../types/core";
 
 const BASE_DIR = import.meta.dir; // resolves to /tools/build-data/
@@ -117,32 +117,33 @@ const writeContactFieldsOnly = async (
   await fs.writeFile(outputPath, JSON.stringify(isoFlagMap, null, 4), "utf-8");
 };
 
-const writeGloballyUniqueFields = async (
+const writeCountriesGroupedByContinent = async (
   allData: AllCountryFields[],
 ): Promise<void> => {
-  const uniqueFieldsMap = allData.reduce(
-    (acc, country) => {
-      const pickedFields = pick(country, [
-        "english_clean",
-        "formal_order",
-        "alpha_2",
-        "alpha_3",
-        "num_code",
-      ]);
+  const pickFields = [
+    "english_clean",
+    "formal_order",
+    "alpha_2",
+    "alpha_3",
+    "num_code",
+    "tld",
+    "flag_emoji",
+  ];
 
-      acc[country.alpha_2] = pickedFields;
-
-      return acc;
-    },
-    {} as Record<string, UniqueCountryFields>,
+  const byContinent = mapValues(groupBy(allData, "continent"), (countries) =>
+    countries.map((c) => pick(c, pickFields)),
   );
 
-  const outputPath = path.join(BASE_OUTPUT_PATH, "globallyUniqueFields.json");
+  const remappedContinentNames = mapKeys(byContinent, (_, key) =>
+    snakeCase(key),
+  ) as CountriesByContinent;
+
+  const outputPath = path.join(BASE_OUTPUT_PATH, "countriesByContinent.json");
 
   await fs.mkdir(path.dirname(outputPath), { recursive: true });
   await fs.writeFile(
     outputPath,
-    JSON.stringify(uniqueFieldsMap, null, 4),
+    JSON.stringify(remappedContinentNames, null, 4),
     "utf-8",
   );
 };
@@ -154,7 +155,7 @@ const main = async (): Promise<void> => {
   console.log("WRITING ALL COUNTRY DATA FILES...");
   completeDataFile(allData);
   writeContactFieldsOnly(allData);
-  writeGloballyUniqueFields(allData);
+  writeCountriesGroupedByContinent(allData);
   console.log("Done! Wrote to directory:", BASE_OUTPUT_PATH);
 };
 
