@@ -275,7 +275,7 @@ Over the next few weeks (hopefully) I plan to build out the following...
 * ~~tld search support should be added to unique lookups since these are unique values.~~
 * Optimize the search order of data when performing lookups.
 * Clean up some of the `common_reference` values. A lot of these are executive decisions I quickly made and could be better researched or refined.
-* Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.
+* ~~Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.~~
 * Flesh out more complete unit testing. I have a few running right now checking ISO number values but all data values should be validated.
 * Add size optimized lookups for common operations. Currently the `complete.json` object used for country data is rather large and bloats this library. I want to make smaller, tree-shakable functions to handle only certain data queries on the fly.
 * Set up a small website to visualize all this data in an accessible table for using alongside this library. Right now a lot of it is just compiled in a haphazard Google Doc where I did my initial organizing before translating a CSV into a JSON file.
