@@ -156,7 +156,7 @@ const main = async (): Promise<void> => {
   completeDataFile(allData);
   writeContactFieldsOnly(allData);
   writeCountriesGroupedByContinent(allData);
-  console.log("Done! Wrote to directory:", BASE_OUTPUT_PATH);
+  console.log("Done! Wrote data to:", BASE_OUTPUT_PATH);
 };
 
 main();
