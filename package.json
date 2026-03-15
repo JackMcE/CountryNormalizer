@@ -1,6 +1,6 @@
 {
   "name": "countrynormalizer",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "ISO 3166 country data lookup and normalization. Convert between alpha-2, alpha-3, ISO numbers, country names, calling codes, flag emojis, TLDs, continents, and demonyms.",
   "type": "module",
   "main": "./dist/index.js",
@@ -51,7 +51,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JackMcE/CountryNormalizer.git"
+    "url": "git+https://github.com/JackMcE/CountryNormalizer.git"
   },
   "homepage": "https://github.com/JackMcE/CountryNormalizer#readme",
   "bugs": {
