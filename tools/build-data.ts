@@ -68,7 +68,7 @@ const getValidatedAndFormattedRaw = async (): Promise<AllCountryFields[]> => {
     }
 
     country.gendered_demonym =
-      country.gendered_demonym.toLowerCase() === "false";
+      country.gendered_demonym.toLowerCase() === "true";
 
     country.calling_code =
       country.calling_code === "FALSE" ? [] : country.calling_code.split(",");

@@ -8,7 +8,7 @@
         "num_code": 533,
         "demonym_male": "Aruban",
         "demonym_female": "Aruban",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".aw",
         "flag_emoji": "🇦🇼",
         "calling_code": [
@@ -25,7 +25,7 @@
         "num_code": 4,
         "demonym_male": "Afghan",
         "demonym_female": "Afghan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".af",
         "flag_emoji": "🇦🇫",
         "calling_code": [
@@ -42,7 +42,7 @@
         "num_code": 24,
         "demonym_male": "Angolan",
         "demonym_female": "Angolan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ao",
         "flag_emoji": "🇦🇴",
         "calling_code": [
@@ -59,7 +59,7 @@
         "num_code": 660,
         "demonym_male": "Anguillan",
         "demonym_female": "Anguillan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ai",
         "flag_emoji": "🇦🇮",
         "calling_code": [
@@ -76,7 +76,7 @@
         "num_code": 248,
         "demonym_male": "Ålander",
         "demonym_female": "Ålander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ax",
         "flag_emoji": "🇦🇽",
         "calling_code": [
@@ -93,7 +93,7 @@
         "num_code": 8,
         "demonym_male": "Albanian",
         "demonym_female": "Albanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".al",
         "flag_emoji": "🇦🇱",
         "calling_code": [
@@ -110,7 +110,7 @@
         "num_code": 20,
         "demonym_male": "Andorran",
         "demonym_female": "Andorran",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ad",
         "flag_emoji": "🇦🇩",
         "calling_code": [
@@ -127,7 +127,7 @@
         "num_code": 784,
         "demonym_male": "Emirati",
         "demonym_female": "Emirati",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ae",
         "flag_emoji": "🇦🇪",
         "calling_code": [
@@ -144,7 +144,7 @@
         "num_code": 32,
         "demonym_male": "Argentine",
         "demonym_female": "Argentine",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ar",
         "flag_emoji": "🇦🇷",
         "calling_code": [
@@ -161,7 +161,7 @@
         "num_code": 51,
         "demonym_male": "Armenian",
         "demonym_female": "Armenian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".am",
         "flag_emoji": "🇦🇲",
         "calling_code": [
@@ -178,7 +178,7 @@
         "num_code": 16,
         "demonym_male": "American Samoan",
         "demonym_female": "American Samoan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".as",
         "flag_emoji": "🇦🇸",
         "calling_code": [
@@ -195,7 +195,7 @@
         "num_code": 10,
         "demonym_male": "Antarctican",
         "demonym_female": "Antarctican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".aq",
         "flag_emoji": "🇦🇶",
         "calling_code": [
@@ -212,7 +212,7 @@
         "num_code": 260,
         "demonym_male": "French Southern Territories resident",
         "demonym_female": "French Southern Territories resident",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tf",
         "flag_emoji": "🇹🇫",
         "calling_code": [],
@@ -227,7 +227,7 @@
         "num_code": 28,
         "demonym_male": "Antiguan, Barbudan",
         "demonym_female": "Antiguan, Barbudan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ag",
         "flag_emoji": "🇦🇬",
         "calling_code": [
@@ -244,7 +244,7 @@
         "num_code": 36,
         "demonym_male": "Australian",
         "demonym_female": "Australian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".au",
         "flag_emoji": "🇦🇺",
         "calling_code": [
@@ -261,7 +261,7 @@
         "num_code": 40,
         "demonym_male": "Austrian",
         "demonym_female": "Austrian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".at",
         "flag_emoji": "🇦🇹",
         "calling_code": [
@@ -278,7 +278,7 @@
         "num_code": 31,
         "demonym_male": "Azerbaijani",
         "demonym_female": "Azerbaijani",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".az",
         "flag_emoji": "🇦🇿",
         "calling_code": [
@@ -295,7 +295,7 @@
         "num_code": 108,
         "demonym_male": "Burundian",
         "demonym_female": "Burundian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bi",
         "flag_emoji": "🇧🇮",
         "calling_code": [
@@ -312,7 +312,7 @@
         "num_code": 56,
         "demonym_male": "Belgian",
         "demonym_female": "Belgian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".be",
         "flag_emoji": "🇧🇪",
         "calling_code": [
@@ -329,7 +329,7 @@
         "num_code": 204,
         "demonym_male": "Beninese",
         "demonym_female": "Beninese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bj",
         "flag_emoji": "🇧🇯",
         "calling_code": [
@@ -346,7 +346,7 @@
         "num_code": 535,
         "demonym_male": "Bonairean",
         "demonym_female": "Bonairean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bq",
         "flag_emoji": "🇧🇶",
         "calling_code": [
@@ -363,7 +363,7 @@
         "num_code": 854,
         "demonym_male": "Burkinabe",
         "demonym_female": "Burkinabe",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bf",
         "flag_emoji": "🇧🇫",
         "calling_code": [
@@ -380,7 +380,7 @@
         "num_code": 50,
         "demonym_male": "Bangladeshi",
         "demonym_female": "Bangladeshi",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bd",
         "flag_emoji": "🇧🇩",
         "calling_code": [
@@ -397,7 +397,7 @@
         "num_code": 100,
         "demonym_male": "Bulgarian",
         "demonym_female": "Bulgarian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bg",
         "flag_emoji": "🇧🇬",
         "calling_code": [
@@ -414,7 +414,7 @@
         "num_code": 48,
         "demonym_male": "Bahraini",
         "demonym_female": "Bahraini",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bh",
         "flag_emoji": "🇧🇭",
         "calling_code": [
@@ -431,7 +431,7 @@
         "num_code": 44,
         "demonym_male": "Bahamian",
         "demonym_female": "Bahamian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bs",
         "flag_emoji": "🇧🇸",
         "calling_code": [
@@ -448,7 +448,7 @@
         "num_code": 70,
         "demonym_male": "Bosnian, Herzegovinian",
         "demonym_female": "Bosnian, Herzegovinian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ba",
         "flag_emoji": "🇧🇦",
         "calling_code": [
@@ -465,7 +465,7 @@
         "num_code": 652,
         "demonym_male": "Saint-Barthélemois",
         "demonym_female": "Saint-Barthélemoise",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".bl",
         "flag_emoji": "🇧🇱",
         "calling_code": [
@@ -482,7 +482,7 @@
         "num_code": 112,
         "demonym_male": "Belarusian",
         "demonym_female": "Belarusian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".by",
         "flag_emoji": "🇧🇾",
         "calling_code": [
@@ -499,7 +499,7 @@
         "num_code": 84,
         "demonym_male": "Belizean",
         "demonym_female": "Belizean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bz",
         "flag_emoji": "🇧🇿",
         "calling_code": [
@@ -516,7 +516,7 @@
         "num_code": 60,
         "demonym_male": "Bermudian",
         "demonym_female": "Bermudian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bm",
         "flag_emoji": "🇧🇲",
         "calling_code": [
@@ -533,7 +533,7 @@
         "num_code": 68,
         "demonym_male": "Bolivian",
         "demonym_female": "Bolivian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bo",
         "flag_emoji": "🇧🇴",
         "calling_code": [
@@ -550,7 +550,7 @@
         "num_code": 76,
         "demonym_male": "Brazilian",
         "demonym_female": "Brazilian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".br",
         "flag_emoji": "🇧🇷",
         "calling_code": [
@@ -567,7 +567,7 @@
         "num_code": 52,
         "demonym_male": "Barbadian",
         "demonym_female": "Barbadian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bb",
         "flag_emoji": "🇧🇧",
         "calling_code": [
@@ -584,7 +584,7 @@
         "num_code": 96,
         "demonym_male": "Bruneian",
         "demonym_female": "Bruneian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bn",
         "flag_emoji": "🇧🇳",
         "calling_code": [
@@ -601,7 +601,7 @@
         "num_code": 64,
         "demonym_male": "Bhutanese",
         "demonym_female": "Bhutanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bt",
         "flag_emoji": "🇧🇹",
         "calling_code": [
@@ -618,7 +618,7 @@
         "num_code": 74,
         "demonym_male": "Bouvet Islander",
         "demonym_female": "Bouvet Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bv",
         "flag_emoji": "🇧🇻",
         "calling_code": [],
@@ -633,7 +633,7 @@
         "num_code": 72,
         "demonym_male": "Motswana",
         "demonym_female": "Motswana",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".bw",
         "flag_emoji": "🇧🇼",
         "calling_code": [
@@ -650,7 +650,7 @@
         "num_code": 140,
         "demonym_male": "Central African",
         "demonym_female": "Central African",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cf",
         "flag_emoji": "🇨🇫",
         "calling_code": [
@@ -667,7 +667,7 @@
         "num_code": 124,
         "demonym_male": "Canadian",
         "demonym_female": "Canadian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ca",
         "flag_emoji": "🇨🇦",
         "calling_code": [
@@ -684,7 +684,7 @@
         "num_code": 166,
         "demonym_male": "Cocos Islander",
         "demonym_female": "Cocos Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cc",
         "flag_emoji": "🇨🇨",
         "calling_code": [
@@ -701,7 +701,7 @@
         "num_code": 756,
         "demonym_male": "Swiss",
         "demonym_female": "Swiss",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ch",
         "flag_emoji": "🇨🇭",
         "calling_code": [
@@ -718,7 +718,7 @@
         "num_code": 152,
         "demonym_male": "Chilean",
         "demonym_female": "Chilean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cl",
         "flag_emoji": "🇨🇱",
         "calling_code": [
@@ -735,7 +735,7 @@
         "num_code": 156,
         "demonym_male": "Chinese",
         "demonym_female": "Chinese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cn",
         "flag_emoji": "🇨🇳",
         "calling_code": [
@@ -752,7 +752,7 @@
         "num_code": 384,
         "demonym_male": "Ivorian",
         "demonym_female": "Ivorian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ci",
         "flag_emoji": "🇨🇮",
         "calling_code": [
@@ -769,7 +769,7 @@
         "num_code": 120,
         "demonym_male": "Cameroonian",
         "demonym_female": "Cameroonian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cm",
         "flag_emoji": "🇨🇲",
         "calling_code": [
@@ -786,7 +786,7 @@
         "num_code": 180,
         "demonym_male": "Congolese",
         "demonym_female": "Congolese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cd",
         "flag_emoji": "🇨🇩",
         "calling_code": [
@@ -803,7 +803,7 @@
         "num_code": 178,
         "demonym_male": "Congolese",
         "demonym_female": "Congolese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cg",
         "flag_emoji": "🇨🇬",
         "calling_code": [
@@ -820,7 +820,7 @@
         "num_code": 184,
         "demonym_male": "Cook Islander",
         "demonym_female": "Cook Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ck",
         "flag_emoji": "🇨🇰",
         "calling_code": [
@@ -837,7 +837,7 @@
         "num_code": 170,
         "demonym_male": "Colombian",
         "demonym_female": "Colombian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".co",
         "flag_emoji": "🇨🇴",
         "calling_code": [
@@ -854,7 +854,7 @@
         "num_code": 174,
         "demonym_male": "Comoran",
         "demonym_female": "Comoran",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".km",
         "flag_emoji": "🇰🇲",
         "calling_code": [
@@ -871,7 +871,7 @@
         "num_code": 132,
         "demonym_male": "Cape Verdian",
         "demonym_female": "Cape Verdian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cv",
         "flag_emoji": "🇨🇻",
         "calling_code": [
@@ -888,7 +888,7 @@
         "num_code": 188,
         "demonym_male": "Costa Rican",
         "demonym_female": "Costa Rican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cr",
         "flag_emoji": "🇨🇷",
         "calling_code": [
@@ -905,7 +905,7 @@
         "num_code": 192,
         "demonym_male": "Cuban",
         "demonym_female": "Cuban",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cu",
         "flag_emoji": "🇨🇺",
         "calling_code": [
@@ -922,7 +922,7 @@
         "num_code": 531,
         "demonym_male": "Curaçaoan",
         "demonym_female": "Curaçaoan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cw",
         "flag_emoji": "🇨🇼",
         "calling_code": [
@@ -939,7 +939,7 @@
         "num_code": 162,
         "demonym_male": "Christmas Islander",
         "demonym_female": "Christmas Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cx",
         "flag_emoji": "🇨🇽",
         "calling_code": [
@@ -956,7 +956,7 @@
         "num_code": 136,
         "demonym_male": "Caymanian",
         "demonym_female": "Caymanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ky",
         "flag_emoji": "🇰🇾",
         "calling_code": [
@@ -973,7 +973,7 @@
         "num_code": 196,
         "demonym_male": "Cypriot",
         "demonym_female": "Cypriot",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cy",
         "flag_emoji": "🇨🇾",
         "calling_code": [
@@ -990,7 +990,7 @@
         "num_code": 203,
         "demonym_male": "Czech",
         "demonym_female": "Czech",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".cz",
         "flag_emoji": "🇨🇿",
         "calling_code": [
@@ -1007,7 +1007,7 @@
         "num_code": 276,
         "demonym_male": "German",
         "demonym_female": "German",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".de",
         "flag_emoji": "🇩🇪",
         "calling_code": [
@@ -1024,7 +1024,7 @@
         "num_code": 262,
         "demonym_male": "Djibouti",
         "demonym_female": "Djibouti",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".dj",
         "flag_emoji": "🇩🇯",
         "calling_code": [
@@ -1041,7 +1041,7 @@
         "num_code": 212,
         "demonym_male": "Dominican",
         "demonym_female": "Dominican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".dm",
         "flag_emoji": "🇩🇲",
         "calling_code": [
@@ -1058,7 +1058,7 @@
         "num_code": 208,
         "demonym_male": "Danish",
         "demonym_female": "Danish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".dk",
         "flag_emoji": "🇩🇰",
         "calling_code": [
@@ -1075,7 +1075,7 @@
         "num_code": 214,
         "demonym_male": "Dominican",
         "demonym_female": "Dominican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".do",
         "flag_emoji": "🇩🇴",
         "calling_code": [
@@ -1094,7 +1094,7 @@
         "num_code": 12,
         "demonym_male": "Algerian",
         "demonym_female": "Algerian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".dz",
         "flag_emoji": "🇩🇿",
         "calling_code": [
@@ -1111,7 +1111,7 @@
         "num_code": 218,
         "demonym_male": "Ecuadorean",
         "demonym_female": "Ecuadorean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ec",
         "flag_emoji": "🇪🇨",
         "calling_code": [
@@ -1128,7 +1128,7 @@
         "num_code": 818,
         "demonym_male": "Egyptian",
         "demonym_female": "Egyptian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".eg",
         "flag_emoji": "🇪🇬",
         "calling_code": [
@@ -1145,7 +1145,7 @@
         "num_code": 232,
         "demonym_male": "Eritrean",
         "demonym_female": "Eritrean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".er",
         "flag_emoji": "🇪🇷",
         "calling_code": [
@@ -1162,7 +1162,7 @@
         "num_code": 732,
         "demonym_male": "Sahrawi",
         "demonym_female": "Sahrawi",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".eh",
         "flag_emoji": "🇪🇭",
         "calling_code": [],
@@ -1177,7 +1177,7 @@
         "num_code": 724,
         "demonym_male": "Spanish",
         "demonym_female": "Spanish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".es",
         "flag_emoji": "🇪🇸",
         "calling_code": [
@@ -1194,7 +1194,7 @@
         "num_code": 233,
         "demonym_male": "Estonian",
         "demonym_female": "Estonian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ee",
         "flag_emoji": "🇪🇪",
         "calling_code": [
@@ -1211,7 +1211,7 @@
         "num_code": 231,
         "demonym_male": "Ethiopian",
         "demonym_female": "Ethiopian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".et",
         "flag_emoji": "🇪🇹",
         "calling_code": [
@@ -1228,7 +1228,7 @@
         "num_code": 246,
         "demonym_male": "Finnish",
         "demonym_female": "Finnish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fi",
         "flag_emoji": "🇫🇮",
         "calling_code": [
@@ -1245,7 +1245,7 @@
         "num_code": 242,
         "demonym_male": "Fijian",
         "demonym_female": "Fijian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fj",
         "flag_emoji": "🇫🇯",
         "calling_code": [
@@ -1262,7 +1262,7 @@
         "num_code": 238,
         "demonym_male": "Falkland Islander",
         "demonym_female": "Falkland Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fk",
         "flag_emoji": "🇫🇰",
         "calling_code": [
@@ -1279,7 +1279,7 @@
         "num_code": 250,
         "demonym_male": "French",
         "demonym_female": "French",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fr",
         "flag_emoji": "🇫🇷",
         "calling_code": [
@@ -1296,7 +1296,7 @@
         "num_code": 234,
         "demonym_male": "Faroese",
         "demonym_female": "Faroese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fo",
         "flag_emoji": "🇫🇴",
         "calling_code": [
@@ -1313,7 +1313,7 @@
         "num_code": 583,
         "demonym_male": "Micronesian",
         "demonym_female": "Micronesian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".fm",
         "flag_emoji": "🇫🇲",
         "calling_code": [
@@ -1330,7 +1330,7 @@
         "num_code": 266,
         "demonym_male": "Gabonese",
         "demonym_female": "Gabonese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ga",
         "flag_emoji": "🇬🇦",
         "calling_code": [
@@ -1347,7 +1347,7 @@
         "num_code": 826,
         "demonym_male": "British",
         "demonym_female": "British",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gb",
         "flag_emoji": "🇬🇧",
         "calling_code": [
@@ -1364,7 +1364,7 @@
         "num_code": 268,
         "demonym_male": "Georgian",
         "demonym_female": "Georgian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ge",
         "flag_emoji": "🇬🇪",
         "calling_code": [
@@ -1381,7 +1381,7 @@
         "num_code": 831,
         "demonym_male": "Guernseyman",
         "demonym_female": "Guernseywoman",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".gg",
         "flag_emoji": "🇬🇬",
         "calling_code": [
@@ -1398,7 +1398,7 @@
         "num_code": 288,
         "demonym_male": "Ghanaian",
         "demonym_female": "Ghanaian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gh",
         "flag_emoji": "🇬🇭",
         "calling_code": [
@@ -1415,7 +1415,7 @@
         "num_code": 292,
         "demonym_male": "Gibraltarian",
         "demonym_female": "Gibraltarian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gi",
         "flag_emoji": "🇬🇮",
         "calling_code": [
@@ -1432,7 +1432,7 @@
         "num_code": 324,
         "demonym_male": "Guinean",
         "demonym_female": "Guinean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gn",
         "flag_emoji": "🇬🇳",
         "calling_code": [
@@ -1449,7 +1449,7 @@
         "num_code": 312,
         "demonym_male": "Guadeloupean",
         "demonym_female": "Guadeloupean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gp",
         "flag_emoji": "🇬🇵",
         "calling_code": [
@@ -1466,7 +1466,7 @@
         "num_code": 270,
         "demonym_male": "Gambian",
         "demonym_female": "Gambian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gm",
         "flag_emoji": "🇬🇲",
         "calling_code": [
@@ -1483,7 +1483,7 @@
         "num_code": 624,
         "demonym_male": "Guinea-Bissauan",
         "demonym_female": "Guinea-Bissauan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gw",
         "flag_emoji": "🇬🇼",
         "calling_code": [
@@ -1500,7 +1500,7 @@
         "num_code": 226,
         "demonym_male": "Equatorial Guinean",
         "demonym_female": "Equatorial Guinean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gq",
         "flag_emoji": "🇬🇶",
         "calling_code": [
@@ -1517,7 +1517,7 @@
         "num_code": 300,
         "demonym_male": "Greek",
         "demonym_female": "Greek",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gr",
         "flag_emoji": "🇬🇷",
         "calling_code": [
@@ -1534,7 +1534,7 @@
         "num_code": 308,
         "demonym_male": "Grenadian",
         "demonym_female": "Grenadian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gd",
         "flag_emoji": "🇬🇩",
         "calling_code": [
@@ -1551,7 +1551,7 @@
         "num_code": 304,
         "demonym_male": "Greenlander",
         "demonym_female": "Greenlander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gl",
         "flag_emoji": "🇬🇱",
         "calling_code": [
@@ -1568,7 +1568,7 @@
         "num_code": 320,
         "demonym_male": "Guatemalan",
         "demonym_female": "Guatemalan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gt",
         "flag_emoji": "🇬🇹",
         "calling_code": [
@@ -1585,7 +1585,7 @@
         "num_code": 254,
         "demonym_male": "French Guianan",
         "demonym_female": "French Guianan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gf",
         "flag_emoji": "🇬🇫",
         "calling_code": [
@@ -1602,7 +1602,7 @@
         "num_code": 316,
         "demonym_male": "Guamanian",
         "demonym_female": "Guamanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gu",
         "flag_emoji": "🇬🇺",
         "calling_code": [
@@ -1619,7 +1619,7 @@
         "num_code": 328,
         "demonym_male": "Guyanese",
         "demonym_female": "Guyanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gy",
         "flag_emoji": "🇬🇾",
         "calling_code": [
@@ -1636,7 +1636,7 @@
         "num_code": 344,
         "demonym_male": "Honkonger",
         "demonym_female": "Hongkonger",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".hk",
         "flag_emoji": "🇭🇰",
         "calling_code": [
@@ -1653,7 +1653,7 @@
         "num_code": 334,
         "demonym_male": "Heard Islander",
         "demonym_female": "Heard Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".hm",
         "flag_emoji": "🇭🇲",
         "calling_code": [
@@ -1670,7 +1670,7 @@
         "num_code": 340,
         "demonym_male": "Honduran",
         "demonym_female": "Honduran",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".hn",
         "flag_emoji": "🇭🇳",
         "calling_code": [
@@ -1687,7 +1687,7 @@
         "num_code": 191,
         "demonym_male": "Croatian",
         "demonym_female": "Croatian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".hr",
         "flag_emoji": "🇭🇷",
         "calling_code": [
@@ -1704,7 +1704,7 @@
         "num_code": 332,
         "demonym_male": "Haitian",
         "demonym_female": "Haitian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ht",
         "flag_emoji": "🇭🇹",
         "calling_code": [
@@ -1721,7 +1721,7 @@
         "num_code": 348,
         "demonym_male": "Hungarian",
         "demonym_female": "Hungarian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".hu",
         "flag_emoji": "🇭🇺",
         "calling_code": [
@@ -1738,7 +1738,7 @@
         "num_code": 360,
         "demonym_male": "Indonesian",
         "demonym_female": "Indonesian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".id",
         "flag_emoji": "🇮🇩",
         "calling_code": [
@@ -1755,7 +1755,7 @@
         "num_code": 833,
         "demonym_male": "Manxman",
         "demonym_female": "Manxwoman",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".im",
         "flag_emoji": "🇮🇲",
         "calling_code": [
@@ -1772,7 +1772,7 @@
         "num_code": 356,
         "demonym_male": "Indian",
         "demonym_female": "Indian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".in",
         "flag_emoji": "🇮🇳",
         "calling_code": [
@@ -1789,7 +1789,7 @@
         "num_code": 86,
         "demonym_male": "British",
         "demonym_female": "British",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".io",
         "flag_emoji": "🇮🇴",
         "calling_code": [
@@ -1806,7 +1806,7 @@
         "num_code": 372,
         "demonym_male": "Irish",
         "demonym_female": "Irish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ie",
         "flag_emoji": "🇮🇪",
         "calling_code": [
@@ -1823,7 +1823,7 @@
         "num_code": 364,
         "demonym_male": "Iranian",
         "demonym_female": "Iranian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ir",
         "flag_emoji": "🇮🇷",
         "calling_code": [
@@ -1840,7 +1840,7 @@
         "num_code": 368,
         "demonym_male": "Iraqi",
         "demonym_female": "Iraqi",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".iq",
         "flag_emoji": "🇮🇶",
         "calling_code": [
@@ -1857,7 +1857,7 @@
         "num_code": 352,
         "demonym_male": "Icelander",
         "demonym_female": "Icelander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".is",
         "flag_emoji": "🇮🇸",
         "calling_code": [
@@ -1874,7 +1874,7 @@
         "num_code": 376,
         "demonym_male": "Israeli",
         "demonym_female": "Israeli",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".il",
         "flag_emoji": "🇮🇱",
         "calling_code": [
@@ -1891,7 +1891,7 @@
         "num_code": 380,
         "demonym_male": "Italian",
         "demonym_female": "Italian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".it",
         "flag_emoji": "🇮🇹",
         "calling_code": [
@@ -1908,7 +1908,7 @@
         "num_code": 388,
         "demonym_male": "Jamaican",
         "demonym_female": "Jamaican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".jm",
         "flag_emoji": "🇯🇲",
         "calling_code": [
@@ -1925,7 +1925,7 @@
         "num_code": 832,
         "demonym_male": "Jerseyman",
         "demonym_female": "Jerseywoman",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".je",
         "flag_emoji": "🇯🇪",
         "calling_code": [
@@ -1942,7 +1942,7 @@
         "num_code": 400,
         "demonym_male": "Jordanian",
         "demonym_female": "Jordanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".jo",
         "flag_emoji": "🇯🇴",
         "calling_code": [
@@ -1959,7 +1959,7 @@
         "num_code": 392,
         "demonym_male": "Japanese",
         "demonym_female": "Japanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".jp",
         "flag_emoji": "🇯🇵",
         "calling_code": [
@@ -1976,7 +1976,7 @@
         "num_code": 398,
         "demonym_male": "Kazakhstani",
         "demonym_female": "Kazakhstani",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kz",
         "flag_emoji": "🇰🇿",
         "calling_code": [
@@ -1993,7 +1993,7 @@
         "num_code": 404,
         "demonym_male": "Kenyan",
         "demonym_female": "Kenyan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ke",
         "flag_emoji": "🇰🇪",
         "calling_code": [
@@ -2010,7 +2010,7 @@
         "num_code": 417,
         "demonym_male": "Kirghiz",
         "demonym_female": "Kirghiz",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kg",
         "flag_emoji": "🇰🇬",
         "calling_code": [
@@ -2027,7 +2027,7 @@
         "num_code": 116,
         "demonym_male": "Cambodian",
         "demonym_female": "Cambodian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kh",
         "flag_emoji": "🇰🇭",
         "calling_code": [
@@ -2044,7 +2044,7 @@
         "num_code": 296,
         "demonym_male": "I-Kiribati",
         "demonym_female": "I-Kiribati",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ki",
         "flag_emoji": "🇰🇮",
         "calling_code": [
@@ -2061,7 +2061,7 @@
         "num_code": 659,
         "demonym_male": "Kittitian or Nevisian",
         "demonym_female": "Kittitian or Nevisian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kn",
         "flag_emoji": "🇰🇳",
         "calling_code": [
@@ -2078,7 +2078,7 @@
         "num_code": 410,
         "demonym_male": "South Korean",
         "demonym_female": "South Korean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kr",
         "flag_emoji": "🇰🇷",
         "calling_code": [
@@ -2095,7 +2095,7 @@
         "num_code": 414,
         "demonym_male": "Kuwaiti",
         "demonym_female": "Kuwaiti",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kw",
         "flag_emoji": "🇰🇼",
         "calling_code": [
@@ -2112,7 +2112,7 @@
         "num_code": 418,
         "demonym_male": "Laotian",
         "demonym_female": "Laotian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".la",
         "flag_emoji": "🇱🇦",
         "calling_code": [
@@ -2129,7 +2129,7 @@
         "num_code": 422,
         "demonym_male": "Lebanese",
         "demonym_female": "Lebanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lb",
         "flag_emoji": "🇱🇧",
         "calling_code": [
@@ -2146,7 +2146,7 @@
         "num_code": 430,
         "demonym_male": "Liberian",
         "demonym_female": "Liberian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lr",
         "flag_emoji": "🇱🇷",
         "calling_code": [
@@ -2163,7 +2163,7 @@
         "num_code": 434,
         "demonym_male": "Libyan",
         "demonym_female": "Libyan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ly",
         "flag_emoji": "🇱🇾",
         "calling_code": [
@@ -2180,7 +2180,7 @@
         "num_code": 662,
         "demonym_male": "Saint Lucian",
         "demonym_female": "Saint Lucian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lc",
         "flag_emoji": "🇱🇨",
         "calling_code": [
@@ -2197,7 +2197,7 @@
         "num_code": 438,
         "demonym_male": "Liechtensteiner",
         "demonym_female": "Liechtensteiner",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".li",
         "flag_emoji": "🇱🇮",
         "calling_code": [
@@ -2214,7 +2214,7 @@
         "num_code": 144,
         "demonym_male": "Sri Lankan",
         "demonym_female": "Sri Lankan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lk",
         "flag_emoji": "🇱🇰",
         "calling_code": [
@@ -2231,7 +2231,7 @@
         "num_code": 426,
         "demonym_male": "Mosotho",
         "demonym_female": "Mosotho",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ls",
         "flag_emoji": "🇱🇸",
         "calling_code": [
@@ -2248,7 +2248,7 @@
         "num_code": 440,
         "demonym_male": "Lithuanian",
         "demonym_female": "Lithuanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lt",
         "flag_emoji": "🇱🇹",
         "calling_code": [
@@ -2265,7 +2265,7 @@
         "num_code": 442,
         "demonym_male": "Luxembourger",
         "demonym_female": "Luxembourger",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lu",
         "flag_emoji": "🇱🇺",
         "calling_code": [
@@ -2282,7 +2282,7 @@
         "num_code": 428,
         "demonym_male": "Latvian",
         "demonym_female": "Latvian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".lv",
         "flag_emoji": "🇱🇻",
         "calling_code": [
@@ -2299,7 +2299,7 @@
         "num_code": 446,
         "demonym_male": "Macanese",
         "demonym_female": "Macanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mo",
         "flag_emoji": "🇲🇴",
         "calling_code": [
@@ -2316,7 +2316,7 @@
         "num_code": 663,
         "demonym_male": "Saint-Martinois",
         "demonym_female": "Saint-Martinoise",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".mf",
         "flag_emoji": "🇲🇫",
         "calling_code": [
@@ -2333,7 +2333,7 @@
         "num_code": 504,
         "demonym_male": "Moroccan",
         "demonym_female": "Moroccan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ma",
         "flag_emoji": "🇲🇦",
         "calling_code": [
@@ -2350,7 +2350,7 @@
         "num_code": 492,
         "demonym_male": "Monegasque",
         "demonym_female": "Monegasque",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mc",
         "flag_emoji": "🇲🇨",
         "calling_code": [
@@ -2367,7 +2367,7 @@
         "num_code": 498,
         "demonym_male": "Moldovan",
         "demonym_female": "Moldovan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".md",
         "flag_emoji": "🇲🇩",
         "calling_code": [
@@ -2384,7 +2384,7 @@
         "num_code": 450,
         "demonym_male": "Malagasy",
         "demonym_female": "Malagasy",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mg",
         "flag_emoji": "🇲🇬",
         "calling_code": [
@@ -2401,7 +2401,7 @@
         "num_code": 462,
         "demonym_male": "Maldivan",
         "demonym_female": "Maldivan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mv",
         "flag_emoji": "🇲🇻",
         "calling_code": [
@@ -2418,7 +2418,7 @@
         "num_code": 484,
         "demonym_male": "Mexican",
         "demonym_female": "Mexican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mx",
         "flag_emoji": "🇲🇽",
         "calling_code": [
@@ -2435,7 +2435,7 @@
         "num_code": 584,
         "demonym_male": "Marshallese",
         "demonym_female": "Marshallese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mh",
         "flag_emoji": "🇲🇭",
         "calling_code": [
@@ -2452,7 +2452,7 @@
         "num_code": 807,
         "demonym_male": "Macedonian",
         "demonym_female": "Macedonian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mk",
         "flag_emoji": "🇲🇰",
         "calling_code": [
@@ -2469,7 +2469,7 @@
         "num_code": 466,
         "demonym_male": "Malian",
         "demonym_female": "Malian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ml",
         "flag_emoji": "🇲🇱",
         "calling_code": [
@@ -2486,7 +2486,7 @@
         "num_code": 470,
         "demonym_male": "Maltese",
         "demonym_female": "Maltese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mt",
         "flag_emoji": "🇲🇹",
         "calling_code": [
@@ -2503,7 +2503,7 @@
         "num_code": 104,
         "demonym_male": "Burmese",
         "demonym_female": "Burmese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mm",
         "flag_emoji": "🇲🇲",
         "calling_code": [
@@ -2520,7 +2520,7 @@
         "num_code": 499,
         "demonym_male": "Montenegrin",
         "demonym_female": "Montenegrin",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".me",
         "flag_emoji": "🇲🇪",
         "calling_code": [
@@ -2537,7 +2537,7 @@
         "num_code": 496,
         "demonym_male": "Mongolian",
         "demonym_female": "Mongolian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mn",
         "flag_emoji": "🇲🇳",
         "calling_code": [
@@ -2554,7 +2554,7 @@
         "num_code": 580,
         "demonym_male": "Northern Marianan",
         "demonym_female": "Northern Marianan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mp",
         "flag_emoji": "🇲🇵",
         "calling_code": [
@@ -2571,7 +2571,7 @@
         "num_code": 508,
         "demonym_male": "Mozambican",
         "demonym_female": "Mozambican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mz",
         "flag_emoji": "🇲🇿",
         "calling_code": [
@@ -2588,7 +2588,7 @@
         "num_code": 478,
         "demonym_male": "Mauritanian",
         "demonym_female": "Mauritanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mr",
         "flag_emoji": "🇲🇷",
         "calling_code": [
@@ -2605,7 +2605,7 @@
         "num_code": 500,
         "demonym_male": "Montserratian",
         "demonym_female": "Montserratian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ms",
         "flag_emoji": "🇲🇸",
         "calling_code": [
@@ -2622,7 +2622,7 @@
         "num_code": 474,
         "demonym_male": "Martiniquais",
         "demonym_female": "Martiniquaise",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".mq",
         "flag_emoji": "🇲🇶",
         "calling_code": [
@@ -2639,7 +2639,7 @@
         "num_code": 480,
         "demonym_male": "Mauritian",
         "demonym_female": "Mauritian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mu",
         "flag_emoji": "🇲🇺",
         "calling_code": [
@@ -2656,7 +2656,7 @@
         "num_code": 454,
         "demonym_male": "Malawian",
         "demonym_female": "Malawian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".mw",
         "flag_emoji": "🇲🇼",
         "calling_code": [
@@ -2673,7 +2673,7 @@
         "num_code": 458,
         "demonym_male": "Malaysian",
         "demonym_female": "Malaysian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".my",
         "flag_emoji": "🇲🇾",
         "calling_code": [
@@ -2690,7 +2690,7 @@
         "num_code": 175,
         "demonym_male": "Mahoran",
         "demonym_female": "Mahoran",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".yt",
         "flag_emoji": "🇾🇹",
         "calling_code": [
@@ -2707,7 +2707,7 @@
         "num_code": 516,
         "demonym_male": "Namibian",
         "demonym_female": "Namibian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".na",
         "flag_emoji": "🇳🇦",
         "calling_code": [
@@ -2724,7 +2724,7 @@
         "num_code": 540,
         "demonym_male": "New Caledonian",
         "demonym_female": "New Caledonian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nc",
         "flag_emoji": "🇳🇨",
         "calling_code": [
@@ -2741,7 +2741,7 @@
         "num_code": 562,
         "demonym_male": "Nigerien",
         "demonym_female": "Nigerien",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ne",
         "flag_emoji": "🇳🇪",
         "calling_code": [
@@ -2758,7 +2758,7 @@
         "num_code": 574,
         "demonym_male": "Norfolk Islander",
         "demonym_female": "Norfolk Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nf",
         "flag_emoji": "🇳🇫",
         "calling_code": [
@@ -2775,7 +2775,7 @@
         "num_code": 566,
         "demonym_male": "Nigerian",
         "demonym_female": "Nigerian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ng",
         "flag_emoji": "🇳🇬",
         "calling_code": [
@@ -2792,7 +2792,7 @@
         "num_code": 558,
         "demonym_male": "Nicaraguan",
         "demonym_female": "Nicaraguan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ni",
         "flag_emoji": "🇳🇮",
         "calling_code": [
@@ -2809,7 +2809,7 @@
         "num_code": 570,
         "demonym_male": "Niuean",
         "demonym_female": "Niuean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nu",
         "flag_emoji": "🇳🇺",
         "calling_code": [
@@ -2826,7 +2826,7 @@
         "num_code": 528,
         "demonym_male": "Dutch",
         "demonym_female": "Dutch",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nl",
         "flag_emoji": "🇳🇱",
         "calling_code": [
@@ -2843,7 +2843,7 @@
         "num_code": 578,
         "demonym_male": "Norwegian",
         "demonym_female": "Norwegian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".no",
         "flag_emoji": "🇳🇴",
         "calling_code": [
@@ -2860,7 +2860,7 @@
         "num_code": 524,
         "demonym_male": "Nepalese",
         "demonym_female": "Nepalese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".np",
         "flag_emoji": "🇳🇵",
         "calling_code": [
@@ -2877,7 +2877,7 @@
         "num_code": 520,
         "demonym_male": "Nauruan",
         "demonym_female": "Nauruan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nr",
         "flag_emoji": "🇳🇷",
         "calling_code": [
@@ -2894,7 +2894,7 @@
         "num_code": 554,
         "demonym_male": "New Zealander",
         "demonym_female": "New Zealander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".nz",
         "flag_emoji": "🇳🇿",
         "calling_code": [
@@ -2911,7 +2911,7 @@
         "num_code": 512,
         "demonym_male": "Omani",
         "demonym_female": "Omani",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".om",
         "flag_emoji": "🇴🇲",
         "calling_code": [
@@ -2928,7 +2928,7 @@
         "num_code": 586,
         "demonym_male": "Pakistani",
         "demonym_female": "Pakistani",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pk",
         "flag_emoji": "🇵🇰",
         "calling_code": [
@@ -2945,7 +2945,7 @@
         "num_code": 591,
         "demonym_male": "Panamanian",
         "demonym_female": "Panamanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pa",
         "flag_emoji": "🇵🇦",
         "calling_code": [
@@ -2962,7 +2962,7 @@
         "num_code": 612,
         "demonym_male": "Pitcairn Islander",
         "demonym_female": "Pitcairn Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pn",
         "flag_emoji": "🇵🇳",
         "calling_code": [
@@ -2979,7 +2979,7 @@
         "num_code": 604,
         "demonym_male": "Peruvian",
         "demonym_female": "Peruvian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pe",
         "flag_emoji": "🇵🇪",
         "calling_code": [
@@ -2996,7 +2996,7 @@
         "num_code": 608,
         "demonym_male": "Filipino",
         "demonym_female": "Filipino",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ph",
         "flag_emoji": "🇵🇭",
         "calling_code": [
@@ -3013,7 +3013,7 @@
         "num_code": 585,
         "demonym_male": "Palauan",
         "demonym_female": "Palauan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pw",
         "flag_emoji": "🇵🇼",
         "calling_code": [
@@ -3030,7 +3030,7 @@
         "num_code": 598,
         "demonym_male": "Papua New Guinean",
         "demonym_female": "Papua New Guinean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pg",
         "flag_emoji": "🇵🇬",
         "calling_code": [
@@ -3047,7 +3047,7 @@
         "num_code": 616,
         "demonym_male": "Polish",
         "demonym_female": "Polish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pl",
         "flag_emoji": "🇵🇱",
         "calling_code": [
@@ -3064,7 +3064,7 @@
         "num_code": 630,
         "demonym_male": "Puerto Rican",
         "demonym_female": "Puerto Rican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pr",
         "flag_emoji": "🇵🇷",
         "calling_code": [
@@ -3082,7 +3082,7 @@
         "num_code": 408,
         "demonym_male": "North Korean",
         "demonym_female": "North Korean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".kp",
         "flag_emoji": "🇰🇵",
         "calling_code": [
@@ -3099,7 +3099,7 @@
         "num_code": 620,
         "demonym_male": "Portuguese",
         "demonym_female": "Portuguese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pt",
         "flag_emoji": "🇵🇹",
         "calling_code": [
@@ -3116,7 +3116,7 @@
         "num_code": 600,
         "demonym_male": "Paraguayan",
         "demonym_female": "Paraguayan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".py",
         "flag_emoji": "🇵🇾",
         "calling_code": [
@@ -3133,7 +3133,7 @@
         "num_code": 275,
         "demonym_male": "Palestinian",
         "demonym_female": "Palestinian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ps",
         "flag_emoji": "🇵🇸",
         "calling_code": [
@@ -3151,7 +3151,7 @@
         "num_code": 258,
         "demonym_male": "French Polynesian",
         "demonym_female": "French Polynesian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".pf",
         "flag_emoji": "🇵🇫",
         "calling_code": [
@@ -3168,7 +3168,7 @@
         "num_code": 634,
         "demonym_male": "Qatari",
         "demonym_female": "Qatari",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".qa",
         "flag_emoji": "🇶🇦",
         "calling_code": [
@@ -3185,7 +3185,7 @@
         "num_code": 638,
         "demonym_male": "Réunionnais",
         "demonym_female": "Réunionnaise",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".re",
         "flag_emoji": "🇷🇪",
         "calling_code": [
@@ -3202,7 +3202,7 @@
         "num_code": 642,
         "demonym_male": "Romanian",
         "demonym_female": "Romanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ro",
         "flag_emoji": "🇷🇴",
         "calling_code": [
@@ -3219,7 +3219,7 @@
         "num_code": 643,
         "demonym_male": "Russian",
         "demonym_female": "Russian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ru",
         "flag_emoji": "🇷🇺",
         "calling_code": [
@@ -3236,7 +3236,7 @@
         "num_code": 646,
         "demonym_male": "Rwandan",
         "demonym_female": "Rwandan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".rw",
         "flag_emoji": "🇷🇼",
         "calling_code": [
@@ -3253,7 +3253,7 @@
         "num_code": 682,
         "demonym_male": "Saudi Arabian",
         "demonym_female": "Saudi Arabian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sa",
         "flag_emoji": "🇸🇦",
         "calling_code": [
@@ -3270,7 +3270,7 @@
         "num_code": 729,
         "demonym_male": "Sudanese",
         "demonym_female": "Sudanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sd",
         "flag_emoji": "🇸🇩",
         "calling_code": [
@@ -3287,7 +3287,7 @@
         "num_code": 686,
         "demonym_male": "Senegalese",
         "demonym_female": "Senegalese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sn",
         "flag_emoji": "🇸🇳",
         "calling_code": [
@@ -3304,7 +3304,7 @@
         "num_code": 702,
         "demonym_male": "Singaporean",
         "demonym_female": "Singaporean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sg",
         "flag_emoji": "🇸🇬",
         "calling_code": [
@@ -3321,7 +3321,7 @@
         "num_code": 239,
         "demonym_male": "South Georgian",
         "demonym_female": "South Georgian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".gs",
         "flag_emoji": "🇬🇸",
         "calling_code": [
@@ -3338,7 +3338,7 @@
         "num_code": 654,
         "demonym_male": "Saint Helenian",
         "demonym_female": "Saint Helenian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sh",
         "flag_emoji": "🇸🇭",
         "calling_code": [
@@ -3355,7 +3355,7 @@
         "num_code": 744,
         "demonym_male": "Svalbardian",
         "demonym_female": "Svalbardian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sj",
         "flag_emoji": "🇸🇯",
         "calling_code": [
@@ -3372,7 +3372,7 @@
         "num_code": 90,
         "demonym_male": "Solomon Islander",
         "demonym_female": "Solomon Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sb",
         "flag_emoji": "🇸🇧",
         "calling_code": [
@@ -3389,7 +3389,7 @@
         "num_code": 694,
         "demonym_male": "Sierra Leonean",
         "demonym_female": "Sierra Leonean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sl",
         "flag_emoji": "🇸🇱",
         "calling_code": [
@@ -3406,7 +3406,7 @@
         "num_code": 222,
         "demonym_male": "Salvadoran",
         "demonym_female": "Salvadoran",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sv",
         "flag_emoji": "🇸🇻",
         "calling_code": [
@@ -3423,7 +3423,7 @@
         "num_code": 674,
         "demonym_male": "Sammarinese",
         "demonym_female": "Sammarinese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sm",
         "flag_emoji": "🇸🇲",
         "calling_code": [
@@ -3440,7 +3440,7 @@
         "num_code": 706,
         "demonym_male": "Somali",
         "demonym_female": "Somali",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".so",
         "flag_emoji": "🇸🇴",
         "calling_code": [
@@ -3457,7 +3457,7 @@
         "num_code": 666,
         "demonym_male": "Saint-Pierrais",
         "demonym_female": "Saint-Pierraise",
-        "gendered_demonym": false,
+        "gendered_demonym": true,
         "tld": ".pm",
         "flag_emoji": "🇵🇲",
         "calling_code": [
@@ -3474,7 +3474,7 @@
         "num_code": 688,
         "demonym_male": "Serbian",
         "demonym_female": "Serbian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".rs",
         "flag_emoji": "🇷🇸",
         "calling_code": [
@@ -3491,7 +3491,7 @@
         "num_code": 728,
         "demonym_male": "South Sudanese",
         "demonym_female": "South Sudanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ss",
         "flag_emoji": "🇸🇸",
         "calling_code": [
@@ -3508,7 +3508,7 @@
         "num_code": 678,
         "demonym_male": "Sao Tomean",
         "demonym_female": "Sao Tomean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".st",
         "flag_emoji": "🇸🇹",
         "calling_code": [
@@ -3525,7 +3525,7 @@
         "num_code": 740,
         "demonym_male": "Surinamer",
         "demonym_female": "Surinamer",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sr",
         "flag_emoji": "🇸🇷",
         "calling_code": [
@@ -3542,7 +3542,7 @@
         "num_code": 703,
         "demonym_male": "Slovak",
         "demonym_female": "Slovak",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sk",
         "flag_emoji": "🇸🇰",
         "calling_code": [
@@ -3559,7 +3559,7 @@
         "num_code": 705,
         "demonym_male": "Slovene",
         "demonym_female": "Slovene",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".si",
         "flag_emoji": "🇸🇮",
         "calling_code": [
@@ -3576,7 +3576,7 @@
         "num_code": 752,
         "demonym_male": "Swedish",
         "demonym_female": "Swedish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".se",
         "flag_emoji": "🇸🇪",
         "calling_code": [
@@ -3593,7 +3593,7 @@
         "num_code": 748,
         "demonym_male": "Swazi",
         "demonym_female": "Swazi",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sz",
         "flag_emoji": "🇸🇿",
         "calling_code": [
@@ -3610,7 +3610,7 @@
         "num_code": 534,
         "demonym_male": "Sint Maartener",
         "demonym_female": "Sint Maartener",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sx",
         "flag_emoji": "🇸🇽",
         "calling_code": [
@@ -3627,7 +3627,7 @@
         "num_code": 690,
         "demonym_male": "Seychellois",
         "demonym_female": "Seychellois",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sc",
         "flag_emoji": "🇸🇨",
         "calling_code": [
@@ -3644,7 +3644,7 @@
         "num_code": 760,
         "demonym_male": "Syrian",
         "demonym_female": "Syrian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".sy",
         "flag_emoji": "🇸🇾",
         "calling_code": [
@@ -3661,7 +3661,7 @@
         "num_code": 796,
         "demonym_male": "Turks and Caicos Islander",
         "demonym_female": "Turks and Caicos Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tc",
         "flag_emoji": "🇹🇨",
         "calling_code": [
@@ -3678,7 +3678,7 @@
         "num_code": 148,
         "demonym_male": "Chadian",
         "demonym_female": "Chadian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".td",
         "flag_emoji": "🇹🇩",
         "calling_code": [
@@ -3695,7 +3695,7 @@
         "num_code": 768,
         "demonym_male": "Togolese",
         "demonym_female": "Togolese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tg",
         "flag_emoji": "🇹🇬",
         "calling_code": [
@@ -3712,7 +3712,7 @@
         "num_code": 764,
         "demonym_male": "Thai",
         "demonym_female": "Thai",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".th",
         "flag_emoji": "🇹🇭",
         "calling_code": [
@@ -3729,7 +3729,7 @@
         "num_code": 762,
         "demonym_male": "Tadzhik",
         "demonym_female": "Tadzhik",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tj",
         "flag_emoji": "🇹🇯",
         "calling_code": [
@@ -3746,7 +3746,7 @@
         "num_code": 772,
         "demonym_male": "Tokelauan",
         "demonym_female": "Tokelauan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tk",
         "flag_emoji": "🇹🇰",
         "calling_code": [
@@ -3763,7 +3763,7 @@
         "num_code": 795,
         "demonym_male": "Turkmen",
         "demonym_female": "Turkmen",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tm",
         "flag_emoji": "🇹🇲",
         "calling_code": [
@@ -3780,7 +3780,7 @@
         "num_code": 626,
         "demonym_male": "East Timorese",
         "demonym_female": "East Timorese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tl",
         "flag_emoji": "🇹🇱",
         "calling_code": [
@@ -3797,7 +3797,7 @@
         "num_code": 776,
         "demonym_male": "Tongan",
         "demonym_female": "Tongan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".to",
         "flag_emoji": "🇹🇴",
         "calling_code": [
@@ -3814,7 +3814,7 @@
         "num_code": 780,
         "demonym_male": "Trinidadian",
         "demonym_female": "Trinidadian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tt",
         "flag_emoji": "🇹🇹",
         "calling_code": [
@@ -3831,7 +3831,7 @@
         "num_code": 788,
         "demonym_male": "Tunisian",
         "demonym_female": "Tunisian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tn",
         "flag_emoji": "🇹🇳",
         "calling_code": [
@@ -3848,7 +3848,7 @@
         "num_code": 792,
         "demonym_male": "Turkish",
         "demonym_female": "Turkish",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tr",
         "flag_emoji": "🇹🇷",
         "calling_code": [
@@ -3865,7 +3865,7 @@
         "num_code": 798,
         "demonym_male": "Tuvaluan",
         "demonym_female": "Tuvaluan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tv",
         "flag_emoji": "🇹🇻",
         "calling_code": [
@@ -3882,7 +3882,7 @@
         "num_code": 158,
         "demonym_male": "Taiwanese",
         "demonym_female": "Taiwanese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tw",
         "flag_emoji": "🇹🇼",
         "calling_code": [
@@ -3899,7 +3899,7 @@
         "num_code": 834,
         "demonym_male": "Tanzanian",
         "demonym_female": "Tanzanian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".tz",
         "flag_emoji": "🇹🇿",
         "calling_code": [
@@ -3916,7 +3916,7 @@
         "num_code": 800,
         "demonym_male": "Ugandan",
         "demonym_female": "Ugandan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ug",
         "flag_emoji": "🇺🇬",
         "calling_code": [
@@ -3933,7 +3933,7 @@
         "num_code": 804,
         "demonym_male": "Ukrainian",
         "demonym_female": "Ukrainian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ua",
         "flag_emoji": "🇺🇦",
         "calling_code": [
@@ -3950,7 +3950,7 @@
         "num_code": 581,
         "demonym_male": "United States Minor Outlying Islander",
         "demonym_female": "United States Minor Outlying Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".um",
         "flag_emoji": "🇺🇲",
         "calling_code": [
@@ -3967,7 +3967,7 @@
         "num_code": 858,
         "demonym_male": "Uruguayan",
         "demonym_female": "Uruguayan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".uy",
         "flag_emoji": "🇺🇾",
         "calling_code": [
@@ -3984,7 +3984,7 @@
         "num_code": 840,
         "demonym_male": "American",
         "demonym_female": "American",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".us",
         "flag_emoji": "🇺🇸",
         "calling_code": [
@@ -4001,7 +4001,7 @@
         "num_code": 860,
         "demonym_male": "Uzbekistani",
         "demonym_female": "Uzbekistani",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".uz",
         "flag_emoji": "🇺🇿",
         "calling_code": [
@@ -4018,7 +4018,7 @@
         "num_code": 336,
         "demonym_male": "Vatican",
         "demonym_female": "Vatican",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".va",
         "flag_emoji": "🇻🇦",
         "calling_code": [
@@ -4035,7 +4035,7 @@
         "num_code": 670,
         "demonym_male": "Saint Vincentian",
         "demonym_female": "Saint Vincentian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".vc",
         "flag_emoji": "🇻🇨",
         "calling_code": [
@@ -4052,7 +4052,7 @@
         "num_code": 862,
         "demonym_male": "Venezuelan",
         "demonym_female": "Venezuelan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ve",
         "flag_emoji": "🇻🇪",
         "calling_code": [
@@ -4069,7 +4069,7 @@
         "num_code": 92,
         "demonym_male": "British Virgin Islander",
         "demonym_female": "British Virgin Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".vg",
         "flag_emoji": "🇻🇬",
         "calling_code": [
@@ -4086,7 +4086,7 @@
         "num_code": 850,
         "demonym_male": "U.S. Virgin Islander",
         "demonym_female": "U.S. Virgin Islander",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".vi",
         "flag_emoji": "🇻🇮",
         "calling_code": [
@@ -4103,7 +4103,7 @@
         "num_code": 704,
         "demonym_male": "Vietnamese",
         "demonym_female": "Vietnamese",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".vn",
         "flag_emoji": "🇻🇳",
         "calling_code": [
@@ -4120,7 +4120,7 @@
         "num_code": 548,
         "demonym_male": "Ni-Vanuatu",
         "demonym_female": "Ni-Vanuatu",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".vu",
         "flag_emoji": "🇻🇺",
         "calling_code": [
@@ -4137,7 +4137,7 @@
         "num_code": 876,
         "demonym_male": "Wallisian / Futunan",
         "demonym_female": "Wallisian / Futunan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".wf",
         "flag_emoji": "🇼🇫",
         "calling_code": [
@@ -4154,7 +4154,7 @@
         "num_code": 882,
         "demonym_male": "Samoan",
         "demonym_female": "Samoan",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ws",
         "flag_emoji": "🇼🇸",
         "calling_code": [
@@ -4171,7 +4171,7 @@
         "num_code": 887,
         "demonym_male": "Yemeni",
         "demonym_female": "Yemeni",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".ye",
         "flag_emoji": "🇾🇪",
         "calling_code": [
@@ -4188,7 +4188,7 @@
         "num_code": 710,
         "demonym_male": "South African",
         "demonym_female": "South African",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".za",
         "flag_emoji": "🇿🇦",
         "calling_code": [
@@ -4205,7 +4205,7 @@
         "num_code": 894,
         "demonym_male": "Zambian",
         "demonym_female": "Zambian",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".zm",
         "flag_emoji": "🇿🇲",
         "calling_code": [
@@ -4222,7 +4222,7 @@
         "num_code": 716,
         "demonym_male": "Zimbabwean",
         "demonym_female": "Zimbabwean",
-        "gendered_demonym": true,
+        "gendered_demonym": false,
         "tld": ".zw",
         "flag_emoji": "🇿🇼",
         "calling_code": [
