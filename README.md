@@ -237,6 +237,14 @@ This function returns a trimmed down set of country data for each country on the
 
 If you need absolutely all information about every country on a continent use the `findAllMatchedCountries()` function with a continent entered.
 
+### List All Countries:
+
+You can call `getAllCountries()` to return the complete countries data set. The response is properly typed so it should be decently easy to work with.
+
+This is a massive array of objects for every country on Earth contained in the ISO 3166 list.
+
+This may be helpful for understanding the data shapes, visualizing all the data, or shaping information in ways the package functions/APIs do not support natively.
+
 ## To-Do List:
 This package was started as part of language classification and news analytics projects I'm working on in my personal time.
 
