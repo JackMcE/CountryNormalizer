@@ -5,6 +5,7 @@ import {
 
 import { getContactFieldsByAlpha2 } from "./src/getCountryContactData";
 import { getCountriesByContinent } from "./src/getCountriesByContinent";
+import { getAllCountries } from "./src/getAllCountries";
 
 import type {
   AllCountryFields,
@@ -18,6 +19,7 @@ export {
   findAllMatchedCountries,
   getContactFieldsByAlpha2,
   getCountriesByContinent,
+  getAllCountries,
 };
 export type {
   AllCountryFields,
