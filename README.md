@@ -245,6 +245,26 @@ This is a massive array of objects for every country on Earth contained in the I
 
 This may be helpful for understanding the data shapes, visualizing all the data, or shaping information in ways the package functions/APIs do not support natively.
 
+## Data Sources:
+This data is compiled from a wide array of sources. To give transparency to this I want to document the primary source or reason for each field.
+
+* common_reference: This is a field made up by me as the publisher. This is how people might "commonly refer to a country" in conversation. The full name of Iran formally is "Iran, Islamic Republic of" but most people just say "Iran." That is the idea behind this field. Easily lookup how most English speakers would refer to a country.
+* english_clean: This comes off of the "country name using title case" column on the wikipedia Alpha 2 documentation for ISO 3166: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+* formal_order: On Wikipedia and other sources for easy Alpabetization they order countries by common names. So "Netherlands, Kingdom of the", this just puts it in order as "Kingdom of the Netherlands."
+* alpha_2: ISO 3166 Alpha 2 values as listed on wikipedia: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+* alpha_3: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+* num_code: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+* demonym_male: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
+* demonym_female: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
+* gendered_demonym: Manual alignment in Google Sheet by me comparing `demonym_male` and `demonym_male` for string differences and setting a boolean.
+* tld: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+* flag_emoji: Used table available on Flagepedia and then cleaned up the data for easy usage in CSVs and JSON objects: https://flagpedia.net/emoji
+* calling_code: ChatGPT compiled deep research task. Instructed to rely primarily on these data sources to make data easily worked with in a CSV and as JSON objects.
+* * https://en.wikipedia.org/wiki/Trunk_prefix
+* * https://en.wikipedia.org/wiki/List_of_telephone_country_codes
+* * https://www.countrycode.org/
+* continent: ChatGPT deep research compiled list asking to align all ISO Alpha 3 country codes to their continent.
+
 ## To-Do List:
 This package was started as part of language classification and news analytics projects I'm working on in my personal time.
 
