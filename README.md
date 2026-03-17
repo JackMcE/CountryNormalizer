@@ -248,7 +248,7 @@ This may be helpful for understanding the data shapes, visualizing all the data,
 ## Data Sources:
 This data is compiled from a wide array of sources. To give transparency to this I want to document the primary source or reason for each field.
 
-* common_reference: This is a field made up by me as the publisher. This is how people might "commonly refer to a country" in conversation. The full name of Iran formally is "Iran, Islamic Republic of" but most people just say "Iran." That is the idea behind this field. Easily lookup how most English speakers would refer to a country.
+* common_reference: A field for how people might commonly refer to a country in conversation or normal parlance shorthand. All special characters are removed except dashes, commas, and parentheses. This makes searching by standard keyboard entry easier. For example, `Türkiye` is commonly typed as `Turkey`. This field helps flatten and make searching for these countries easier. The naming conventions here are purely an executive decision by me, the maintainer. All values are unique.
 * english_clean: This comes off of the "country name using title case" column on the wikipedia Alpha 2 documentation for ISO 3166: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 * formal_order: On Wikipedia and other sources for easy Alpabetization they order countries by common names. So "Netherlands, Kingdom of the", this just puts it in order as "Kingdom of the Netherlands."
 * alpha_2: ISO 3166 Alpha 2 values as listed on wikipedia: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
@@ -260,9 +260,9 @@ This data is compiled from a wide array of sources. To give transparency to this
 * tld: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 * flag_emoji: Used table available on Flagepedia and then cleaned up the data for easy usage in CSVs and JSON objects: https://flagpedia.net/emoji
 * calling_code: ChatGPT compiled deep research task. Instructed to rely primarily on these data sources to make data easily worked with in a CSV and as JSON objects.
-* * https://en.wikipedia.org/wiki/Trunk_prefix
-* * https://en.wikipedia.org/wiki/List_of_telephone_country_codes
-* * https://www.countrycode.org/
+* - https://en.wikipedia.org/wiki/Trunk_prefix
+* - https://en.wikipedia.org/wiki/List_of_telephone_country_codes
+* - https://www.countrycode.org/
 * continent: ChatGPT deep research compiled list asking to align all ISO Alpha 3 country codes to their continent.
 
 ## To-Do List:

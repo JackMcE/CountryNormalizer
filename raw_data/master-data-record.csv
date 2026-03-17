@@ -26,7 +26,7 @@ Bulgaria,Bulgaria,Bulgaria,BG,BGR,100,Bulgarian,Bulgarian,FALSE,.bg,🇧🇬,359
 Bahrain,Bahrain,Bahrain,BH,BHR,48,Bahraini,Bahraini,FALSE,.bh,🇧🇭,973,Asia
 Bahamas,Bahamas,Bahamas,BS,BHS,44,Bahamian,Bahamian,FALSE,.bs,🇧🇸,1-242,North America
 Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,70,"Bosnian, Herzegovinian","Bosnian, Herzegovinian",FALSE,.ba,🇧🇦,387,Europe
-Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,BL,BLM,652,Saint-Barthélemois,Saint-Barthélemoise,TRUE,.bl,🇧🇱,590,North America
+Saint Barthelemy,Saint Barthélemy,Saint Barthélemy,BL,BLM,652,Saint-Barthélemois,Saint-Barthélemoise,TRUE,.bl,🇧🇱,590,North America
 Belarus,Belarus,Belarus,BY,BLR,112,Belarusian,Belarusian,FALSE,.by,🇧🇾,375,Europe
 Belize,Belize,Belize,BZ,BLZ,84,Belizean,Belizean,FALSE,.bz,🇧🇿,501,North America
 Bermuda,Bermuda,Bermuda,BM,BMU,60,Bermudian,Bermudian,FALSE,.bm,🇧🇲,1-441,North America
@@ -43,7 +43,7 @@ Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,CC,CCK,1
 Switzerland,Switzerland,Switzerland,CH,CHE,756,Swiss,Swiss,FALSE,.ch,🇨🇭,41,Europe
 Chile,Chile,Chile,CL,CHL,152,Chilean,Chilean,FALSE,.cl,🇨🇱,56,South America
 China,China,China,CN,CHN,156,Chinese,Chinese,FALSE,.cn,🇨🇳,86,Asia
-Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,384,Ivorian,Ivorian,FALSE,.ci,🇨🇮,225,Africa
+Cote d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,CI,CIV,384,Ivorian,Ivorian,FALSE,.ci,🇨🇮,225,Africa
 Cameroon,Cameroon,Cameroon,CM,CMR,120,Cameroonian,Cameroonian,FALSE,.cm,🇨🇲,237,Africa
 Democratic Republic of the Congo,"Congo, Democratic Republic of the",Democratic Republic of the Congo,CD,COD,180,Congolese,Congolese,FALSE,.cd,🇨🇩,243,Africa
 Congo,Congo,Congo,CG,COG,178,Congolese,Congolese,FALSE,.cg,🇨🇬,242,Africa
@@ -135,7 +135,7 @@ Lithuania,Lithuania,Lithuania,LT,LTU,440,Lithuanian,Lithuanian,FALSE,.lt,🇱�
 Luxembourg,Luxembourg,Luxembourg,LU,LUX,442,Luxembourger,Luxembourger,FALSE,.lu,🇱🇺,352,Europe
 Latvia,Latvia,Latvia,LV,LVA,428,Latvian,Latvian,FALSE,.lv,🇱🇻,371,Europe
 Macao,Macao,Macao,MO,MAC,446,Macanese,Macanese,FALSE,.mo,🇲🇴,853,Asia
-Saint Martin (French part),Saint Martin (French part),Saint Martin (French part),MF,MAF,663,Saint-Martinois,Saint-Martinoise,TRUE,.mf,🇲🇫,590,North America
+Saint Martin,Saint Martin (French part),Saint Martin (French part),MF,MAF,663,Saint-Martinois,Saint-Martinoise,TRUE,.mf,🇲🇫,590,North America
 Morocco,Morocco,Morocco,MA,MAR,504,Moroccan,Moroccan,FALSE,.ma,🇲🇦,212,Africa
 Monaco,Monaco,Monaco,MC,MCO,492,Monegasque,Monegasque,FALSE,.mc,🇲🇨,377,Europe
 Moldova,"Moldova, Republic of",Republic of Moldova,MD,MDA,498,Moldovan,Moldovan,FALSE,.md,🇲🇩,373,Europe
@@ -186,7 +186,7 @@ Paraguay,Paraguay,Paraguay,PY,PRY,600,Paraguayan,Paraguayan,FALSE,.py,🇵🇾,5
 Palestine,"Palestine, State of",State of Palestine,PS,PSE,275,Palestinian,Palestinian,FALSE,.ps,🇵🇸,"970,972",Asia
 French Polynesia,French Polynesia,French Polynesia,PF,PYF,258,French Polynesian,French Polynesian,FALSE,.pf,🇵🇫,689,Oceania
 Qatar,Qatar,Qatar,QA,QAT,634,Qatari,Qatari,FALSE,.qa,🇶🇦,974,Asia
-Réunion,Réunion,Réunion,RE,REU,638,Réunionnais,Réunionnaise,TRUE,.re,🇷🇪,262,Africa
+Reunion,Réunion,Réunion,RE,REU,638,Réunionnais,Réunionnaise,TRUE,.re,🇷🇪,262,Africa
 Romania,Romania,Romania,RO,ROU,642,Romanian,Romanian,FALSE,.ro,🇷🇴,40,Europe
 Russian Federation,Russian Federation,Russian Federation,RU,RUS,643,Russian,Russian,FALSE,.ru,🇷🇺,7,Europe
 Rwanda,Rwanda,Rwanda,RW,RWA,646,Rwandan,Rwandan,FALSE,.rw,🇷🇼,250,Africa
@@ -211,7 +211,7 @@ Slovakia,Slovakia,Slovakia,SK,SVK,703,Slovak,Slovak,FALSE,.sk,🇸🇰,421,Europ
 Slovenia,Slovenia,Slovenia,SI,SVN,705,Slovene,Slovene,FALSE,.si,🇸🇮,386,Europe
 Sweden,Sweden,Sweden,SE,SWE,752,Swedish,Swedish,FALSE,.se,🇸🇪,46,Europe
 Eswatini,Eswatini,Eswatini,SZ,SWZ,748,Swazi,Swazi,FALSE,.sz,🇸🇿,268,Africa
-Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,SXM,534,Sint Maartener,Sint Maartener,FALSE,.sx,🇸🇽,1-721,North America
+Sint Maarten,Sint Maarten (Dutch part),Sint Maarten (Dutch part),SX,SXM,534,Sint Maartener,Sint Maartener,FALSE,.sx,🇸🇽,1-721,North America
 Seychelles,Seychelles,Seychelles,SC,SYC,690,Seychellois,Seychellois,FALSE,.sc,🇸🇨,248,Africa
 Syrian Arab Republic,Syrian Arab Republic,Syrian Arab Republic,SY,SYR,760,Syrian,Syrian,FALSE,.sy,🇸🇾,963,Asia
 Turks and Caicos,Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,796,Turks and Caicos Islander,Turks and Caicos Islander,FALSE,.tc,🇹🇨,1-649,North America
@@ -225,7 +225,7 @@ Timor-Leste,Timor-Leste,Timor-Leste,TL,TLS,626,East Timorese,East Timorese,FALSE
 Tonga,Tonga,Tonga,TO,TON,776,Tongan,Tongan,FALSE,.to,🇹🇴,676,Oceania
 Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,TT,TTO,780,Trinidadian,Trinidadian,FALSE,.tt,🇹🇹,1-868,North America
 Tunisia,Tunisia,Tunisia,TN,TUN,788,Tunisian,Tunisian,FALSE,.tn,🇹🇳,216,Africa
-Türkiye,Türkiye,Türkiye,TR,TUR,792,Turkish,Turkish,FALSE,.tr,🇹🇷,90,Asia
+Turkey,Türkiye,Republic of Türkiye,TR,TUR,792,Turkish,Turkish,FALSE,.tr,🇹🇷,90,Asia
 Tuvalu,Tuvalu,Tuvalu,TV,TUV,798,Tuvaluan,Tuvaluan,FALSE,.tv,🇹🇻,688,Oceania
 Taiwan,"Taiwan, Province of China","Taiwan, Province of China",TW,TWN,158,Taiwanese,Taiwanese,FALSE,.tw,🇹🇼,886,Asia
 Tanzania,"Tanzania, United Republic of",United Republic of Tanzania,TZ,TZA,834,Tanzanian,Tanzanian,FALSE,.tz,🇹🇿,255,Africa

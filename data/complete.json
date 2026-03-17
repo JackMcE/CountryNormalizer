@@ -457,7 +457,7 @@
         "continent": "Europe"
     },
     {
-        "common_reference": "Saint Barthélemy",
+        "common_reference": "Saint Barthelemy",
         "english_clean": "Saint Barthélemy",
         "formal_order": "Saint Barthélemy",
         "alpha_2": "BL",
@@ -744,7 +744,7 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Côte d'Ivoire",
+        "common_reference": "Cote d'Ivoire",
         "english_clean": "Côte d'Ivoire",
         "formal_order": "Côte d'Ivoire",
         "alpha_2": "CI",
@@ -2308,7 +2308,7 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Saint Martin (French part)",
+        "common_reference": "Saint Martin",
         "english_clean": "Saint Martin (French part)",
         "formal_order": "Saint Martin (French part)",
         "alpha_2": "MF",
@@ -3177,7 +3177,7 @@
         "continent": "Asia"
     },
     {
-        "common_reference": "Réunion",
+        "common_reference": "Reunion",
         "english_clean": "Réunion",
         "formal_order": "Réunion",
         "alpha_2": "RE",
@@ -3602,7 +3602,7 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Sint Maarten (Dutch part)",
+        "common_reference": "Sint Maarten",
         "english_clean": "Sint Maarten (Dutch part)",
         "formal_order": "Sint Maarten (Dutch part)",
         "alpha_2": "SX",
@@ -3840,9 +3840,9 @@
         "continent": "Africa"
     },
     {
-        "common_reference": "Türkiye",
+        "common_reference": "Turkey",
         "english_clean": "Türkiye",
-        "formal_order": "Türkiye",
+        "formal_order": "Republic of Türkiye",
         "alpha_2": "TR",
         "alpha_3": "TUR",
         "num_code": 792,
