@@ -1,7 +1,5 @@
-import {
-  findCountryByUnique,
-  findAllMatchedCountries,
-} from "./src/findCountryByUnqiue";
+import { findCountryByUnique } from "./src/findCountryByUnqiue";
+import { findAllMatchedCountries } from "./src/findAllMatchedCountries";
 
 import { getContactFieldsByAlpha2 } from "./src/getCountryContactData";
 import { getCountriesByContinent } from "./src/getCountriesByContinent";

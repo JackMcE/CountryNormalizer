@@ -22,12 +22,12 @@ Developers routinely need to mix and match pieces of country data across an appl
 
 Some common examples are:
 
-* Retrieve a country's full name based on an ISO Alpha 2 or Alpha 3 code.
-* Turn a user-entered country name back into an ISO Alpha 2 or 3 code for API standardization.
-* Load a country's flag/flag emoji based on a user input or phone number input.
-* Standardize the name of a country or input from many different references to a country.
-* List all countries on a continent for location selection.
-* Find countries that correspond to a particular phone number's calling code.
+- Retrieve a country's full name based on an ISO Alpha 2 or Alpha 3 code.
+- Turn a user-entered country name back into an ISO Alpha 2 or 3 code for API standardization.
+- Load a country's flag/flag emoji based on a user input or phone number input.
+- Standardize the name of a country or input from many different references to a country.
+- List all countries on a continent for location selection.
+- Find countries that correspond to a particular phone number's calling code.
 
 There are lots of good libraries out there that handle one of these functions at a time. Turning ISO 3166-1 alpha-2 into full names, or phone number into country flags, and so on and so forth.
 
@@ -43,14 +43,14 @@ The `findCountryByUnique(needle: string | number): AllCountryFields | null` can 
 
 The guaranteed unique fields are:
 
-* ISO 3166-1 number: The unique ISO 3166-1 number values where there are no duplicate values across all countries.
-* ISO 3166-1 alpha-2: Two letter guaranteed unique country code values.
-* ISO 3166-1 alpha-3: Three letter guaranteed unique country code values.
-* `english_clean`: English country names from the ISO 3166 standard as listed on Wikipedia.
-* `formal_order`: The naturally spoken order of a country's formal name from the ISO 3166 standard. For instance, the `english_clean` for the Netherlands is `Netherlands, Kingdom of the`, while the `formal_order` is `Kingdom of the Netherlands` — the way the country would be referenced in formal international or political conversation.
-* `common_reference`: Maps country names to how they would be referred to in normal casual conversation. So `Kingdom of the Netherlands` is just `Netherlands`. The `Holy See` is `Vatican City`. You can probably use common sense to arrive at most of these.
-* `flag_emoji`: The Unicode standard dictates that all ISO 3166 countries shall have an emoji flag. As such you can search the emoji of a flag as input and retrieve all data for that country.
-* `tld (top-level domain)` - Searches for the countries top-level domain match.
+- ISO 3166-1 number: The unique ISO 3166-1 number values where there are no duplicate values across all countries.
+- ISO 3166-1 alpha-2: Two letter guaranteed unique country code values.
+- ISO 3166-1 alpha-3: Three letter guaranteed unique country code values.
+- `english_clean`: English country names from the ISO 3166 standard as listed on Wikipedia.
+- `formal_order`: The naturally spoken order of a country's formal name from the ISO 3166 standard. For instance, the `english_clean` for the Netherlands is `Netherlands, Kingdom of the`, while the `formal_order` is `Kingdom of the Netherlands` — the way the country would be referenced in formal international or political conversation.
+- `common_reference`: Maps country names to how they would be referred to in normal casual conversation. So `Kingdom of the Netherlands` is just `Netherlands`. The `Holy See` is `Vatican City`. You can probably use common sense to arrive at most of these.
+- `flag_emoji`: The Unicode standard dictates that all ISO 3166 countries shall have an emoji flag. As such you can search the emoji of a flag as input and retrieve all data for that country.
+- `tld (top-level domain)` - Searches for the countries top-level domain match.
 
 The returned country structure will match the `AllCountryFields` type and look like this...
 
@@ -162,6 +162,7 @@ This function still supports singular lookup. Entering something like `findAllMa
 Entering a text value into this function that yields no results will return an empty (`[]`) array.
 
 ### Get Countries Contact Fields:
+
 It is common for applications to want to get the contact fields such as calling code blocks for the country, the flag of the country for visual identification, or top-level domains.
 
 In order to keep a smaller object available to work with and for tree-shaking consumer facing apps you can call `getContactFieldsByAlpha2(alpha2: string): ContactCountryFields | null` in order to get a response object of only the countries contact fields.
@@ -179,6 +180,7 @@ In order to keep a smaller object available to work with and for tree-shaking co
 If the input does not match a valid ISO Alpha 2 value function returns `null`. The inputs ARE NOT keyed and open ended. Since this kind of data lookup is often times done based on open ended user input it is easier to simply check any string coming in and handle it vs making applications have to typecheck the input lookup.
 
 ### Get All Countries For Continent:
+
 In cases where you need to make a location selection you may want to query all countries located on a continent.
 
 You can use `getCountriesByContinent(searchContinent: ContinentNames): ContinentTrimmedFields[]` function. This function requires a specifically matched enum input of continent names. It can be imported via `ContinentNames`.
@@ -246,36 +248,38 @@ This is a massive array of objects for every country on Earth contained in the I
 This may be helpful for understanding the data shapes, visualizing all the data, or shaping information in ways the package functions/APIs do not support natively.
 
 ## Data Sources:
+
 This data is compiled from a wide array of sources. To give transparency to this I want to document the primary source or reason for each field.
 
-* common_reference: A field for how people might commonly refer to a country in conversation or normal parlance shorthand. All special characters are removed except dashes, commas, and parentheses. This makes searching by standard keyboard entry easier. For example, `Türkiye` is commonly typed as `Turkey`. This field helps flatten and make searching for these countries easier. The naming conventions here are purely an executive decision by me, the maintainer. All values are unique.
-* english_clean: This comes off of the "country name using title case" column on the wikipedia Alpha 2 documentation for ISO 3166: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-* formal_order: On Wikipedia and other sources for easy Alpabetization they order countries by common names. So "Netherlands, Kingdom of the", this just puts it in order as "Kingdom of the Netherlands."
-* alpha_2: ISO 3166 Alpha 2 values as listed on wikipedia: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-* alpha_3: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
-* num_code: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
-* demonym_male: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
-* demonym_female: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
-* gendered_demonym: Manual alignment in Google Sheet by me comparing `demonym_male` and `demonym_male` for string differences and setting a boolean.
-* tld: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
-* flag_emoji: Used table available on Flagepedia and then cleaned up the data for easy usage in CSVs and JSON objects: https://flagpedia.net/emoji
-* calling_code: ChatGPT compiled deep research task. Instructed to rely primarily on these data sources to make data easily worked with in a CSV and as JSON objects.
-* - https://en.wikipedia.org/wiki/Trunk_prefix
-* - https://en.wikipedia.org/wiki/List_of_telephone_country_codes
-* - https://www.countrycode.org/
-* continent: ChatGPT deep research compiled list asking to align all ISO Alpha 3 country codes to their continent.
+- common_reference: A field for how people might commonly refer to a country in conversation or normal parlance shorthand. All special characters are removed except dashes, commas, and parentheses. This makes searching by standard keyboard entry easier. For example, `Türkiye` is commonly typed as `Turkey`. This field helps flatten and make searching for these countries easier. The naming conventions here are purely an executive decision by me, the maintainer. All values are unique.
+- english_clean: This comes off of the "country name using title case" column on the wikipedia Alpha 2 documentation for ISO 3166: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+- formal_order: On Wikipedia and other sources for easy Alpabetization they order countries by common names. So "Netherlands, Kingdom of the", this just puts it in order as "Kingdom of the Netherlands."
+- alpha_2: ISO 3166 Alpha 2 values as listed on wikipedia: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+- alpha_3: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+- num_code: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+- demonym_male: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
+- demonym_female: ChatGTP deep research compiled CSV dataset asking it to align ISO Alpha 3 codes to demonym by country for both male and female.
+- gendered_demonym: Manual alignment in Google Sheet by me comparing `demonym_male` and `demonym_male` for string differences and setting a boolean.
+- tld: Taken from Wikipedia ISO 3166 master table: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+- flag_emoji: Used table available on Flagepedia and then cleaned up the data for easy usage in CSVs and JSON objects: https://flagpedia.net/emoji
+- calling_code: ChatGPT compiled deep research task. Instructed to rely primarily on these data sources to make data easily worked with in a CSV and as JSON objects.
+- - https://en.wikipedia.org/wiki/Trunk_prefix
+- - https://en.wikipedia.org/wiki/List_of_telephone_country_codes
+- - https://www.countrycode.org/
+- continent: ChatGPT deep research compiled list asking to align all ISO Alpha 3 country codes to their continent.
 
 ## To-Do List:
+
 This package was started as part of language classification and news analytics projects I'm working on in my personal time.
 
 I've enjoyed building it out but wanted to publish something for starters so I don't let this languish on my personal computer for too long.
 
 Over the next few weeks (hopefully) I plan to build out the following...
 
-* ~~tld search support should be added to unique lookups since these are unique values.~~
-* Optimize the search order of data when performing lookups.
-* Clean up some of the `common_reference` values. A lot of these are executive decisions I quickly made and could be better researched or refined.
-* ~~Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.~~
-* Flesh out more complete unit testing. I have a few running right now checking ISO number values but all data values should be validated.
-* Add size optimized lookups for common operations. Currently the `complete.json` object used for country data is rather large and bloats this library. I want to make smaller, tree-shakable functions to handle only certain data queries on the fly.
-* Set up a small website to visualize all this data in an accessible table for using alongside this library. Right now a lot of it is just compiled in a haphazard Google Doc where I did my initial organizing before translating a CSV into a JSON file.
+- ~~tld search support should be added to unique lookups since these are unique values.~~
+- Optimize the search order of data when performing lookups.
+- Clean up some of the `common_reference` values. A lot of these are executive decisions I quickly made and could be better researched or refined.
+- ~~Provide better documentation on the data sources for each of these fields to help assure people of data validity and no collisions of unique data points.~~
+- Flesh out more complete unit testing. I have a few running right now checking ISO number values but all data values should be validated.
+- Add size optimized lookups for common operations. Currently the `complete.json` object used for country data is rather large and bloats this library. I want to make smaller, tree-shakable functions to handle only certain data queries on the fly.
+- Set up a small website to visualize all this data in an accessible table for using alongside this library. Right now a lot of it is just compiled in a haphazard Google Doc where I did my initial organizing before translating a CSV into a JSON file.

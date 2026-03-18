@@ -60,7 +60,10 @@
   "scripts": {
     "build": "bun run build.ts",
     "test": "bun test",
-    "extract-data": "bun ./tools/build-data.ts"
+    "extract-data": "bun ./tools/build-data.ts",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noemit"
   },
   "devDependencies": {
     "@types/bun": "latest",
@@ -68,7 +71,8 @@
     "@types/lodash": "^4.17.24",
     "csvtojson": "^2.0.14",
     "jest": "^30.2.0",
-    "lodash": "^4.17.23"
+    "lodash": "^4.17.23",
+    "prettier": "^3.8.1"
   },
   "peerDependencies": {
     "typescript": "^5"
