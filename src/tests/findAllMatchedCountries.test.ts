@@ -31,6 +31,8 @@ describe("findAllMatchedCountries() number based inputs", () => {
       demonym_male: "Ukrainian",
       demonym_female: "Ukrainian",
       gendered_demonym: false,
+      official_languages: ["uk"],
+      lang_defacto: false,
       tld: ".ua",
       flag_emoji: "🇺🇦",
       calling_code: ["380"],

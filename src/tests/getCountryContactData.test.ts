@@ -8,6 +8,8 @@ describe("contact fields lookup testing", () => {
     expect(lookup?.flag_emoji).toBe("🇬🇲");
     expect(Array.isArray(lookup?.calling_code)).toBe(true);
     expect(lookup?.calling_code[0]).toBe("220");
+    expect(lookup?.official_languages).toEqual(["en"]);
+    expect(lookup?.lang_defacto).toBe(false);
   });
 
   test("Invalid alpha 2 returns null", () => {

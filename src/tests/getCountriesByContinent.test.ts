@@ -63,12 +63,12 @@ describe("Check fields on countries returned", () => {
 
     const arubaData = lookup[0];
 
-    expect(arubaData?.english_clean).toBe("Aruba");
-    expect(arubaData?.formal_order).toBe("Aruba");
-    expect(arubaData?.alpha_2).toBe("AW");
-    expect(arubaData?.alpha_3).toBe("ABW");
-    expect(arubaData?.num_code).toBe(533);
-    expect(arubaData?.tld).toBe(".aw");
-    expect(arubaData?.flag_emoji).toBe("🇦🇼");
+    expect(arubaData?.english_clean).toBe("Antigua and Barbuda");
+    expect(arubaData?.formal_order).toBe("Antigua and Barbuda");
+    expect(arubaData?.alpha_2).toBe("AG");
+    expect(arubaData?.alpha_3).toBe("ATG");
+    expect(arubaData?.num_code).toBe(28);
+    expect(arubaData?.tld).toBe(".ag");
+    expect(arubaData?.flag_emoji).toBe("🇦🇬");
   });
 });
