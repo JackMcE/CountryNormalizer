@@ -82,8 +82,7 @@ const getValidatedAndFormattedRaw = async (): Promise<AllCountryFields[]> => {
         : country.official_languages.split(";");
 
     country.lang_defacto =
-      country.official_languages.length === 0 ||
-      country.lang_defacto.toLowerCase() === "true"
+      country.lang_defacto.toLowerCase() === "true" || country.alpha_2 === "AQ"
         ? true
         : false;
 

@@ -65,6 +65,8 @@ The returned country structure will match the `AllCountryFields` type and look l
       demonym_male: "American",
       demonym_female: "American",
       gendered_demonym: true,
+      official_languages: ["en"],
+      lang_defacto: false,
       tld: ".us",
       flag_emoji: "🇺🇸",
       calling_code: ["1"],
@@ -76,7 +78,12 @@ The returned country structure will match the `AllCountryFields` type and look l
 
 You can use `findAllMatchedCountries(needle: string | number): AllCountryFields[]` to get all countries that match a particular data point.
 
-Certain pieces of country data are not unique but still routinely need to be searched for.
+Certain pieces of country data are not unique but still routinely need to be searched for. In addition to all unique fields, this function also searches:
+
+- `calling_code` — phone calling codes (e.g. `"+1"`, `"44"`)
+- `continent` — continent name (e.g. `"Asia"`)
+- `demonym_male` / `demonym_female` — demonyms (e.g. `"Canadian"`)
+- `official_languages` — ISO 639 language codes (e.g. `"fr"`, `"es"`)
 
 A common example of this is calling codes. Most of North America uses the `+1` calling code block. Using a `needle` value of `1` or `+1` will return an array of country data like...
 
@@ -91,6 +98,8 @@ A common example of this is calling codes. Most of North America uses the `+1` c
         "demonym_male": "American",
         "demonym_female": "American",
         "gendered_demonym": true,
+        "official_languages": ["en"],
+        "lang_defacto": false,
         "tld": ".us",
         "flag_emoji": "🇺🇸",
         "calling_code": [
@@ -108,6 +117,8 @@ A common example of this is calling codes. Most of North America uses the `+1` c
         "demonym_male": "United States Minor Outlying Islander",
         "demonym_female": "United States Minor Outlying Islander",
         "gendered_demonym": true,
+        "official_languages": ["en"],
+        "lang_defacto": false,
         "tld": ".um",
         "flag_emoji": "🇺🇲",
         "calling_code": [
@@ -125,6 +136,8 @@ A common example of this is calling codes. Most of North America uses the `+1` c
         "demonym_male": "Canadian",
         "demonym_female": "Canadian",
         "gendered_demonym": true,
+        "official_languages": ["en", "fr"],
+        "lang_defacto": false,
         "tld": ".ca",
         "flag_emoji": "🇨🇦",
         "calling_code": [
@@ -136,6 +149,8 @@ A common example of this is calling codes. Most of North America uses the `+1` c
 ```
 
 Another use case for this could be if your app has a region-based country selection and you needed all countries in Asia. You could perform a `findAllMatchedCountries('asia')` and get all countries in Asia.
+
+You can also search by ISO 639 language code to find all countries where that language is official (or de facto official). For example, `findAllMatchedCountries('fr')` returns all countries where French is an official language — France, Canada, Switzerland, and many others.
 
 This function still supports singular lookup. Entering something like `findAllMatchedCountries('GB')` will return a single item array like...
 
@@ -150,6 +165,8 @@ This function still supports singular lookup. Entering something like `findAllMa
         "demonym_male": "British",
         "demonym_female": "British",
         "gendered_demonym": true,
+        "official_languages": ["en"],
+        "lang_defacto": false,
         "tld": ".gb",
         "flag_emoji": "🇬🇧",
         "calling_code": [
@@ -173,7 +190,9 @@ In order to keep a smaller object available to work with and for tree-shaking co
    "flag_emoji": "🇬🇳",
    "calling_code": [
       "224"
-   ]
+   ],
+   "official_languages": ["fr"],
+   "lang_defacto": false
 }
 ```
 
@@ -267,6 +286,16 @@ This data is compiled from a wide array of sources. To give transparency to this
 - - https://en.wikipedia.org/wiki/List_of_telephone_country_codes
 - - https://www.countrycode.org/
 - continent: ChatGPT deep research compiled list asking to align all ISO Alpha 3 country codes to their continent.
+- official_languages: ISO 639 language codes for each country's officially recognized languages. Data sourced primarily from:
+  - https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+  - https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory
+- lang_defacto: A boolean flag indicating whether the `official_languages` entries are de facto rather than formally government-recognized. When `true`, the country has no constitutionally or legally designated official language — the listed language(s) represent the dominant language(s) in practice.
+
+### Language Data Notes
+
+**Montenegro (`ME`):** Montenegrin is not part of the ISO 639 standard — it emerged as a distinct designation following political changes in the region and is not universally recognized as a separate language by the international standards body. Serbian (`sr`) is used as a pragmatic substitute, as it is the closest ISO 639 code for the language most widely spoken in Montenegro.
+
+**Antarctica (`AQ`):** Antarctica is not a sovereign country and has no official language. It is governed under the Antarctic Treaty System, with many nations maintaining research bases there. English is set as the language (`lang_defacto: true`) because it functions as the primary working language of the international scientific community present on the continent, and most treaty nations speak English officially or as a common second language.
 
 ## To-Do List:
 

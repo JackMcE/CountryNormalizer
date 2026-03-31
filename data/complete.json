@@ -181,7 +181,7 @@
         "official_languages": [
             "en"
         ],
-        "lang_defacto": false,
+        "lang_defacto": true,
         "tld": ".aq",
         "flag_emoji": "🇦🇶",
         "calling_code": [

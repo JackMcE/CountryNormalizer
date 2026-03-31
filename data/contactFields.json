@@ -97,7 +97,7 @@
         "official_languages": [
             "en"
         ],
-        "lang_defacto": false
+        "lang_defacto": true
     },
     "AR": {
         "tld": ".ar",
