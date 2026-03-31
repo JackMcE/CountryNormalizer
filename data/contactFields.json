@@ -1,1247 +1,1767 @@
 {
-  "AW": {
-    "tld": ".aw",
-    "flag_emoji": "🇦🇼",
-    "calling_code": ["297"]
-  },
-  "AF": {
-    "tld": ".af",
-    "flag_emoji": "🇦🇫",
-    "calling_code": ["93"]
-  },
-  "AO": {
-    "tld": ".ao",
-    "flag_emoji": "🇦🇴",
-    "calling_code": ["244"]
-  },
-  "AI": {
-    "tld": ".ai",
-    "flag_emoji": "🇦🇮",
-    "calling_code": ["1-264"]
-  },
-  "AX": {
-    "tld": ".ax",
-    "flag_emoji": "🇦🇽",
-    "calling_code": ["385"]
-  },
-  "AL": {
-    "tld": ".al",
-    "flag_emoji": "🇦🇱",
-    "calling_code": ["355"]
-  },
   "AD": {
     "tld": ".ad",
     "flag_emoji": "🇦🇩",
-    "calling_code": ["376"]
+    "calling_code": ["376"],
+    "official_languages": ["ca"],
+    "lang_defacto": false
   },
   "AE": {
     "tld": ".ae",
     "flag_emoji": "🇦🇪",
-    "calling_code": ["971"]
+    "calling_code": ["971"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
   },
-  "AR": {
-    "tld": ".ar",
-    "flag_emoji": "🇦🇷",
-    "calling_code": ["54"]
-  },
-  "AM": {
-    "tld": ".am",
-    "flag_emoji": "🇦🇲",
-    "calling_code": ["374"]
-  },
-  "AS": {
-    "tld": ".as",
-    "flag_emoji": "🇦🇸",
-    "calling_code": ["1-684"]
-  },
-  "AQ": {
-    "tld": ".aq",
-    "flag_emoji": "🇦🇶",
-    "calling_code": ["672"]
-  },
-  "TF": {
-    "tld": ".tf",
-    "flag_emoji": "🇹🇫",
-    "calling_code": []
+  "AF": {
+    "tld": ".af",
+    "flag_emoji": "🇦🇫",
+    "calling_code": ["93"],
+    "official_languages": ["fa", "ps"],
+    "lang_defacto": false
   },
   "AG": {
     "tld": ".ag",
     "flag_emoji": "🇦🇬",
-    "calling_code": ["1-268"]
+    "calling_code": ["1-268"],
+    "official_languages": ["en"],
+    "lang_defacto": true
   },
-  "AU": {
-    "tld": ".au",
-    "flag_emoji": "🇦🇺",
-    "calling_code": ["61"]
+  "AI": {
+    "tld": ".ai",
+    "flag_emoji": "🇦🇮",
+    "calling_code": ["1-264"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "AL": {
+    "tld": ".al",
+    "flag_emoji": "🇦🇱",
+    "calling_code": ["355"],
+    "official_languages": ["sq"],
+    "lang_defacto": false
+  },
+  "AM": {
+    "tld": ".am",
+    "flag_emoji": "🇦🇲",
+    "calling_code": ["374"],
+    "official_languages": ["hy"],
+    "lang_defacto": false
+  },
+  "AO": {
+    "tld": ".ao",
+    "flag_emoji": "🇦🇴",
+    "calling_code": ["244"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "AQ": {
+    "tld": ".aq",
+    "flag_emoji": "🇦🇶",
+    "calling_code": ["672"],
+    "official_languages": ["en"],
+    "lang_defacto": true
+  },
+  "AR": {
+    "tld": ".ar",
+    "flag_emoji": "🇦🇷",
+    "calling_code": ["54"],
+    "official_languages": ["es"],
+    "lang_defacto": true
+  },
+  "AS": {
+    "tld": ".as",
+    "flag_emoji": "🇦🇸",
+    "calling_code": ["1-684"],
+    "official_languages": ["en", "sm"],
+    "lang_defacto": false
   },
   "AT": {
     "tld": ".at",
     "flag_emoji": "🇦🇹",
-    "calling_code": ["43"]
+    "calling_code": ["43"],
+    "official_languages": ["de"],
+    "lang_defacto": false
+  },
+  "AU": {
+    "tld": ".au",
+    "flag_emoji": "🇦🇺",
+    "calling_code": ["61"],
+    "official_languages": ["en"],
+    "lang_defacto": true
+  },
+  "AW": {
+    "tld": ".aw",
+    "flag_emoji": "🇦🇼",
+    "calling_code": ["297"],
+    "official_languages": ["nl"],
+    "lang_defacto": false
+  },
+  "AX": {
+    "tld": ".ax",
+    "flag_emoji": "🇦🇽",
+    "calling_code": ["385"],
+    "official_languages": ["sv"],
+    "lang_defacto": false
   },
   "AZ": {
     "tld": ".az",
     "flag_emoji": "🇦🇿",
-    "calling_code": ["994"]
-  },
-  "BI": {
-    "tld": ".bi",
-    "flag_emoji": "🇧🇮",
-    "calling_code": ["257"]
-  },
-  "BE": {
-    "tld": ".be",
-    "flag_emoji": "🇧🇪",
-    "calling_code": ["32"]
-  },
-  "BJ": {
-    "tld": ".bj",
-    "flag_emoji": "🇧🇯",
-    "calling_code": ["229"]
-  },
-  "BQ": {
-    "tld": ".bq",
-    "flag_emoji": "🇧🇶",
-    "calling_code": ["599"]
-  },
-  "BF": {
-    "tld": ".bf",
-    "flag_emoji": "🇧🇫",
-    "calling_code": ["226"]
-  },
-  "BD": {
-    "tld": ".bd",
-    "flag_emoji": "🇧🇩",
-    "calling_code": ["880"]
-  },
-  "BG": {
-    "tld": ".bg",
-    "flag_emoji": "🇧🇬",
-    "calling_code": ["359"]
-  },
-  "BH": {
-    "tld": ".bh",
-    "flag_emoji": "🇧🇭",
-    "calling_code": ["973"]
-  },
-  "BS": {
-    "tld": ".bs",
-    "flag_emoji": "🇧🇸",
-    "calling_code": ["1-242"]
+    "calling_code": ["994"],
+    "official_languages": ["az"],
+    "lang_defacto": false
   },
   "BA": {
     "tld": ".ba",
     "flag_emoji": "🇧🇦",
-    "calling_code": ["387"]
-  },
-  "BL": {
-    "tld": ".bl",
-    "flag_emoji": "🇧🇱",
-    "calling_code": ["590"]
-  },
-  "BY": {
-    "tld": ".by",
-    "flag_emoji": "🇧🇾",
-    "calling_code": ["375"]
-  },
-  "BZ": {
-    "tld": ".bz",
-    "flag_emoji": "🇧🇿",
-    "calling_code": ["501"]
-  },
-  "BM": {
-    "tld": ".bm",
-    "flag_emoji": "🇧🇲",
-    "calling_code": ["1-441"]
-  },
-  "BO": {
-    "tld": ".bo",
-    "flag_emoji": "🇧🇴",
-    "calling_code": ["591"]
-  },
-  "BR": {
-    "tld": ".br",
-    "flag_emoji": "🇧🇷",
-    "calling_code": ["55"]
+    "calling_code": ["387"],
+    "official_languages": ["bs", "hr", "sr"],
+    "lang_defacto": true
   },
   "BB": {
     "tld": ".bb",
     "flag_emoji": "🇧🇧",
-    "calling_code": ["1-246"]
+    "calling_code": ["1-246"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "BD": {
+    "tld": ".bd",
+    "flag_emoji": "🇧🇩",
+    "calling_code": ["880"],
+    "official_languages": ["bn"],
+    "lang_defacto": false
+  },
+  "BE": {
+    "tld": ".be",
+    "flag_emoji": "🇧🇪",
+    "calling_code": ["32"],
+    "official_languages": ["nl", "fr", "de"],
+    "lang_defacto": false
+  },
+  "BF": {
+    "tld": ".bf",
+    "flag_emoji": "🇧🇫",
+    "calling_code": ["226"],
+    "official_languages": ["ff"],
+    "lang_defacto": false
+  },
+  "BG": {
+    "tld": ".bg",
+    "flag_emoji": "🇧🇬",
+    "calling_code": ["359"],
+    "official_languages": ["bg"],
+    "lang_defacto": false
+  },
+  "BH": {
+    "tld": ".bh",
+    "flag_emoji": "🇧🇭",
+    "calling_code": ["973"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "BI": {
+    "tld": ".bi",
+    "flag_emoji": "🇧🇮",
+    "calling_code": ["257"],
+    "official_languages": ["fr", "rn", "en"],
+    "lang_defacto": false
+  },
+  "BJ": {
+    "tld": ".bj",
+    "flag_emoji": "🇧🇯",
+    "calling_code": ["229"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "BL": {
+    "tld": ".bl",
+    "flag_emoji": "🇧🇱",
+    "calling_code": ["590"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "BM": {
+    "tld": ".bm",
+    "flag_emoji": "🇧🇲",
+    "calling_code": ["1-441"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "BN": {
     "tld": ".bn",
     "flag_emoji": "🇧🇳",
-    "calling_code": ["673"]
+    "calling_code": ["673"],
+    "official_languages": ["ms"],
+    "lang_defacto": false
+  },
+  "BO": {
+    "tld": ".bo",
+    "flag_emoji": "🇧🇴",
+    "calling_code": ["591"],
+    "official_languages": ["es", "ay", "gn", "qu"],
+    "lang_defacto": false
+  },
+  "BQ": {
+    "tld": ".bq",
+    "flag_emoji": "🇧🇶",
+    "calling_code": ["599"],
+    "official_languages": ["nl", "en"],
+    "lang_defacto": false
+  },
+  "BR": {
+    "tld": ".br",
+    "flag_emoji": "🇧🇷",
+    "calling_code": ["55"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "BS": {
+    "tld": ".bs",
+    "flag_emoji": "🇧🇸",
+    "calling_code": ["1-242"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "BT": {
     "tld": ".bt",
     "flag_emoji": "🇧🇹",
-    "calling_code": ["975"]
+    "calling_code": ["975"],
+    "official_languages": ["dz"],
+    "lang_defacto": false
   },
   "BV": {
     "tld": ".bv",
     "flag_emoji": "🇧🇻",
-    "calling_code": []
+    "calling_code": [],
+    "official_languages": ["no"],
+    "lang_defacto": false
   },
   "BW": {
     "tld": ".bw",
     "flag_emoji": "🇧🇼",
-    "calling_code": ["267"]
+    "calling_code": ["267"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
-  "CF": {
-    "tld": ".cf",
-    "flag_emoji": "🇨🇫",
-    "calling_code": ["236"]
+  "BY": {
+    "tld": ".by",
+    "flag_emoji": "🇧🇾",
+    "calling_code": ["375"],
+    "official_languages": ["be", "ru"],
+    "lang_defacto": false
+  },
+  "BZ": {
+    "tld": ".bz",
+    "flag_emoji": "🇧🇿",
+    "calling_code": ["501"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "CA": {
     "tld": ".ca",
     "flag_emoji": "🇨🇦",
-    "calling_code": ["1"]
+    "calling_code": ["1"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": false
   },
   "CC": {
     "tld": ".cc",
     "flag_emoji": "🇨🇨",
-    "calling_code": ["61"]
-  },
-  "CH": {
-    "tld": ".ch",
-    "flag_emoji": "🇨🇭",
-    "calling_code": ["41"]
-  },
-  "CL": {
-    "tld": ".cl",
-    "flag_emoji": "🇨🇱",
-    "calling_code": ["56"]
-  },
-  "CN": {
-    "tld": ".cn",
-    "flag_emoji": "🇨🇳",
-    "calling_code": ["86"]
-  },
-  "CI": {
-    "tld": ".ci",
-    "flag_emoji": "🇨🇮",
-    "calling_code": ["225"]
-  },
-  "CM": {
-    "tld": ".cm",
-    "flag_emoji": "🇨🇲",
-    "calling_code": ["237"]
+    "calling_code": ["61"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "CD": {
     "tld": ".cd",
     "flag_emoji": "🇨🇩",
-    "calling_code": ["243"]
+    "calling_code": ["243"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "CF": {
+    "tld": ".cf",
+    "flag_emoji": "🇨🇫",
+    "calling_code": ["236"],
+    "official_languages": ["fr", "sg"],
+    "lang_defacto": false
   },
   "CG": {
     "tld": ".cg",
     "flag_emoji": "🇨🇬",
-    "calling_code": ["242"]
+    "calling_code": ["242"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "CH": {
+    "tld": ".ch",
+    "flag_emoji": "🇨🇭",
+    "calling_code": ["41"],
+    "official_languages": ["fr", "de", "it", "rm"],
+    "lang_defacto": false
+  },
+  "CI": {
+    "tld": ".ci",
+    "flag_emoji": "🇨🇮",
+    "calling_code": ["225"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "CK": {
     "tld": ".ck",
     "flag_emoji": "🇨🇰",
-    "calling_code": ["682"]
+    "calling_code": ["682"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "CL": {
+    "tld": ".cl",
+    "flag_emoji": "🇨🇱",
+    "calling_code": ["56"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "CM": {
+    "tld": ".cm",
+    "flag_emoji": "🇨🇲",
+    "calling_code": ["237"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": false
+  },
+  "CN": {
+    "tld": ".cn",
+    "flag_emoji": "🇨🇳",
+    "calling_code": ["86"],
+    "official_languages": ["zh"],
+    "lang_defacto": false
   },
   "CO": {
     "tld": ".co",
     "flag_emoji": "🇨🇴",
-    "calling_code": ["57"]
-  },
-  "KM": {
-    "tld": ".km",
-    "flag_emoji": "🇰🇲",
-    "calling_code": ["269"]
-  },
-  "CV": {
-    "tld": ".cv",
-    "flag_emoji": "🇨🇻",
-    "calling_code": ["238"]
+    "calling_code": ["57"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "CR": {
     "tld": ".cr",
     "flag_emoji": "🇨🇷",
-    "calling_code": ["506"]
+    "calling_code": ["506"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "CU": {
     "tld": ".cu",
     "flag_emoji": "🇨🇺",
-    "calling_code": ["53"]
+    "calling_code": ["53"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "CV": {
+    "tld": ".cv",
+    "flag_emoji": "🇨🇻",
+    "calling_code": ["238"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
   },
   "CW": {
     "tld": ".cw",
     "flag_emoji": "🇨🇼",
-    "calling_code": ["599"]
+    "calling_code": ["599"],
+    "official_languages": ["nl", "en"],
+    "lang_defacto": false
   },
   "CX": {
     "tld": ".cx",
     "flag_emoji": "🇨🇽",
-    "calling_code": ["61"]
-  },
-  "KY": {
-    "tld": ".ky",
-    "flag_emoji": "🇰🇾",
-    "calling_code": ["1-345"]
+    "calling_code": ["61"],
+    "official_languages": ["en", "ms", "zh"],
+    "lang_defacto": false
   },
   "CY": {
     "tld": ".cy",
     "flag_emoji": "🇨🇾",
-    "calling_code": ["357"]
+    "calling_code": ["357"],
+    "official_languages": ["el", "tr"],
+    "lang_defacto": false
   },
   "CZ": {
     "tld": ".cz",
     "flag_emoji": "🇨🇿",
-    "calling_code": ["420"]
+    "calling_code": ["420"],
+    "official_languages": ["cs"],
+    "lang_defacto": false
   },
   "DE": {
     "tld": ".de",
     "flag_emoji": "🇩🇪",
-    "calling_code": ["49"]
+    "calling_code": ["49"],
+    "official_languages": ["de"],
+    "lang_defacto": false
   },
   "DJ": {
     "tld": ".dj",
     "flag_emoji": "🇩🇯",
-    "calling_code": ["253"]
-  },
-  "DM": {
-    "tld": ".dm",
-    "flag_emoji": "🇩🇲",
-    "calling_code": ["1-767"]
+    "calling_code": ["253"],
+    "official_languages": ["ar", "fr"],
+    "lang_defacto": false
   },
   "DK": {
     "tld": ".dk",
     "flag_emoji": "🇩🇰",
-    "calling_code": ["45"]
+    "calling_code": ["45"],
+    "official_languages": ["da"],
+    "lang_defacto": false
+  },
+  "DM": {
+    "tld": ".dm",
+    "flag_emoji": "🇩🇲",
+    "calling_code": ["1-767"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "DO": {
     "tld": ".do",
     "flag_emoji": "🇩🇴",
-    "calling_code": ["1-809", "1-829", "1-849"]
+    "calling_code": ["1-809", "1-829", "1-849"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "DZ": {
     "tld": ".dz",
     "flag_emoji": "🇩🇿",
-    "calling_code": ["213"]
+    "calling_code": ["213"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
   },
   "EC": {
     "tld": ".ec",
     "flag_emoji": "🇪🇨",
-    "calling_code": ["593"]
-  },
-  "EG": {
-    "tld": ".eg",
-    "flag_emoji": "🇪🇬",
-    "calling_code": ["20"]
-  },
-  "ER": {
-    "tld": ".er",
-    "flag_emoji": "🇪🇷",
-    "calling_code": ["291"]
-  },
-  "EH": {
-    "tld": ".eh",
-    "flag_emoji": "🇪🇭",
-    "calling_code": []
-  },
-  "ES": {
-    "tld": ".es",
-    "flag_emoji": "🇪🇸",
-    "calling_code": ["34"]
+    "calling_code": ["593"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "EE": {
     "tld": ".ee",
     "flag_emoji": "🇪🇪",
-    "calling_code": ["372"]
+    "calling_code": ["372"],
+    "official_languages": ["et"],
+    "lang_defacto": false
+  },
+  "EG": {
+    "tld": ".eg",
+    "flag_emoji": "🇪🇬",
+    "calling_code": ["20"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "EH": {
+    "tld": ".eh",
+    "flag_emoji": "🇪🇭",
+    "calling_code": [],
+    "official_languages": ["ar"],
+    "lang_defacto": true
+  },
+  "ER": {
+    "tld": ".er",
+    "flag_emoji": "🇪🇷",
+    "calling_code": ["291"],
+    "official_languages": ["ti"],
+    "lang_defacto": false
+  },
+  "ES": {
+    "tld": ".es",
+    "flag_emoji": "🇪🇸",
+    "calling_code": ["34"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "ET": {
     "tld": ".et",
     "flag_emoji": "🇪🇹",
-    "calling_code": ["251"]
+    "calling_code": ["251"],
+    "official_languages": ["aa", "am", "om", "so", "ti"],
+    "lang_defacto": false
   },
   "FI": {
     "tld": ".fi",
     "flag_emoji": "🇫🇮",
-    "calling_code": ["358"]
+    "calling_code": ["358"],
+    "official_languages": ["fi", "sv"],
+    "lang_defacto": false
   },
   "FJ": {
     "tld": ".fj",
     "flag_emoji": "🇫🇯",
-    "calling_code": ["679"]
+    "calling_code": ["679"],
+    "official_languages": ["en", "fj"],
+    "lang_defacto": false
   },
   "FK": {
     "tld": ".fk",
     "flag_emoji": "🇫🇰",
-    "calling_code": ["500"]
-  },
-  "FR": {
-    "tld": ".fr",
-    "flag_emoji": "🇫🇷",
-    "calling_code": ["33"]
-  },
-  "FO": {
-    "tld": ".fo",
-    "flag_emoji": "🇫🇴",
-    "calling_code": ["298"]
+    "calling_code": ["500"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "FM": {
     "tld": ".fm",
     "flag_emoji": "🇫🇲",
-    "calling_code": ["691"]
+    "calling_code": ["691"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "FO": {
+    "tld": ".fo",
+    "flag_emoji": "🇫🇴",
+    "calling_code": ["298"],
+    "official_languages": ["fo", "da"],
+    "lang_defacto": false
+  },
+  "FR": {
+    "tld": ".fr",
+    "flag_emoji": "🇫🇷",
+    "calling_code": ["33"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "GA": {
     "tld": ".ga",
     "flag_emoji": "🇬🇦",
-    "calling_code": ["241"]
+    "calling_code": ["241"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "GB": {
     "tld": ".gb",
     "flag_emoji": "🇬🇧",
-    "calling_code": ["44"]
-  },
-  "GE": {
-    "tld": ".ge",
-    "flag_emoji": "🇬🇪",
-    "calling_code": ["995"]
-  },
-  "GG": {
-    "tld": ".gg",
-    "flag_emoji": "🇬🇬",
-    "calling_code": ["44"]
-  },
-  "GH": {
-    "tld": ".gh",
-    "flag_emoji": "🇬🇭",
-    "calling_code": ["233"]
-  },
-  "GI": {
-    "tld": ".gi",
-    "flag_emoji": "🇬🇮",
-    "calling_code": ["350"]
-  },
-  "GN": {
-    "tld": ".gn",
-    "flag_emoji": "🇬🇳",
-    "calling_code": ["224"]
-  },
-  "GP": {
-    "tld": ".gp",
-    "flag_emoji": "🇬🇵",
-    "calling_code": ["590"]
-  },
-  "GM": {
-    "tld": ".gm",
-    "flag_emoji": "🇬🇲",
-    "calling_code": ["220"]
-  },
-  "GW": {
-    "tld": ".gw",
-    "flag_emoji": "🇬🇼",
-    "calling_code": ["245"]
-  },
-  "GQ": {
-    "tld": ".gq",
-    "flag_emoji": "🇬🇶",
-    "calling_code": ["240"]
-  },
-  "GR": {
-    "tld": ".gr",
-    "flag_emoji": "🇬🇷",
-    "calling_code": ["30"]
+    "calling_code": ["44"],
+    "official_languages": ["en"],
+    "lang_defacto": true
   },
   "GD": {
     "tld": ".gd",
     "flag_emoji": "🇬🇩",
-    "calling_code": ["1-473"]
+    "calling_code": ["1-473"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
-  "GL": {
-    "tld": ".gl",
-    "flag_emoji": "🇬🇱",
-    "calling_code": ["299"]
-  },
-  "GT": {
-    "tld": ".gt",
-    "flag_emoji": "🇬🇹",
-    "calling_code": ["502"]
+  "GE": {
+    "tld": ".ge",
+    "flag_emoji": "🇬🇪",
+    "calling_code": ["995"],
+    "official_languages": ["ka"],
+    "lang_defacto": false
   },
   "GF": {
     "tld": ".gf",
     "flag_emoji": "🇬🇫",
-    "calling_code": ["594"]
-  },
-  "GU": {
-    "tld": ".gu",
-    "flag_emoji": "🇬🇺",
-    "calling_code": ["1-671"]
-  },
-  "GY": {
-    "tld": ".gy",
-    "flag_emoji": "🇬🇾",
-    "calling_code": ["592"]
-  },
-  "HK": {
-    "tld": ".hk",
-    "flag_emoji": "🇭🇰",
-    "calling_code": ["852"]
-  },
-  "HM": {
-    "tld": ".hm",
-    "flag_emoji": "🇭🇲",
-    "calling_code": ["61"]
-  },
-  "HN": {
-    "tld": ".hn",
-    "flag_emoji": "🇭🇳",
-    "calling_code": ["504"]
-  },
-  "HR": {
-    "tld": ".hr",
-    "flag_emoji": "🇭🇷",
-    "calling_code": ["385"]
-  },
-  "HT": {
-    "tld": ".ht",
-    "flag_emoji": "🇭🇹",
-    "calling_code": ["509"]
-  },
-  "HU": {
-    "tld": ".hu",
-    "flag_emoji": "🇭🇺",
-    "calling_code": ["36"]
-  },
-  "ID": {
-    "tld": ".id",
-    "flag_emoji": "🇮🇩",
-    "calling_code": ["62"]
-  },
-  "IM": {
-    "tld": ".im",
-    "flag_emoji": "🇮🇲",
-    "calling_code": ["44"]
-  },
-  "IN": {
-    "tld": ".in",
-    "flag_emoji": "🇮🇳",
-    "calling_code": ["91"]
-  },
-  "IO": {
-    "tld": ".io",
-    "flag_emoji": "🇮🇴",
-    "calling_code": ["246"]
-  },
-  "IE": {
-    "tld": ".ie",
-    "flag_emoji": "🇮🇪",
-    "calling_code": ["353"]
-  },
-  "IR": {
-    "tld": ".ir",
-    "flag_emoji": "🇮🇷",
-    "calling_code": ["98"]
-  },
-  "IQ": {
-    "tld": ".iq",
-    "flag_emoji": "🇮🇶",
-    "calling_code": ["964"]
-  },
-  "IS": {
-    "tld": ".is",
-    "flag_emoji": "🇮🇸",
-    "calling_code": ["354"]
-  },
-  "IL": {
-    "tld": ".il",
-    "flag_emoji": "🇮🇱",
-    "calling_code": ["972"]
-  },
-  "IT": {
-    "tld": ".it",
-    "flag_emoji": "🇮🇹",
-    "calling_code": ["39"]
-  },
-  "JM": {
-    "tld": ".jm",
-    "flag_emoji": "🇯🇲",
-    "calling_code": ["1-876"]
-  },
-  "JE": {
-    "tld": ".je",
-    "flag_emoji": "🇯🇪",
-    "calling_code": ["44"]
-  },
-  "JO": {
-    "tld": ".jo",
-    "flag_emoji": "🇯🇴",
-    "calling_code": ["962"]
-  },
-  "JP": {
-    "tld": ".jp",
-    "flag_emoji": "🇯🇵",
-    "calling_code": ["81"]
-  },
-  "KZ": {
-    "tld": ".kz",
-    "flag_emoji": "🇰🇿",
-    "calling_code": ["7"]
-  },
-  "KE": {
-    "tld": ".ke",
-    "flag_emoji": "🇰🇪",
-    "calling_code": ["254"]
-  },
-  "KG": {
-    "tld": ".kg",
-    "flag_emoji": "🇰🇬",
-    "calling_code": ["996"]
-  },
-  "KH": {
-    "tld": ".kh",
-    "flag_emoji": "🇰🇭",
-    "calling_code": ["855"]
-  },
-  "KI": {
-    "tld": ".ki",
-    "flag_emoji": "🇰🇮",
-    "calling_code": ["686"]
-  },
-  "KN": {
-    "tld": ".kn",
-    "flag_emoji": "🇰🇳",
-    "calling_code": ["1-869"]
-  },
-  "KR": {
-    "tld": ".kr",
-    "flag_emoji": "🇰🇷",
-    "calling_code": ["82"]
-  },
-  "KW": {
-    "tld": ".kw",
-    "flag_emoji": "🇰🇼",
-    "calling_code": ["965"]
-  },
-  "LA": {
-    "tld": ".la",
-    "flag_emoji": "🇱🇦",
-    "calling_code": ["856"]
-  },
-  "LB": {
-    "tld": ".lb",
-    "flag_emoji": "🇱🇧",
-    "calling_code": ["961"]
-  },
-  "LR": {
-    "tld": ".lr",
-    "flag_emoji": "🇱🇷",
-    "calling_code": ["231"]
-  },
-  "LY": {
-    "tld": ".ly",
-    "flag_emoji": "🇱🇾",
-    "calling_code": ["218"]
-  },
-  "LC": {
-    "tld": ".lc",
-    "flag_emoji": "🇱🇨",
-    "calling_code": ["1-758"]
-  },
-  "LI": {
-    "tld": ".li",
-    "flag_emoji": "🇱🇮",
-    "calling_code": ["423"]
-  },
-  "LK": {
-    "tld": ".lk",
-    "flag_emoji": "🇱🇰",
-    "calling_code": ["94"]
-  },
-  "LS": {
-    "tld": ".ls",
-    "flag_emoji": "🇱🇸",
-    "calling_code": ["266"]
-  },
-  "LT": {
-    "tld": ".lt",
-    "flag_emoji": "🇱🇹",
-    "calling_code": ["370"]
-  },
-  "LU": {
-    "tld": ".lu",
-    "flag_emoji": "🇱🇺",
-    "calling_code": ["352"]
-  },
-  "LV": {
-    "tld": ".lv",
-    "flag_emoji": "🇱🇻",
-    "calling_code": ["371"]
-  },
-  "MO": {
-    "tld": ".mo",
-    "flag_emoji": "🇲🇴",
-    "calling_code": ["853"]
-  },
-  "MF": {
-    "tld": ".mf",
-    "flag_emoji": "🇲🇫",
-    "calling_code": ["590"]
-  },
-  "MA": {
-    "tld": ".ma",
-    "flag_emoji": "🇲🇦",
-    "calling_code": ["212"]
-  },
-  "MC": {
-    "tld": ".mc",
-    "flag_emoji": "🇲🇨",
-    "calling_code": ["377"]
-  },
-  "MD": {
-    "tld": ".md",
-    "flag_emoji": "🇲🇩",
-    "calling_code": ["373"]
-  },
-  "MG": {
-    "tld": ".mg",
-    "flag_emoji": "🇲🇬",
-    "calling_code": ["261"]
-  },
-  "MV": {
-    "tld": ".mv",
-    "flag_emoji": "🇲🇻",
-    "calling_code": ["960"]
-  },
-  "MX": {
-    "tld": ".mx",
-    "flag_emoji": "🇲🇽",
-    "calling_code": ["52"]
-  },
-  "MH": {
-    "tld": ".mh",
-    "flag_emoji": "🇲🇭",
-    "calling_code": ["692"]
-  },
-  "MK": {
-    "tld": ".mk",
-    "flag_emoji": "🇲🇰",
-    "calling_code": ["389"]
-  },
-  "ML": {
-    "tld": ".ml",
-    "flag_emoji": "🇲🇱",
-    "calling_code": ["223"]
-  },
-  "MT": {
-    "tld": ".mt",
-    "flag_emoji": "🇲🇹",
-    "calling_code": ["356"]
-  },
-  "MM": {
-    "tld": ".mm",
-    "flag_emoji": "🇲🇲",
-    "calling_code": ["95"]
-  },
-  "ME": {
-    "tld": ".me",
-    "flag_emoji": "🇲🇪",
-    "calling_code": ["382"]
-  },
-  "MN": {
-    "tld": ".mn",
-    "flag_emoji": "🇲🇳",
-    "calling_code": ["976"]
-  },
-  "MP": {
-    "tld": ".mp",
-    "flag_emoji": "🇲🇵",
-    "calling_code": ["1-670"]
-  },
-  "MZ": {
-    "tld": ".mz",
-    "flag_emoji": "🇲🇿",
-    "calling_code": ["258"]
-  },
-  "MR": {
-    "tld": ".mr",
-    "flag_emoji": "🇲🇷",
-    "calling_code": ["222"]
-  },
-  "MS": {
-    "tld": ".ms",
-    "flag_emoji": "🇲🇸",
-    "calling_code": ["1-664"]
-  },
-  "MQ": {
-    "tld": ".mq",
-    "flag_emoji": "🇲🇶",
-    "calling_code": ["596"]
-  },
-  "MU": {
-    "tld": ".mu",
-    "flag_emoji": "🇲🇺",
-    "calling_code": ["230"]
-  },
-  "MW": {
-    "tld": ".mw",
-    "flag_emoji": "🇲🇼",
-    "calling_code": ["265"]
-  },
-  "MY": {
-    "tld": ".my",
-    "flag_emoji": "🇲🇾",
-    "calling_code": ["60"]
-  },
-  "YT": {
-    "tld": ".yt",
-    "flag_emoji": "🇾🇹",
-    "calling_code": ["262"]
-  },
-  "NA": {
-    "tld": ".na",
-    "flag_emoji": "🇳🇦",
-    "calling_code": ["264"]
-  },
-  "NC": {
-    "tld": ".nc",
-    "flag_emoji": "🇳🇨",
-    "calling_code": ["687"]
-  },
-  "NE": {
-    "tld": ".ne",
-    "flag_emoji": "🇳🇪",
-    "calling_code": ["227"]
-  },
-  "NF": {
-    "tld": ".nf",
-    "flag_emoji": "🇳🇫",
-    "calling_code": ["672"]
-  },
-  "NG": {
-    "tld": ".ng",
-    "flag_emoji": "🇳🇬",
-    "calling_code": ["234"]
-  },
-  "NI": {
-    "tld": ".ni",
-    "flag_emoji": "🇳🇮",
-    "calling_code": ["505"]
-  },
-  "NU": {
-    "tld": ".nu",
-    "flag_emoji": "🇳🇺",
-    "calling_code": ["683"]
-  },
-  "NL": {
-    "tld": ".nl",
-    "flag_emoji": "🇳🇱",
-    "calling_code": ["31"]
-  },
-  "NO": {
-    "tld": ".no",
-    "flag_emoji": "🇳🇴",
-    "calling_code": ["47"]
-  },
-  "NP": {
-    "tld": ".np",
-    "flag_emoji": "🇳🇵",
-    "calling_code": ["977"]
-  },
-  "NR": {
-    "tld": ".nr",
-    "flag_emoji": "🇳🇷",
-    "calling_code": ["674"]
-  },
-  "NZ": {
-    "tld": ".nz",
-    "flag_emoji": "🇳🇿",
-    "calling_code": ["64"]
-  },
-  "OM": {
-    "tld": ".om",
-    "flag_emoji": "🇴🇲",
-    "calling_code": ["968"]
-  },
-  "PK": {
-    "tld": ".pk",
-    "flag_emoji": "🇵🇰",
-    "calling_code": ["92"]
-  },
-  "PA": {
-    "tld": ".pa",
-    "flag_emoji": "🇵🇦",
-    "calling_code": ["507"]
-  },
-  "PN": {
-    "tld": ".pn",
-    "flag_emoji": "🇵🇳",
-    "calling_code": ["870"]
-  },
-  "PE": {
-    "tld": ".pe",
-    "flag_emoji": "🇵🇪",
-    "calling_code": ["51"]
-  },
-  "PH": {
-    "tld": ".ph",
-    "flag_emoji": "🇵🇭",
-    "calling_code": ["63"]
-  },
-  "PW": {
-    "tld": ".pw",
-    "flag_emoji": "🇵🇼",
-    "calling_code": ["680"]
-  },
-  "PG": {
-    "tld": ".pg",
-    "flag_emoji": "🇵🇬",
-    "calling_code": ["675"]
-  },
-  "PL": {
-    "tld": ".pl",
-    "flag_emoji": "🇵🇱",
-    "calling_code": ["48"]
-  },
-  "PR": {
-    "tld": ".pr",
-    "flag_emoji": "🇵🇷",
-    "calling_code": ["1-787", "1-939"]
-  },
-  "KP": {
-    "tld": ".kp",
-    "flag_emoji": "🇰🇵",
-    "calling_code": ["850"]
-  },
-  "PT": {
-    "tld": ".pt",
-    "flag_emoji": "🇵🇹",
-    "calling_code": ["351"]
-  },
-  "PY": {
-    "tld": ".py",
-    "flag_emoji": "🇵🇾",
-    "calling_code": ["595"]
-  },
-  "PS": {
-    "tld": ".ps",
-    "flag_emoji": "🇵🇸",
-    "calling_code": ["970", "972"]
-  },
-  "PF": {
-    "tld": ".pf",
-    "flag_emoji": "🇵🇫",
-    "calling_code": ["689"]
-  },
-  "QA": {
-    "tld": ".qa",
-    "flag_emoji": "🇶🇦",
-    "calling_code": ["974"]
-  },
-  "RE": {
-    "tld": ".re",
-    "flag_emoji": "🇷🇪",
-    "calling_code": ["262"]
-  },
-  "RO": {
-    "tld": ".ro",
-    "flag_emoji": "🇷🇴",
-    "calling_code": ["40"]
-  },
-  "RU": {
-    "tld": ".ru",
-    "flag_emoji": "🇷🇺",
-    "calling_code": ["7"]
-  },
-  "RW": {
-    "tld": ".rw",
-    "flag_emoji": "🇷🇼",
-    "calling_code": ["250"]
-  },
-  "SA": {
-    "tld": ".sa",
-    "flag_emoji": "🇸🇦",
-    "calling_code": ["966"]
-  },
-  "SD": {
-    "tld": ".sd",
-    "flag_emoji": "🇸🇩",
-    "calling_code": ["249"]
-  },
-  "SN": {
-    "tld": ".sn",
-    "flag_emoji": "🇸🇳",
-    "calling_code": ["221"]
-  },
-  "SG": {
-    "tld": ".sg",
-    "flag_emoji": "🇸🇬",
-    "calling_code": ["65"]
+    "calling_code": ["594"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "GG": {
+    "tld": ".gg",
+    "flag_emoji": "🇬🇬",
+    "calling_code": ["44"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": false
+  },
+  "GH": {
+    "tld": ".gh",
+    "flag_emoji": "🇬🇭",
+    "calling_code": ["233"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "GI": {
+    "tld": ".gi",
+    "flag_emoji": "🇬🇮",
+    "calling_code": ["350"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "GL": {
+    "tld": ".gl",
+    "flag_emoji": "🇬🇱",
+    "calling_code": ["299"],
+    "official_languages": ["kl"],
+    "lang_defacto": false
+  },
+  "GM": {
+    "tld": ".gm",
+    "flag_emoji": "🇬🇲",
+    "calling_code": ["220"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "GN": {
+    "tld": ".gn",
+    "flag_emoji": "🇬🇳",
+    "calling_code": ["224"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "GP": {
+    "tld": ".gp",
+    "flag_emoji": "🇬🇵",
+    "calling_code": ["590"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "GQ": {
+    "tld": ".gq",
+    "flag_emoji": "🇬🇶",
+    "calling_code": ["240"],
+    "official_languages": ["fr", "pt", "es"],
+    "lang_defacto": false
+  },
+  "GR": {
+    "tld": ".gr",
+    "flag_emoji": "🇬🇷",
+    "calling_code": ["30"],
+    "official_languages": ["el"],
+    "lang_defacto": false
   },
   "GS": {
     "tld": ".gs",
     "flag_emoji": "🇬🇸",
-    "calling_code": ["500"]
+    "calling_code": ["500"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
-  "SH": {
-    "tld": ".sh",
-    "flag_emoji": "🇸🇭",
-    "calling_code": ["290"]
+  "GT": {
+    "tld": ".gt",
+    "flag_emoji": "🇬🇹",
+    "calling_code": ["502"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
-  "SJ": {
-    "tld": ".sj",
-    "flag_emoji": "🇸🇯",
-    "calling_code": ["47"]
+  "GU": {
+    "tld": ".gu",
+    "flag_emoji": "🇬🇺",
+    "calling_code": ["1-671"],
+    "official_languages": ["en", "ch"],
+    "lang_defacto": false
   },
-  "SB": {
-    "tld": ".sb",
-    "flag_emoji": "🇸🇧",
-    "calling_code": ["677"]
+  "GW": {
+    "tld": ".gw",
+    "flag_emoji": "🇬🇼",
+    "calling_code": ["245"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
   },
-  "SL": {
-    "tld": ".sl",
-    "flag_emoji": "🇸🇱",
-    "calling_code": ["232"]
+  "GY": {
+    "tld": ".gy",
+    "flag_emoji": "🇬🇾",
+    "calling_code": ["592"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
-  "SV": {
-    "tld": ".sv",
-    "flag_emoji": "🇸🇻",
-    "calling_code": ["503"]
+  "HK": {
+    "tld": ".hk",
+    "flag_emoji": "🇭🇰",
+    "calling_code": ["852"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
-  "SM": {
-    "tld": ".sm",
-    "flag_emoji": "🇸🇲",
-    "calling_code": ["378"]
+  "HM": {
+    "tld": ".hm",
+    "flag_emoji": "🇭🇲",
+    "calling_code": ["61"],
+    "official_languages": ["en"],
+    "lang_defacto": true
   },
-  "SO": {
-    "tld": ".so",
-    "flag_emoji": "🇸🇴",
-    "calling_code": ["252"]
+  "HN": {
+    "tld": ".hn",
+    "flag_emoji": "🇭🇳",
+    "calling_code": ["504"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "HR": {
+    "tld": ".hr",
+    "flag_emoji": "🇭🇷",
+    "calling_code": ["385"],
+    "official_languages": ["hr"],
+    "lang_defacto": false
+  },
+  "HT": {
+    "tld": ".ht",
+    "flag_emoji": "🇭🇹",
+    "calling_code": ["509"],
+    "official_languages": ["fr", "ht"],
+    "lang_defacto": false
+  },
+  "HU": {
+    "tld": ".hu",
+    "flag_emoji": "🇭🇺",
+    "calling_code": ["36"],
+    "official_languages": ["hu"],
+    "lang_defacto": false
+  },
+  "ID": {
+    "tld": ".id",
+    "flag_emoji": "🇮🇩",
+    "calling_code": ["62"],
+    "official_languages": ["id"],
+    "lang_defacto": false
+  },
+  "IE": {
+    "tld": ".ie",
+    "flag_emoji": "🇮🇪",
+    "calling_code": ["353"],
+    "official_languages": ["ga", "en"],
+    "lang_defacto": false
+  },
+  "IL": {
+    "tld": ".il",
+    "flag_emoji": "🇮🇱",
+    "calling_code": ["972"],
+    "official_languages": ["he"],
+    "lang_defacto": false
+  },
+  "IM": {
+    "tld": ".im",
+    "flag_emoji": "🇮🇲",
+    "calling_code": ["44"],
+    "official_languages": ["en", "gv"],
+    "lang_defacto": false
+  },
+  "IN": {
+    "tld": ".in",
+    "flag_emoji": "🇮🇳",
+    "calling_code": ["91"],
+    "official_languages": ["hi", "en"],
+    "lang_defacto": false
+  },
+  "IO": {
+    "tld": ".io",
+    "flag_emoji": "🇮🇴",
+    "calling_code": ["246"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "IQ": {
+    "tld": ".iq",
+    "flag_emoji": "🇮🇶",
+    "calling_code": ["964"],
+    "official_languages": ["ar", "ku"],
+    "lang_defacto": false
+  },
+  "IR": {
+    "tld": ".ir",
+    "flag_emoji": "🇮🇷",
+    "calling_code": ["98"],
+    "official_languages": ["fa"],
+    "lang_defacto": false
+  },
+  "IS": {
+    "tld": ".is",
+    "flag_emoji": "🇮🇸",
+    "calling_code": ["354"],
+    "official_languages": ["is"],
+    "lang_defacto": false
+  },
+  "IT": {
+    "tld": ".it",
+    "flag_emoji": "🇮🇹",
+    "calling_code": ["39"],
+    "official_languages": ["it"],
+    "lang_defacto": false
+  },
+  "JE": {
+    "tld": ".je",
+    "flag_emoji": "🇯🇪",
+    "calling_code": ["44"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": false
+  },
+  "JM": {
+    "tld": ".jm",
+    "flag_emoji": "🇯🇲",
+    "calling_code": ["1-876"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "JO": {
+    "tld": ".jo",
+    "flag_emoji": "🇯🇴",
+    "calling_code": ["962"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "JP": {
+    "tld": ".jp",
+    "flag_emoji": "🇯🇵",
+    "calling_code": ["81"],
+    "official_languages": ["ja"],
+    "lang_defacto": true
+  },
+  "KE": {
+    "tld": ".ke",
+    "flag_emoji": "🇰🇪",
+    "calling_code": ["254"],
+    "official_languages": ["en", "sw"],
+    "lang_defacto": false
+  },
+  "KG": {
+    "tld": ".kg",
+    "flag_emoji": "🇰🇬",
+    "calling_code": ["996"],
+    "official_languages": ["ky", "ru"],
+    "lang_defacto": false
+  },
+  "KH": {
+    "tld": ".kh",
+    "flag_emoji": "🇰🇭",
+    "calling_code": ["855"],
+    "official_languages": ["km"],
+    "lang_defacto": false
+  },
+  "KI": {
+    "tld": ".ki",
+    "flag_emoji": "🇰🇮",
+    "calling_code": ["686"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "KM": {
+    "tld": ".km",
+    "flag_emoji": "🇰🇲",
+    "calling_code": ["269"],
+    "official_languages": ["ar", "fr"],
+    "lang_defacto": false
+  },
+  "KN": {
+    "tld": ".kn",
+    "flag_emoji": "🇰🇳",
+    "calling_code": ["1-869"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "KP": {
+    "tld": ".kp",
+    "flag_emoji": "🇰🇵",
+    "calling_code": ["850"],
+    "official_languages": ["ko"],
+    "lang_defacto": false
+  },
+  "KR": {
+    "tld": ".kr",
+    "flag_emoji": "🇰🇷",
+    "calling_code": ["82"],
+    "official_languages": ["ko"],
+    "lang_defacto": false
+  },
+  "KW": {
+    "tld": ".kw",
+    "flag_emoji": "🇰🇼",
+    "calling_code": ["965"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "KY": {
+    "tld": ".ky",
+    "flag_emoji": "🇰🇾",
+    "calling_code": ["1-345"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "KZ": {
+    "tld": ".kz",
+    "flag_emoji": "🇰🇿",
+    "calling_code": ["7"],
+    "official_languages": ["kk", "ru"],
+    "lang_defacto": false
+  },
+  "LA": {
+    "tld": ".la",
+    "flag_emoji": "🇱🇦",
+    "calling_code": ["856"],
+    "official_languages": ["lo"],
+    "lang_defacto": false
+  },
+  "LB": {
+    "tld": ".lb",
+    "flag_emoji": "🇱🇧",
+    "calling_code": ["961"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "LC": {
+    "tld": ".lc",
+    "flag_emoji": "🇱🇨",
+    "calling_code": ["1-758"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "LI": {
+    "tld": ".li",
+    "flag_emoji": "🇱🇮",
+    "calling_code": ["423"],
+    "official_languages": ["de"],
+    "lang_defacto": false
+  },
+  "LK": {
+    "tld": ".lk",
+    "flag_emoji": "🇱🇰",
+    "calling_code": ["94"],
+    "official_languages": ["si", "ta"],
+    "lang_defacto": false
+  },
+  "LR": {
+    "tld": ".lr",
+    "flag_emoji": "🇱🇷",
+    "calling_code": ["231"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "LS": {
+    "tld": ".ls",
+    "flag_emoji": "🇱🇸",
+    "calling_code": ["266"],
+    "official_languages": ["st", "en"],
+    "lang_defacto": false
+  },
+  "LT": {
+    "tld": ".lt",
+    "flag_emoji": "🇱🇹",
+    "calling_code": ["370"],
+    "official_languages": ["lt"],
+    "lang_defacto": false
+  },
+  "LU": {
+    "tld": ".lu",
+    "flag_emoji": "🇱🇺",
+    "calling_code": ["352"],
+    "official_languages": ["fr", "de", "lb"],
+    "lang_defacto": false
+  },
+  "LV": {
+    "tld": ".lv",
+    "flag_emoji": "🇱🇻",
+    "calling_code": ["371"],
+    "official_languages": ["lv"],
+    "lang_defacto": false
+  },
+  "LY": {
+    "tld": ".ly",
+    "flag_emoji": "🇱🇾",
+    "calling_code": ["218"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "MA": {
+    "tld": ".ma",
+    "flag_emoji": "🇲🇦",
+    "calling_code": ["212"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "MC": {
+    "tld": ".mc",
+    "flag_emoji": "🇲🇨",
+    "calling_code": ["377"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "MD": {
+    "tld": ".md",
+    "flag_emoji": "🇲🇩",
+    "calling_code": ["373"],
+    "official_languages": ["ro"],
+    "lang_defacto": false
+  },
+  "ME": {
+    "tld": ".me",
+    "flag_emoji": "🇲🇪",
+    "calling_code": ["382"],
+    "official_languages": ["sr"],
+    "lang_defacto": true
+  },
+  "MF": {
+    "tld": ".mf",
+    "flag_emoji": "🇲🇫",
+    "calling_code": ["590"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "MG": {
+    "tld": ".mg",
+    "flag_emoji": "🇲🇬",
+    "calling_code": ["261"],
+    "official_languages": ["fr", "mg"],
+    "lang_defacto": false
+  },
+  "MH": {
+    "tld": ".mh",
+    "flag_emoji": "🇲🇭",
+    "calling_code": ["692"],
+    "official_languages": ["en", "mh"],
+    "lang_defacto": false
+  },
+  "MK": {
+    "tld": ".mk",
+    "flag_emoji": "🇲🇰",
+    "calling_code": ["389"],
+    "official_languages": ["mk", "sq"],
+    "lang_defacto": false
+  },
+  "ML": {
+    "tld": ".ml",
+    "flag_emoji": "🇲🇱",
+    "calling_code": ["223"],
+    "official_languages": ["bm", "ff"],
+    "lang_defacto": false
+  },
+  "MM": {
+    "tld": ".mm",
+    "flag_emoji": "🇲🇲",
+    "calling_code": ["95"],
+    "official_languages": ["my"],
+    "lang_defacto": false
+  },
+  "MN": {
+    "tld": ".mn",
+    "flag_emoji": "🇲🇳",
+    "calling_code": ["976"],
+    "official_languages": ["mn"],
+    "lang_defacto": false
+  },
+  "MO": {
+    "tld": ".mo",
+    "flag_emoji": "🇲🇴",
+    "calling_code": ["853"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "MP": {
+    "tld": ".mp",
+    "flag_emoji": "🇲🇵",
+    "calling_code": ["1-670"],
+    "official_languages": ["en", "ch"],
+    "lang_defacto": false
+  },
+  "MQ": {
+    "tld": ".mq",
+    "flag_emoji": "🇲🇶",
+    "calling_code": ["596"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "MR": {
+    "tld": ".mr",
+    "flag_emoji": "🇲🇷",
+    "calling_code": ["222"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "MS": {
+    "tld": ".ms",
+    "flag_emoji": "🇲🇸",
+    "calling_code": ["1-664"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "MT": {
+    "tld": ".mt",
+    "flag_emoji": "🇲🇹",
+    "calling_code": ["356"],
+    "official_languages": ["mt", "en"],
+    "lang_defacto": false
+  },
+  "MU": {
+    "tld": ".mu",
+    "flag_emoji": "🇲🇺",
+    "calling_code": ["230"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": true
+  },
+  "MV": {
+    "tld": ".mv",
+    "flag_emoji": "🇲🇻",
+    "calling_code": ["960"],
+    "official_languages": ["dv"],
+    "lang_defacto": false
+  },
+  "MW": {
+    "tld": ".mw",
+    "flag_emoji": "🇲🇼",
+    "calling_code": ["265"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "MX": {
+    "tld": ".mx",
+    "flag_emoji": "🇲🇽",
+    "calling_code": ["52"],
+    "official_languages": ["es"],
+    "lang_defacto": true
+  },
+  "MY": {
+    "tld": ".my",
+    "flag_emoji": "🇲🇾",
+    "calling_code": ["60"],
+    "official_languages": ["ms"],
+    "lang_defacto": false
+  },
+  "MZ": {
+    "tld": ".mz",
+    "flag_emoji": "🇲🇿",
+    "calling_code": ["258"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "NA": {
+    "tld": ".na",
+    "flag_emoji": "🇳🇦",
+    "calling_code": ["264"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "NC": {
+    "tld": ".nc",
+    "flag_emoji": "🇳🇨",
+    "calling_code": ["687"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "NE": {
+    "tld": ".ne",
+    "flag_emoji": "🇳🇪",
+    "calling_code": ["227"],
+    "official_languages": ["ha"],
+    "lang_defacto": false
+  },
+  "NF": {
+    "tld": ".nf",
+    "flag_emoji": "🇳🇫",
+    "calling_code": ["672"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "NG": {
+    "tld": ".ng",
+    "flag_emoji": "🇳🇬",
+    "calling_code": ["234"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "NI": {
+    "tld": ".ni",
+    "flag_emoji": "🇳🇮",
+    "calling_code": ["505"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "NL": {
+    "tld": ".nl",
+    "flag_emoji": "🇳🇱",
+    "calling_code": ["31"],
+    "official_languages": ["nl"],
+    "lang_defacto": false
+  },
+  "NO": {
+    "tld": ".no",
+    "flag_emoji": "🇳🇴",
+    "calling_code": ["47"],
+    "official_languages": ["no", "se"],
+    "lang_defacto": false
+  },
+  "NP": {
+    "tld": ".np",
+    "flag_emoji": "🇳🇵",
+    "calling_code": ["977"],
+    "official_languages": ["ne"],
+    "lang_defacto": false
+  },
+  "NR": {
+    "tld": ".nr",
+    "flag_emoji": "🇳🇷",
+    "calling_code": ["674"],
+    "official_languages": ["en", "na"],
+    "lang_defacto": false
+  },
+  "NU": {
+    "tld": ".nu",
+    "flag_emoji": "🇳🇺",
+    "calling_code": ["683"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "NZ": {
+    "tld": ".nz",
+    "flag_emoji": "🇳🇿",
+    "calling_code": ["64"],
+    "official_languages": ["mi"],
+    "lang_defacto": false
+  },
+  "OM": {
+    "tld": ".om",
+    "flag_emoji": "🇴🇲",
+    "calling_code": ["968"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "PA": {
+    "tld": ".pa",
+    "flag_emoji": "🇵🇦",
+    "calling_code": ["507"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "PE": {
+    "tld": ".pe",
+    "flag_emoji": "🇵🇪",
+    "calling_code": ["51"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "PF": {
+    "tld": ".pf",
+    "flag_emoji": "🇵🇫",
+    "calling_code": ["689"],
+    "official_languages": ["fr", "ty"],
+    "lang_defacto": false
+  },
+  "PG": {
+    "tld": ".pg",
+    "flag_emoji": "🇵🇬",
+    "calling_code": ["675"],
+    "official_languages": ["en", "ho"],
+    "lang_defacto": false
+  },
+  "PH": {
+    "tld": ".ph",
+    "flag_emoji": "🇵🇭",
+    "calling_code": ["63"],
+    "official_languages": ["tl", "en"],
+    "lang_defacto": false
+  },
+  "PK": {
+    "tld": ".pk",
+    "flag_emoji": "🇵🇰",
+    "calling_code": ["92"],
+    "official_languages": ["ur", "en"],
+    "lang_defacto": false
+  },
+  "PL": {
+    "tld": ".pl",
+    "flag_emoji": "🇵🇱",
+    "calling_code": ["48"],
+    "official_languages": ["pl"],
+    "lang_defacto": false
   },
   "PM": {
     "tld": ".pm",
     "flag_emoji": "🇵🇲",
-    "calling_code": ["508"]
+    "calling_code": ["508"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "PN": {
+    "tld": ".pn",
+    "flag_emoji": "🇵🇳",
+    "calling_code": ["870"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "PR": {
+    "tld": ".pr",
+    "flag_emoji": "🇵🇷",
+    "calling_code": ["1-787", "1-939"],
+    "official_languages": ["es", "en"],
+    "lang_defacto": false
+  },
+  "PS": {
+    "tld": ".ps",
+    "flag_emoji": "🇵🇸",
+    "calling_code": ["970", "972"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "PT": {
+    "tld": ".pt",
+    "flag_emoji": "🇵🇹",
+    "calling_code": ["351"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "PW": {
+    "tld": ".pw",
+    "flag_emoji": "🇵🇼",
+    "calling_code": ["680"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "PY": {
+    "tld": ".py",
+    "flag_emoji": "🇵🇾",
+    "calling_code": ["595"],
+    "official_languages": ["es", "gn"],
+    "lang_defacto": false
+  },
+  "QA": {
+    "tld": ".qa",
+    "flag_emoji": "🇶🇦",
+    "calling_code": ["974"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "RE": {
+    "tld": ".re",
+    "flag_emoji": "🇷🇪",
+    "calling_code": ["262"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "RO": {
+    "tld": ".ro",
+    "flag_emoji": "🇷🇴",
+    "calling_code": ["40"],
+    "official_languages": ["ro"],
+    "lang_defacto": false
   },
   "RS": {
     "tld": ".rs",
     "flag_emoji": "🇷🇸",
-    "calling_code": ["381"]
+    "calling_code": ["381"],
+    "official_languages": ["sr"],
+    "lang_defacto": false
   },
-  "SS": {
-    "tld": ".ss",
-    "flag_emoji": "🇸🇸",
-    "calling_code": ["211"]
+  "RU": {
+    "tld": ".ru",
+    "flag_emoji": "🇷🇺",
+    "calling_code": ["7"],
+    "official_languages": ["ru"],
+    "lang_defacto": false
   },
-  "ST": {
-    "tld": ".st",
-    "flag_emoji": "🇸🇹",
-    "calling_code": ["239"]
+  "RW": {
+    "tld": ".rw",
+    "flag_emoji": "🇷🇼",
+    "calling_code": ["250"],
+    "official_languages": ["en", "fr", "rw", "sw"],
+    "lang_defacto": false
   },
-  "SR": {
-    "tld": ".sr",
-    "flag_emoji": "🇸🇷",
-    "calling_code": ["597"]
+  "SA": {
+    "tld": ".sa",
+    "flag_emoji": "🇸🇦",
+    "calling_code": ["966"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
   },
-  "SK": {
-    "tld": ".sk",
-    "flag_emoji": "🇸🇰",
-    "calling_code": ["421"]
-  },
-  "SI": {
-    "tld": ".si",
-    "flag_emoji": "🇸🇮",
-    "calling_code": ["386"]
-  },
-  "SE": {
-    "tld": ".se",
-    "flag_emoji": "🇸🇪",
-    "calling_code": ["46"]
-  },
-  "SZ": {
-    "tld": ".sz",
-    "flag_emoji": "🇸🇿",
-    "calling_code": ["268"]
-  },
-  "SX": {
-    "tld": ".sx",
-    "flag_emoji": "🇸🇽",
-    "calling_code": ["1-721"]
+  "SB": {
+    "tld": ".sb",
+    "flag_emoji": "🇸🇧",
+    "calling_code": ["677"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "SC": {
     "tld": ".sc",
     "flag_emoji": "🇸🇨",
-    "calling_code": ["248"]
+    "calling_code": ["248"],
+    "official_languages": ["en", "fr"],
+    "lang_defacto": false
+  },
+  "SD": {
+    "tld": ".sd",
+    "flag_emoji": "🇸🇩",
+    "calling_code": ["249"],
+    "official_languages": ["ar", "en"],
+    "lang_defacto": false
+  },
+  "SE": {
+    "tld": ".se",
+    "flag_emoji": "🇸🇪",
+    "calling_code": ["46"],
+    "official_languages": ["sv"],
+    "lang_defacto": false
+  },
+  "SG": {
+    "tld": ".sg",
+    "flag_emoji": "🇸🇬",
+    "calling_code": ["65"],
+    "official_languages": ["en", "ms", "zh", "ta"],
+    "lang_defacto": false
+  },
+  "SH": {
+    "tld": ".sh",
+    "flag_emoji": "🇸🇭",
+    "calling_code": ["290"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "SI": {
+    "tld": ".si",
+    "flag_emoji": "🇸🇮",
+    "calling_code": ["386"],
+    "official_languages": ["sl"],
+    "lang_defacto": false
+  },
+  "SJ": {
+    "tld": ".sj",
+    "flag_emoji": "🇸🇯",
+    "calling_code": ["47"],
+    "official_languages": ["no"],
+    "lang_defacto": false
+  },
+  "SK": {
+    "tld": ".sk",
+    "flag_emoji": "🇸🇰",
+    "calling_code": ["421"],
+    "official_languages": ["sk"],
+    "lang_defacto": false
+  },
+  "SL": {
+    "tld": ".sl",
+    "flag_emoji": "🇸🇱",
+    "calling_code": ["232"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "SM": {
+    "tld": ".sm",
+    "flag_emoji": "🇸🇲",
+    "calling_code": ["378"],
+    "official_languages": ["it"],
+    "lang_defacto": false
+  },
+  "SN": {
+    "tld": ".sn",
+    "flag_emoji": "🇸🇳",
+    "calling_code": ["221"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
+  },
+  "SO": {
+    "tld": ".so",
+    "flag_emoji": "🇸🇴",
+    "calling_code": ["252"],
+    "official_languages": ["so", "ar"],
+    "lang_defacto": false
+  },
+  "SR": {
+    "tld": ".sr",
+    "flag_emoji": "🇸🇷",
+    "calling_code": ["597"],
+    "official_languages": ["nl"],
+    "lang_defacto": false
+  },
+  "SS": {
+    "tld": ".ss",
+    "flag_emoji": "🇸🇸",
+    "calling_code": ["211"],
+    "official_languages": ["en"],
+    "lang_defacto": false
+  },
+  "ST": {
+    "tld": ".st",
+    "flag_emoji": "🇸🇹",
+    "calling_code": ["239"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
+  },
+  "SV": {
+    "tld": ".sv",
+    "flag_emoji": "🇸🇻",
+    "calling_code": ["503"],
+    "official_languages": ["es"],
+    "lang_defacto": false
+  },
+  "SX": {
+    "tld": ".sx",
+    "flag_emoji": "🇸🇽",
+    "calling_code": ["1-721"],
+    "official_languages": ["nl", "en"],
+    "lang_defacto": false
   },
   "SY": {
     "tld": ".sy",
     "flag_emoji": "🇸🇾",
-    "calling_code": ["963"]
+    "calling_code": ["963"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "SZ": {
+    "tld": ".sz",
+    "flag_emoji": "🇸🇿",
+    "calling_code": ["268"],
+    "official_languages": ["en", "ss"],
+    "lang_defacto": false
   },
   "TC": {
     "tld": ".tc",
     "flag_emoji": "🇹🇨",
-    "calling_code": ["1-649"]
+    "calling_code": ["1-649"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "TD": {
     "tld": ".td",
     "flag_emoji": "🇹🇩",
-    "calling_code": ["235"]
+    "calling_code": ["235"],
+    "official_languages": ["ar", "fr"],
+    "lang_defacto": false
+  },
+  "TF": {
+    "tld": ".tf",
+    "flag_emoji": "🇹🇫",
+    "calling_code": [],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "TG": {
     "tld": ".tg",
     "flag_emoji": "🇹🇬",
-    "calling_code": ["228"]
+    "calling_code": ["228"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "TH": {
     "tld": ".th",
     "flag_emoji": "🇹🇭",
-    "calling_code": ["66"]
+    "calling_code": ["66"],
+    "official_languages": ["th"],
+    "lang_defacto": false
   },
   "TJ": {
     "tld": ".tj",
     "flag_emoji": "🇹🇯",
-    "calling_code": ["992"]
+    "calling_code": ["992"],
+    "official_languages": ["tg"],
+    "lang_defacto": false
   },
   "TK": {
     "tld": ".tk",
     "flag_emoji": "🇹🇰",
-    "calling_code": ["690"]
-  },
-  "TM": {
-    "tld": ".tm",
-    "flag_emoji": "🇹🇲",
-    "calling_code": ["993"]
+    "calling_code": ["690"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "TL": {
     "tld": ".tl",
     "flag_emoji": "🇹🇱",
-    "calling_code": ["670"]
+    "calling_code": ["670"],
+    "official_languages": ["pt"],
+    "lang_defacto": false
   },
-  "TO": {
-    "tld": ".to",
-    "flag_emoji": "🇹🇴",
-    "calling_code": ["676"]
-  },
-  "TT": {
-    "tld": ".tt",
-    "flag_emoji": "🇹🇹",
-    "calling_code": ["1-868"]
+  "TM": {
+    "tld": ".tm",
+    "flag_emoji": "🇹🇲",
+    "calling_code": ["993"],
+    "official_languages": ["tk"],
+    "lang_defacto": false
   },
   "TN": {
     "tld": ".tn",
     "flag_emoji": "🇹🇳",
-    "calling_code": ["216"]
+    "calling_code": ["216"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "TO": {
+    "tld": ".to",
+    "flag_emoji": "🇹🇴",
+    "calling_code": ["676"],
+    "official_languages": ["en", "to"],
+    "lang_defacto": false
   },
   "TR": {
     "tld": ".tr",
     "flag_emoji": "🇹🇷",
-    "calling_code": ["90"]
+    "calling_code": ["90"],
+    "official_languages": ["tr"],
+    "lang_defacto": false
+  },
+  "TT": {
+    "tld": ".tt",
+    "flag_emoji": "🇹🇹",
+    "calling_code": ["1-868"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "TV": {
     "tld": ".tv",
     "flag_emoji": "🇹🇻",
-    "calling_code": ["688"]
+    "calling_code": ["688"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "TW": {
     "tld": ".tw",
     "flag_emoji": "🇹🇼",
-    "calling_code": ["886"]
+    "calling_code": ["886"],
+    "official_languages": ["zh"],
+    "lang_defacto": true
   },
   "TZ": {
     "tld": ".tz",
     "flag_emoji": "🇹🇿",
-    "calling_code": ["255"]
-  },
-  "UG": {
-    "tld": ".ug",
-    "flag_emoji": "🇺🇬",
-    "calling_code": ["256"]
+    "calling_code": ["255"],
+    "official_languages": ["sw", "en"],
+    "lang_defacto": false
   },
   "UA": {
     "tld": ".ua",
     "flag_emoji": "🇺🇦",
-    "calling_code": ["380"]
+    "calling_code": ["380"],
+    "official_languages": ["uk"],
+    "lang_defacto": false
+  },
+  "UG": {
+    "tld": ".ug",
+    "flag_emoji": "🇺🇬",
+    "calling_code": ["256"],
+    "official_languages": ["en", "sw"],
+    "lang_defacto": false
   },
   "UM": {
     "tld": ".um",
     "flag_emoji": "🇺🇲",
-    "calling_code": ["1"]
-  },
-  "UY": {
-    "tld": ".uy",
-    "flag_emoji": "🇺🇾",
-    "calling_code": ["598"]
+    "calling_code": ["1"],
+    "official_languages": ["en"],
+    "lang_defacto": true
   },
   "US": {
     "tld": ".us",
     "flag_emoji": "🇺🇸",
-    "calling_code": ["1"]
+    "calling_code": ["1"],
+    "official_languages": ["en"],
+    "lang_defacto": true
+  },
+  "UY": {
+    "tld": ".uy",
+    "flag_emoji": "🇺🇾",
+    "calling_code": ["598"],
+    "official_languages": ["es"],
+    "lang_defacto": true
   },
   "UZ": {
     "tld": ".uz",
     "flag_emoji": "🇺🇿",
-    "calling_code": ["998"]
+    "calling_code": ["998"],
+    "official_languages": ["uz"],
+    "lang_defacto": false
   },
   "VA": {
     "tld": ".va",
     "flag_emoji": "🇻🇦",
-    "calling_code": ["39"]
+    "calling_code": ["39"],
+    "official_languages": ["it", "la"],
+    "lang_defacto": false
   },
   "VC": {
     "tld": ".vc",
     "flag_emoji": "🇻🇨",
-    "calling_code": ["1-784"]
+    "calling_code": ["1-784"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "VE": {
     "tld": ".ve",
     "flag_emoji": "🇻🇪",
-    "calling_code": ["58"]
+    "calling_code": ["58"],
+    "official_languages": ["es"],
+    "lang_defacto": false
   },
   "VG": {
     "tld": ".vg",
     "flag_emoji": "🇻🇬",
-    "calling_code": ["284"]
+    "calling_code": ["284"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "VI": {
     "tld": ".vi",
     "flag_emoji": "🇻🇮",
-    "calling_code": ["1-340"]
+    "calling_code": ["1-340"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "VN": {
     "tld": ".vn",
     "flag_emoji": "🇻🇳",
-    "calling_code": ["84"]
+    "calling_code": ["84"],
+    "official_languages": ["vi"],
+    "lang_defacto": false
   },
   "VU": {
     "tld": ".vu",
     "flag_emoji": "🇻🇺",
-    "calling_code": ["678"]
+    "calling_code": ["678"],
+    "official_languages": ["en", "fr", "bi"],
+    "lang_defacto": false
   },
   "WF": {
     "tld": ".wf",
     "flag_emoji": "🇼🇫",
-    "calling_code": ["681"]
+    "calling_code": ["681"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "WS": {
     "tld": ".ws",
     "flag_emoji": "🇼🇸",
-    "calling_code": ["685"]
+    "calling_code": ["685"],
+    "official_languages": ["en", "sm"],
+    "lang_defacto": false
   },
   "YE": {
     "tld": ".ye",
     "flag_emoji": "🇾🇪",
-    "calling_code": ["967"]
+    "calling_code": ["967"],
+    "official_languages": ["ar"],
+    "lang_defacto": false
+  },
+  "YT": {
+    "tld": ".yt",
+    "flag_emoji": "🇾🇹",
+    "calling_code": ["262"],
+    "official_languages": ["fr"],
+    "lang_defacto": false
   },
   "ZA": {
     "tld": ".za",
     "flag_emoji": "🇿🇦",
-    "calling_code": ["27"]
+    "calling_code": ["27"],
+    "official_languages": [
+      "af",
+      "en",
+      "nr",
+      "st",
+      "ss",
+      "ts",
+      "tn",
+      "ve",
+      "xh",
+      "zu",
+      "nd"
+    ],
+    "lang_defacto": false
   },
   "ZM": {
     "tld": ".zm",
     "flag_emoji": "🇿🇲",
-    "calling_code": ["260"]
+    "calling_code": ["260"],
+    "official_languages": ["en"],
+    "lang_defacto": false
   },
   "ZW": {
     "tld": ".zw",
     "flag_emoji": "🇿🇼",
-    "calling_code": ["263"]
+    "calling_code": ["263"],
+    "official_languages": [
+      "ny",
+      "en",
+      "sn",
+      "nd",
+      "st",
+      "tn",
+      "ts",
+      "ve",
+      "xh"
+    ],
+    "lang_defacto": false
   }
 }

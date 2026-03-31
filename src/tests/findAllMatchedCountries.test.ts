@@ -31,6 +31,8 @@ describe("findAllMatchedCountries() number based inputs", () => {
       demonym_male: "Ukrainian",
       demonym_female: "Ukrainian",
       gendered_demonym: false,
+      official_languages: ["uk"],
+      lang_defacto: false,
       tld: ".ua",
       flag_emoji: "🇺🇦",
       calling_code: ["380"],
@@ -61,5 +63,84 @@ describe("String based input tests for findAllMatchedCountries()", () => {
 
     expect(lookup.length).toBe(1);
     expect(lookup[0]?.english_clean).toBe("United Arab Emirates");
+  });
+
+  test("clean_english Congo, Democratic Republic of the gives back Congolese", () => {
+    const lookup = findAllMatchedCountries("Congo, Democratic Republic of the");
+
+    expect(lookup.length).toBe(1);
+    expect(lookup[0]?.demonym_male).toBe("Congolese");
+    expect(lookup[0]?.demonym_female).toBe("Congolese");
+  });
+
+  test("formal_order Kingdom of the Netherlands gives back entire country object", () => {
+    const lookup = findAllMatchedCountries("Kingdom of the Netherlands");
+
+    const netherlandsBaseData = {
+      common_reference: "Netherlands",
+      english_clean: "Netherlands, Kingdom of the",
+      formal_order: "Kingdom of the Netherlands",
+      alpha_2: "NL",
+      alpha_3: "NLD",
+      num_code: 528,
+      demonym_male: "Dutch",
+      demonym_female: "Dutch",
+      gendered_demonym: false,
+      official_languages: ["nl"],
+      lang_defacto: false,
+      tld: ".nl",
+      flag_emoji: "🇳🇱",
+      calling_code: ["31"],
+      continent: "Europe",
+    };
+
+    expect(lookup.length).toBe(1);
+    expect(lookup[0]).toMatchObject(netherlandsBaseData);
+  });
+
+  test("Congolese demonym search returns two instances", () => {
+    const lookup = findAllMatchedCountries("Congolese");
+
+    expect(lookup.length).toBe(2);
+    expect(lookup[0]?.num_code).toBe(180);
+    expect(lookup[0]?.demonym_male).toBe("Congolese");
+    expect(lookup[0]?.demonym_female).toBe("Congolese");
+
+    expect(lookup[1]?.num_code).toBe(178);
+    expect(lookup[1]?.demonym_male).toBe("Congolese");
+    expect(lookup[1]?.demonym_female).toBe("Congolese");
+  });
+
+  test("alpha_2 JP returns Japan", () => {
+    const lookup = findAllMatchedCountries("JP");
+
+    expect(lookup.length).toBe(1);
+    expect(lookup[0]?.common_reference).toBe("Japan");
+  });
+
+  test("alpha_3 SJM returns Svalbard and Jan Mayen", () => {
+    const lookup = findAllMatchedCountries("SJM");
+
+    expect(lookup.length).toBe(1);
+    expect(lookup[0]?.common_reference).toBe("Svalbard and Jan Mayen");
+  });
+
+  test("Mexico flag (🇲🇽) returns Mexico", () => {
+    const lookup = findAllMatchedCountries("🇲🇽");
+
+    expect(lookup.length).toBe(1);
+    expect(lookup[0]?.common_reference).toBe("Mexico");
+  });
+
+  test("Search for en language key gives many countries back", () => {
+    const lookup = findAllMatchedCountries("en");
+
+    expect(lookup.length).toBe(90);
+  });
+
+  test("TLD .za returns South Africa", () => {
+    const lookup = findAllMatchedCountries(".za");
+
+    expect(lookup[0]?.formal_order).toBe("South Africa");
   });
 });

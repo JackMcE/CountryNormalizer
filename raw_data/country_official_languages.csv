@@ -1,0 +1,206 @@
+country_name,alpha_2,official_languages,de_facto
+Afghanistan,AF,fa;ps,FALSE
+Albania,AL,sq,FALSE
+Algeria,DZ,ar,FALSE
+Andorra,AD,ca,FALSE
+Angola,AO,pt,FALSE
+Antigua and Barbuda,AG,en,TRUE
+Argentina,AR,es,TRUE
+Armenia,AM,hy,FALSE
+Australia,AU,en,TRUE
+Austria,AT,de,FALSE
+Azerbaijan,AZ,az,FALSE
+Bahamas,BS,en,FALSE
+Bahrain,BH,ar,FALSE
+Bangladesh,BD,bn,FALSE
+Barbados,BB,en,FALSE
+Belarus,BY,be;ru,FALSE
+Belgium,BE,nl;fr;de,FALSE
+Belize,BZ,en,FALSE
+Benin,BJ,fr,FALSE
+Bhutan,BT,dz,FALSE
+Bolivia,BO,es;ay;gn;qu,FALSE
+Bosnia and Herzegovina,BA,bs;hr;sr,TRUE
+Botswana,BW,en,FALSE
+Brazil,BR,pt,FALSE
+Brunei,BN,ms,FALSE
+Bulgaria,BG,bg,FALSE
+Burkina Faso,BF,ff,FALSE
+Burundi,BI,fr;rn;en,FALSE
+Cambodia,KH,km,FALSE
+Cameroon,CM,en;fr,FALSE
+Canada,CA,en;fr,FALSE
+Cape Verde,CV,pt,FALSE
+Central African Republic,CF,fr;sg,FALSE
+Chad,TD,ar;fr,FALSE
+Chile,CL,es,FALSE
+China,CN,zh,FALSE
+Christmas Island,CX,en;ms;zh,FALSE
+Cocos (Keeling) Islands,CC,en,FALSE
+Colombia,CO,es,FALSE
+Comoros,KM,ar;fr,FALSE
+Cook Islands,CK,en,FALSE
+Costa Rica,CR,es,FALSE
+Croatia,HR,hr,FALSE
+Cuba,CU,es,FALSE
+Cyprus,CY,el;tr,FALSE
+Czech Republic,CZ,cs,FALSE
+Democratic Republic of the Congo,CD,fr,FALSE
+Denmark,DK,da,FALSE
+Djibouti,DJ,ar;fr,FALSE
+Dominica,DM,en,FALSE
+Dominican Republic,DO,es,FALSE
+East Timor,TL,pt,FALSE
+Ecuador,EC,es,FALSE
+Egypt,EG,ar,FALSE
+El Salvador,SV,es,FALSE
+Equatorial Guinea,GQ,fr;pt;es,FALSE
+Eritrea,ER,ti,FALSE
+Estonia,EE,et,FALSE
+Eswatini,SZ,en;ss,FALSE
+Ethiopia,ET,aa;am;om;so;ti,FALSE
+Fiji,FJ,en;fj,FALSE
+Finland,FI,fi;sv,FALSE
+France,FR,fr,FALSE
+Gabon,GA,fr,FALSE
+Gambia,GM,en,FALSE
+Georgia,GE,ka,FALSE
+Germany,DE,de,FALSE
+Ghana,GH,en,FALSE
+Greece,GR,el,FALSE
+Grenada,GD,en,FALSE
+Guatemala,GT,es,FALSE
+Guinea,GN,fr,FALSE
+Guinea-Bissau,GW,pt,FALSE
+Guyana,GY,en,FALSE
+Haiti,HT,fr;ht,FALSE
+Honduras,HN,es,FALSE
+Hong Kong,HK,en,FALSE
+Hungary,HU,hu,FALSE
+Iceland,IS,is,FALSE
+India,IN,hi;en,FALSE
+Indonesia,ID,id,FALSE
+Iran,IR,fa,FALSE
+Iraq,IQ,ar;ku,FALSE
+Ireland,IE,ga;en,FALSE
+Israel,IL,he,FALSE
+Italy,IT,it,FALSE
+Ivory Coast,CI,fr,FALSE
+Jamaica,JM,en,FALSE
+Japan,JP,ja,TRUE
+Jordan,JO,ar,FALSE
+Kazakhstan,KZ,kk;ru,FALSE
+Kenya,KE,en;sw,FALSE
+Kiribati,KI,en,FALSE
+Kosovo,XK,sq;sr,FALSE
+Kuwait,KW,ar,FALSE
+Kyrgyzstan,KG,ky;ru,FALSE
+Laos,LA,lo,FALSE
+Latvia,LV,lv,FALSE
+Lebanon,LB,ar,FALSE
+Lesotho,LS,st;en,FALSE
+Liberia,LR,en,FALSE
+Libya,LY,ar,FALSE
+Liechtenstein,LI,de,FALSE
+Lithuania,LT,lt,FALSE
+Luxembourg,LU,fr;de;lb,FALSE
+Macau,MO,pt,FALSE
+Madagascar,MG,fr;mg,FALSE
+Malawi,MW,en,FALSE
+Malaysia,MY,ms,FALSE
+Maldives,MV,dv,FALSE
+Mali,ML,bm;ff,FALSE
+Malta,MT,mt;en,FALSE
+Marshall Islands,MH,en;mh,FALSE
+Mauritania,MR,ar,FALSE
+Mauritius,MU,en;fr,TRUE
+Mexico,MX,es,TRUE
+Micronesia,FM,en,FALSE
+Moldova,MD,ro,FALSE
+Monaco,MC,fr,FALSE
+Mongolia,MN,mn,FALSE
+Montenegro,ME,,FALSE
+Morocco,MA,ar,FALSE
+Mozambique,MZ,pt,FALSE
+Myanmar,MM,my,FALSE
+Namibia,NA,en,FALSE
+Nauru,NR,en;na,FALSE
+Nepal,NP,ne,FALSE
+Netherlands,NL,nl,FALSE
+New Zealand,NZ,mi,FALSE
+Nicaragua,NI,es,FALSE
+Niger,NE,ha,FALSE
+Nigeria,NG,en,FALSE
+Niue,NU,en,FALSE
+Norfolk Island,NF,en,FALSE
+North Korea,KP,ko,FALSE
+North Macedonia,MK,mk;sq,FALSE
+Norway,NO,no;se,FALSE
+Oman,OM,ar,FALSE
+Pakistan,PK,ur;en,FALSE
+Palau,PW,en,FALSE
+Palestine,PS,ar,FALSE
+Panama,PA,es,FALSE
+Papua New Guinea,PG,en;ho,FALSE
+Paraguay,PY,es;gn,FALSE
+Peru,PE,es,FALSE
+Philippines,PH,tl;en,FALSE
+Poland,PL,pl,FALSE
+Portugal,PT,pt,FALSE
+Qatar,QA,ar,FALSE
+Republic of the Congo,CG,fr,FALSE
+Romania,RO,ro,FALSE
+Russia,RU,ru,FALSE
+Rwanda,RW,en;fr;rw;sw,FALSE
+Saint Kitts and Nevis,KN,en,FALSE
+Saint Lucia,LC,en,FALSE
+Saint Vincent and the Grenadines,VC,en,FALSE
+Samoa,WS,en;sm,FALSE
+San Marino,SM,it,FALSE
+Sao Tome and Principe,ST,pt,FALSE
+Saudi Arabia,SA,ar,FALSE
+Senegal,SN,fr,FALSE
+Serbia,RS,sr,FALSE
+Seychelles,SC,en;fr,FALSE
+Sierra Leone,SL,en,FALSE
+Singapore,SG,en;ms;zh;ta,FALSE
+Slovakia,SK,sk,FALSE
+Slovenia,SI,sl,FALSE
+Solomon Islands,SB,en,FALSE
+Somalia,SO,so;ar,FALSE
+South Africa,ZA,af;en;nr;st;ss;ts;tn;ve;xh;zu;nd,FALSE
+South Korea,KR,ko,FALSE
+South Sudan,SS,en,FALSE
+Spain,ES,es,FALSE
+Sri Lanka,LK,si;ta,FALSE
+Sudan,SD,ar;en,FALSE
+Suriname,SR,nl,FALSE
+Sweden,SE,sv,FALSE
+Switzerland,CH,fr;de;it;rm,FALSE
+Syria,SY,ar,FALSE
+Taiwan,TW,zh,TRUE
+Tajikistan,TJ,tg,FALSE
+Tanzania,TZ,sw;en,FALSE
+Thailand,TH,th,FALSE
+Togo,TG,fr,FALSE
+Tokelau,TK,en,FALSE
+Tonga,TO,en;to,FALSE
+Trinidad and Tobago,TT,en,FALSE
+Tunisia,TN,ar,FALSE
+Turkey,TR,tr,FALSE
+Turkmenistan,TM,tk,FALSE
+Tuvalu,TV,en,FALSE
+Uganda,UG,en;sw,FALSE
+Ukraine,UA,uk,FALSE
+United Arab Emirates,AE,ar,FALSE
+United Kingdom,GB,en,TRUE
+United States,US,en,TRUE
+Uruguay,UY,es,TRUE
+Uzbekistan,UZ,uz,FALSE
+Vanuatu,VU,en;fr;bi,FALSE
+Vatican City,VA,it;la,FALSE
+Venezuela,VE,es,FALSE
+Vietnam,VN,vi,FALSE
+Yemen,YE,ar,FALSE
+Zambia,ZM,en,FALSE
+Zimbabwe,ZW,ny;en;sn;nd;st;tn;ts;ve;xh,FALSE

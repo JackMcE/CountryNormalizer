@@ -1,0 +1,46 @@
+country_name,alpha_2,official_languages,de_facto,parent_country
+American Samoa,AS,en;sm,FALSE,United States
+Anguilla,AI,en,FALSE,United Kingdom
+Antarctica,AQ,,FALSE,N/A
+Aruba,AW,nl,FALSE,Netherlands
+Bermuda,BM,en,FALSE,United Kingdom
+"Bonaire, Sint Eustatius and Saba",BQ,nl;en,FALSE,Netherlands
+Bouvet Island,BV,no,FALSE,Norway
+British Indian Ocean Territory,IO,en,FALSE,United Kingdom
+British Virgin Islands,VG,en,FALSE,United Kingdom
+Cayman Islands,KY,en,FALSE,United Kingdom
+Curaçao,CW,nl;en,FALSE,Netherlands
+Falkland Islands,FK,en,FALSE,United Kingdom
+Faroe Islands,FO,fo;da,FALSE,Denmark
+French Guiana,GF,fr,FALSE,France
+French Polynesia,PF,fr;ty,FALSE,France
+French Southern Territories,TF,fr,FALSE,France
+Gibraltar,GI,en,FALSE,United Kingdom
+Greenland,GL,kl,FALSE,Denmark
+Guadeloupe,GP,fr,FALSE,France
+Guam,GU,en;ch,FALSE,United States
+Guernsey,GG,en;fr,FALSE,United Kingdom
+Heard Island and McDonald Islands,HM,en,TRUE,Australia
+Isle of Man,IM,en;gv,FALSE,United Kingdom
+Jersey,JE,en;fr,FALSE,United Kingdom
+Martinique,MQ,fr,FALSE,France
+Mayotte,YT,fr,FALSE,France
+Montserrat,MS,en,FALSE,United Kingdom
+New Caledonia,NC,fr,FALSE,France
+Northern Mariana Islands,MP,en;ch,FALSE,United States
+Pitcairn Islands,PN,en,FALSE,United Kingdom
+Puerto Rico,PR,es;en,FALSE,United States
+Réunion,RE,fr,FALSE,France
+Saint Barthélemy,BL,fr,FALSE,France
+"Saint Helena, Ascension and Tristan da Cunha",SH,en,FALSE,United Kingdom
+Saint Martin (French part),MF,fr,FALSE,France
+Saint Pierre and Miquelon,PM,fr,FALSE,France
+Sint Maarten,SX,nl;en,FALSE,Netherlands
+South Georgia and the South Sandwich Islands,GS,en,FALSE,United Kingdom
+Svalbard and Jan Mayen,SJ,no,FALSE,Norway
+Turks and Caicos Islands,TC,en,FALSE,United Kingdom
+United States Minor Outlying Islands,UM,en,TRUE,United States
+United States Virgin Islands,VI,en,FALSE,United States
+Wallis and Futuna,WF,fr,FALSE,France
+Western Sahara,EH,ar,TRUE,Disputed
+Åland Islands,AX,sv,FALSE,Finland

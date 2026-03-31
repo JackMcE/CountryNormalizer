@@ -8,6 +8,8 @@ export interface AllCountryFields {
   demonym_male: string;
   demonym_female: string;
   gendered_demonym: boolean;
+  official_languages: string[];
+  lang_defacto: boolean;
   tld: string;
   flag_emoji: string;
   calling_code: string[];
@@ -16,7 +18,7 @@ export interface AllCountryFields {
 
 export type ContactCountryFields = Pick<
   AllCountryFields,
-  "tld" | "flag_emoji" | "calling_code"
+  "tld" | "flag_emoji" | "calling_code" | "official_languages" | "lang_defacto"
 >;
 
 export enum ContinentNames {

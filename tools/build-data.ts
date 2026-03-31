@@ -24,6 +24,8 @@ const VALID_FIELDS = [
   "demonym_male",
   "demonym_female",
   "gendered_demonym",
+  "official_languages",
+  "lang_defacto",
   "tld",
   "flag_emoji",
   "calling_code",
@@ -73,6 +75,17 @@ const getValidatedAndFormattedRaw = async (): Promise<AllCountryFields[]> => {
     country.calling_code =
       country.calling_code === "FALSE" ? [] : country.calling_code.split(",");
 
+    // Checking for 0 effectively handles Antarctica. Which gets a de facto language of English.
+    country.official_languages =
+      country.official_languages.length === 0
+        ? ["en"]
+        : country.official_languages.split(";");
+
+    country.lang_defacto =
+      country.lang_defacto.toLowerCase() === "true" || country.alpha_2 === "AQ"
+        ? true
+        : false;
+
     country.num_code = Number(country.num_code);
   }
 
@@ -102,7 +115,13 @@ const writeContactFieldsOnly = async (
 ): Promise<void> => {
   const isoFlagMap = allData.reduce(
     (acc, country) => {
-      const pickedFields = pick(country, ["tld", "flag_emoji", "calling_code"]);
+      const pickedFields = pick(country, [
+        "tld",
+        "flag_emoji",
+        "calling_code",
+        "official_languages",
+        "lang_defacto",
+      ]);
 
       acc[country.alpha_2] = pickedFields;
 

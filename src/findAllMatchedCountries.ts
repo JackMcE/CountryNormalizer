@@ -2,6 +2,7 @@ import allCountriesData from "../data/complete.json";
 import type { AllCountryFields } from "../types/core";
 import { hasMatchingCallingCode } from "./utils/callingCodesValidator";
 import { matchesCleanedDomain } from "./utils/domainValidator";
+import { hasMatchingLanguage } from "./utils/languageValidator";
 
 const allCountries = allCountriesData as AllCountryFields[];
 
@@ -50,6 +51,7 @@ export const findAllMatchedCountries = (
       flag_emoji,
       calling_code,
       continent,
+      official_languages,
     } = country;
 
     // Check if the needle is a number and then if it matches the number code.
@@ -120,6 +122,13 @@ export const findAllMatchedCountries = (
 
     // Check if the input string meets the format and matches any TLDs or not.
     if (matchesCleanedDomain(forgedNeedle, tld)) {
+      matchedCountries.push(country);
+
+      continue;
+    }
+
+    // Checks if the input needle matches any of the countries official languages.
+    if (hasMatchingLanguage(forgedNeedle, official_languages)) {
       matchedCountries.push(country);
 
       continue;
